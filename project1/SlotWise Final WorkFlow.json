@@ -1,0 +1,265 @@
+{
+  "name": "SlotWise Final WorkFlow",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "Slotwise-Booking",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "20acef24-e5f5-421a-8f03-22423374255a",
+      "name": "Webhook",
+      "webhookId": "8a0ab038-6bca-41e0-83e9-7822b2d34990"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $json.body.message }}",
+        "options": {
+          "systemMessage": "You are SlotWise, a friendly booking assistant.\n\nHelp users book a restaurant table or salon/parlour appointment.\n\nBooking flow:\n1. Greet the user and ask whether they want to make a booking or ask a question.\n2. Ask what service/type they want.\n3. Ask for their preferred date and time.\n4. Offer 2–3 mock available time slots.\n5. Ask them to choose one.\n6. Confirm the booking with a short summary containing service, date, and time.\n7. If the user asks something outside the booking flow, such as a complaint, price negotiation, or something you cannot handle, reply: \"Let me connect you with our team.\"\n\nKeep replies short, natural, and conversational.\nWhen a booking is confirmed, end your response with exactly this format:\nBOOKING_DATA\nUsername: [username]\nService: [service]\nDate: [date]\nTime: [time]\nEND_BOOKING_DATA"
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3.1,
+      "position": [
+        208,
+        0
+      ],
+      "id": "f77390ec-31c2-4095-9801-c2abe4396f3c",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "modelName": "models/gemini-3.6-flash",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
+      "typeVersion": 1.1,
+      "position": [
+        80,
+        208
+      ],
+      "id": "17f8bb37-7fd1-47cf-bdf8-31b9470ec412",
+      "name": "Google Gemini Chat Model",
+      "credentials": {
+        "googlePalmApi": {
+          "id": "11NbRPJJH4sb3N1v",
+          "name": "Google Gemini(PaLM) Api account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "https://docs.google.com/spreadsheets/d/1Q6PbI9MUe5GqO1vlvRxIPg-Y5YvzPHxCLRNT1aBi37Q/edit?hl=id&gid=0#gid=0",
+          "mode": "url"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "Sheet1",
+          "mode": "name"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "Username": "={{ $json.Username }}",
+            "Service": "={{ $json.Service }}",
+            "Date": "={{ $json.Date }}",
+            "Time": "={{ $json.Time }}"
+          },
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "Username",
+              "displayName": "Username",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Service",
+              "displayName": "Service",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Date",
+              "displayName": "Date",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Time",
+              "displayName": "Time",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        560,
+        0
+      ],
+      "id": "0abff8e0-0931-434b-bc3d-75e206c40d53",
+      "name": "Append row in sheet",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "IIb7nH4LoKQyWA4G",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "sessionIdType": "customKey",
+        "sessionKey": "slotwise-session"
+      },
+      "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
+      "typeVersion": 1.4,
+      "position": [
+        224,
+        208
+      ],
+      "id": "ea48e18b-8930-4619-ab59-3b24db358e83",
+      "name": "Simple Memory"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "738ecdae-1fd8-4849-988f-de6854f9970c",
+              "name": "Username",
+              "value": "={{ $json.output.match(/Username:\\s*(.*)/)?.[1] }}",
+              "type": "string"
+            },
+            {
+              "id": "04405f2f-c62d-42b3-ab3b-8415df1d35ab",
+              "name": "Service",
+              "value": "={{ $json.output.match(/Service:\\s*(.*)/)?.[1] }}",
+              "type": "string"
+            },
+            {
+              "id": "6bb0369b-2234-47e2-9b06-21863178177f",
+              "name": "Date",
+              "value": "={{ $json.output.match(/Date:\\s*(.*)/)?.[1] }}",
+              "type": "string"
+            },
+            {
+              "id": "391bca09-7225-49d7-878b-cf043488fd01",
+              "name": "Time",
+              "value": "={{ $json.output.match(/Time:\\s*(.*)/)?.[1] }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        704,
+        144
+      ],
+      "id": "abe6d2cf-2315-4d11-a9b4-c1fa0f01538c",
+      "name": "Edit Fields"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Gemini Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Agent": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Simple Memory": {
+      "ai_memory": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_memory",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "Append row in sheet",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false
+  },
+  "versionId": "a7927e56-040e-4756-97ae-607f34eb3c30",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "b81a58c7e657a8e330dcff0e2c5cf9c04d94715934968b05bac17ecae3c9d31d"
+  },
+  "nodeGroups": [],
+  "id": "7nDV0XLbei4NB6Pn",
+  "tags": []
+}
