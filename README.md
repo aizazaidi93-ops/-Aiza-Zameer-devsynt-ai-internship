@@ -8,24 +8,35 @@ Name: Aiza Zameer
 
 This repository contains my weekly tasks, workflows, and project progress completed during the DevSynt AI Automation Internship – Summer 2026.
 
-Task 2 : WhatsApp Bot Phase 1
+PROJECT 1:
+# SlotWise Discord Booking Assistant Bot
+SlotWise is an AI-powered Discord bot that helps users book restaurant tables and salon/parlour appointments through natural conversation. It uses n8n for workflow automation, Google Gemini for AI responses, and Google Sheets for storing booking data.
 
-Niche
+# How It Works
+1. A lightweight Node.js relay bot listens for messages in Discord.
+2. Messages are forwarded to an n8n webhook.
+3. An AI Agent (powered by Google Gemini) processes the message and generates a conversational response.
+4. Booking details (Username, Service, Date, Time) are extracted and saved to a Google Sheet.
+5. The AI-generated reply is sent back to the user in Discord.
 
-CarePlus Clinic
+#Tech Stack
+- Node.js + discord.js — Discord message relay
+- n8n — workflow automation
+- Google Gemini API — AI response generation
+- Google Sheets API — booking data storage
+- Discord API — bot messaging
+  
+#Setup
+1. **Discord Bot**: Create an application in the Discord Developer Portal, enable Message Content Intent, get the Bot Token, and invite the bot to your server.
+2. **Relay Bot**: Clone the repo, run `npm install`, add your `N8N_WEBHOOK_URL` and `BOT_TOKEN` in `index.js`, then run `node index.js`.
+3. **n8n Workflow**: Set up a Webhook node → AI Agent (Google Gemini + Simple Memory) → Edit Fields (extracts booking data) → Google Sheets (logs booking) → Discord node (sends reply). Activate/publish the workflow.
 
-Human Handoff
+#Features
+- Natural language booking for restaurants and salons
+- AI-powered conversational responses
+- Automatic booking data logging to Google Sheets
+- Real-time reply within Discord channels
 
-Human handoff is important because the bot should not improvise when a customer asks a medical or health-related question, makes a complaint, negotiates pricing, or asks something outside the defined flow. These cases are escalated to a human for an appropriate response.
-
-Bilingual Behavior
-
-The bot supports English and Arabic. It detects the language of each user message and responds in the same language. If the user switches between English and Arabic during the conversation, the bot detects the change and responds in the new language.
-
-WhatsApp Webhook
-
-The WhatsApp Cloud API test environment was connected to n8n through a webhook. A test message was successfully sent from Meta and received in the n8n workflow execution data.
-
-Security Note
-
-Meta access tokens and webhook verification tokens are not committed to GitHub. These values should be added securely through n8n credentials or configuration.
+ #Notes
+- The relay bot must stay running for the workflow to receive Discord messages.
+- The n8n workflow must remain Published.
