@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LangChain & LangGraph Fundamentals</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="hero">
+        <div class="container">
+            <p class="tag">DevSynt AI Automation Internship • Project 2</p>
+            <h1>LangChain & LangGraph Fundamentals</h1>
+            <p class="subtitle">
+                My learning showcase on chains, prompts, memory, tool-calling,
+                graphs, and orchestrator agents.
+            </p>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <section class="card">
+            <span class="number">01</span>
+            <h2>What is LangChain?</h2>
+            <p>
+                LangChain provides reusable building blocks for working with
+                Large Language Models. Instead of writing every API interaction
+                from scratch, developers can use components such as prompt
+                templates, chains, and LLM wrappers.
+            </p>
+
+            <div class="flow">
+                <div>Prompt Template</div>
+                <span>→</span>
+                <div>LLM</div>
+                <span>→</span>
+                <div>Output</div>
+            </div>
+
+            <h3>Chain vs Raw API Call</h3>
+            <p>
+                A raw API call usually sends a prompt directly to an LLM and
+                receives raw text. A LangChain chain connects reusable
+                components into a repeatable process.
+            </p>
+        </section>
+
+        <section class="card">
+            <span class="number">02</span>
+            <h2>Prompt Templates & Output Parsers</h2>
+
+            <h3>Prompt Template</h3>
+            <p>
+                A prompt template is a reusable prompt containing variables.
+                The same template can be used with different values.
+            </p>
+
+            <div class="code-box">
+                <code>
+                    PromptTemplate(<br>
+                    &nbsp;&nbsp;template="Explain {topic} simply."<br>
+                    )
+                </code>
+            </div>
+
+            <h3>Output Parser</h3>
+            <p>
+                An output parser helps turn an LLM's free-form response into a
+                predictable structure that application code can work with.
+                JSON is one common structured format.
+            </p>
+
+            <div class="comparison">
+                <div>
+                    <h4>Plain Output</h4>
+                    <p>Free-flowing text</p>
+                </div>
+
+                <div>
+                    <h4>Structured Output</h4>
+                    <p>Specific fields and predictable format</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="card">
+            <span class="number">03</span>
+            <h2>Memory & Tool Calling</h2>
+
+            <div class="two-column">
+                <div class="mini-card">
+                    <h3>🧠 Memory</h3>
+                    <p>
+                        Memory means keeping track of previous conversation
+                        messages so an application can use earlier context in
+                        later interactions.
+                    </p>
+                </div>
+
+                <div class="mini-card">
+                    <h3>🛠️ Tool Calling</h3>
+                    <p>
+                        Tool-calling allows an LLM to choose functions such as
+                        a calculator, search function, or database lookup when
+                        additional information or action is needed.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="card">
+            <span class="number">04</span>
+            <h2>What is LangGraph?</h2>
+
+            <p>
+                LangGraph is used to build decision-making systems as graphs.
+                Unlike a simple fixed sequence, an agent can decide what to do
+                next, choose between paths, or repeat a step.
+            </p>
+
+            <div class="chain-agent">
+                <div>
+                    <h3>Chain</h3>
+                    <p>Fixed sequence of steps.</p>
+                </div>
+
+                <div class="vs">VS</div>
+
+                <div>
+                    <h3>Agent</h3>
+                    <p>Can decide what to do next.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="card">
+            <span class="number">05</span>
+            <h2>Core LangGraph Concepts</h2>
+
+            <div class="concept-grid">
+                <div class="concept">
+                    <h3>Node</h3>
+                    <p>A step or unit of work in the graph.</p>
+                </div>
+
+                <div class="concept">
+                    <h3>Edge</h3>
+                    <p>A connection showing what happens next.</p>
+                </div>
+
+                <div class="concept">
+                    <h3>State</h3>
+                    <p>Data that is passed along and updated through the graph.</p>
+                </div>
+
+                <div class="concept">
+                    <h3>Conditional Edge</h3>
+                    <p>A decision point that determines the next path.</p>
+                </div>
+            </div>
+
+            <div class="graph">
+                <div class="node">Check Order</div>
+                <span>→</span>
+
+                <div class="decision">
+                    <div class="node">Decision</div>
+                </div>
+
+                <div class="paths">
+                    <div>
+                        <span>↙</span>
+                        <div class="node success">In Stock</div>
+                    </div>
+
+                    <div>
+                        <span>↘</span>
+                        <div class="node warning">Out of Stock</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="card">
+            <span class="number">06</span>
+            <h2>Orchestrator Agents</h2>
+
+            <p>
+                An orchestrator agent receives a task, determines what needs
+                to happen, and routes the task to the appropriate specialized
+                agent. It acts more like a manager than the worker performing
+                every individual task.
+            </p>
+
+            <div class="orchestrator">
+                <div class="node main-node">Orchestrator</div>
+
+                <div class="agent-row">
+                    <div class="node">Agent 1</div>
+                    <div class="node">Agent 2</div>
+                    <div class="node">Agent 3</div>
+                </div>
+            </div>
+
+            <p>
+                Our upcoming project needs this pattern because raw data may
+                need to be routed to different specialized agents depending
+                on the task.
+            </p>
+        </section>
+
+        <section class="card learning">
+            <span class="number">07</span>
+            <h2>What I Learned</h2>
+
+            <p>
+                This week I learned how LangChain provides reusable components
+                for LLM applications and how prompt templates, chains, memory,
+                and tool-calling fit together. I also learned that LangGraph
+                represents decision-making workflows using nodes, edges, state,
+                and conditional paths, which makes it useful for orchestrator
+                and multi-agent systems.
+            </p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>LangChain + LangGraph Fundamentals • DevSynt AI Automation Internship</p>
+    </footer>
+
+</body>
+</html>
