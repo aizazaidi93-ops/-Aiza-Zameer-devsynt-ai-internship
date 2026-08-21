@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LangChain &amp; LangGraph — Learning Log</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="grid-line grid-line-1"></div>
+<div class="grid-line grid-line-2"></div>
+
+<header class="hero">
+  <p class="eyebrow">AI Engineering DevSynt Internship — Project 2 Phase 1</p>
+  <h1>LangChain and LangGraph Fundamentals</h1>
+  <p class="hero-sub">A week spent learning <strong>LangChain</strong> and <strong>LangGraph</strong> before touching the orchestrator-agent project. This page summarizes what each concept means, why it exists, and how it fits into the bigger picture.</p>
+  <div class="hero-path">
+    <span class="node">chain</span>
+    <span class="arrow">→</span>
+    <span class="node">tool</span>
+    <span class="arrow">→</span>
+    <span class="node node-decision">graph</span>
+    <span class="arrow arrow-split">⤷</span>
+    <span class="node node-end">orchestrator</span>
+  </div>
+</header>
+
+<main>
+
+  <section class="concept" id="langchain">
+    <div class="concept-index">01</div>
+    <div class="concept-body">
+      <h2>What is LangChain?</h2>
+      <p class="prompt-hint">Definition</p>
+      <p class="fill">Calling an LLM directly means sending one prompt and getting one plain-text reply back — every single time, the full prompt has to be written from scratch and the response has no guaranteed structure. LangChain is a framework that sits on top of raw API calls and provides reusable building blocks instead: <strong>prompt templates</strong> (prompts with fill-in-the-blank variables), <strong>chains</strong> (a prompt template connected to an LLM connected to an output, wired together as one repeatable unit), and easy switching between different LLM providers without rewriting the whole application.</p>
+      <div class="example-box">
+        <span class="example-label">Example</span>
+        <p>Without LangChain: the full sentence <em>"Tell me about Lahore"</em> has to be retyped every time the topic changes.<br>
+        With LangChain: a template <code>"Tell me about {city}"</code> is written once — the value in <code>{city}</code> is swapped for "Lahore" or "Karachi" without rewriting the sentence.</p>
+      </div>
+      <div class="diagram">
+        <div class="dnode">Prompt Template</div>
+        <div class="dline"></div>
+        <div class="dnode">LLM</div>
+        <div class="dline"></div>
+        <div class="dnode dnode-end">Output</div>
+      </div>
+      <p class="caption">A chain: three reusable pieces connected into one repeatable unit.</p>
+      <div class="terms">
+        <span>LLM wrapper</span><span>prompt template</span><span>chain</span><span>LCEL</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="concept" id="prompts">
+    <div class="concept-index">02</div>
+    <div class="concept-body">
+      <h2>Prompt Templates &amp; Output Parsers</h2>
+      <p class="prompt-hint">Definition</p>
+      <p class="fill">A <strong>prompt template</strong> is a prompt written once with placeholders — such as <code>{product_name}</code> — so it can be reused with different values instead of being rewritten each time. An <strong>output parser</strong> solves a separate problem: by default an LLM replies in free-flowing text, which is unreliable for code to work with. An output parser instructs the LLM to reply in a specific structure — most commonly JSON — so the application can read individual fields directly instead of guessing meaning from a paragraph.</p>
+      <div class="example-box">
+        <span class="example-label">Example — Plain vs. Parsed Output</span>
+        <p>Plain answer: <em>"The phone is good, price is 20000."</em><br>
+        Parsed answer: <code>{"price": 20000, "quality": "good"}</code> — code can read the <code>price</code> and <code>quality</code> fields directly instead of scanning a sentence.</p>
+      </div>
+      <div class="diagram">
+        <div class="dnode">"Tell me about {product}"</div>
+        <div class="dline"></div>
+        <div class="dnode">LLM fills in variable, replies</div>
+        <div class="dline"></div>
+        <div class="dnode dnode-end">Parser → JSON fields</div>
+      </div>
+      <div class="terms">
+        <span>PromptTemplate</span><span>StrOutputParser</span><span>JsonOutputParser</span><span>Pydantic models</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="concept" id="memory-tools">
+    <div class="concept-index">03</div>
+    <div class="concept-body">
+      <h2>Memory &amp; Tool-Calling</h2>
+      <p class="prompt-hint">Definition</p>
+      <p class="fill">By default, an LLM has no memory — every call is completely independent, and it has no idea what was said earlier in the conversation. <strong>Memory</strong> means keeping track of the conversation so far and feeding that history back into every new call, so the model can refer to earlier messages. <strong>Tool-calling</strong> means giving the LLM access to external functions it can choose to use — a calculator, a search function, a database lookup — instead of guessing an answer from what it already knows. The model itself decides when a tool is needed and what to pass into it.</p>
+      <div class="example-box">
+        <span class="example-label">Example — Memory</span>
+        <p>Message 1: <em>"My name is Ali."</em> Message 2: <em>"What's my name?"</em><br>
+        Without memory → <em>"I don't know."</em> With memory → <em>"Ali."</em></p>
+      </div>
+      <div class="example-box">
+        <span class="example-label">Example — Tool-Calling</span>
+        <p>Asked <em>"What is 25 × 37?"</em> — instead of guessing, the LLM recognizes it needs precision and calls a calculator tool, which returns <code>925</code>.</p>
+      </div>
+      <div class="terms">
+        <span>chat history</span><span>tool/function calling</span><span>tool schema</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="concept concept-graph" id="langgraph">
+    <div class="concept-index">04</div>
+    <div class="concept-body">
+      <h2>What is LangGraph?</h2>
+      <p class="prompt-hint">Definition</p>
+      <p class="fill">A <strong>chain</strong> follows a fixed sequence of steps, always in the same order — Step 1, then Step 2, then Step 3, no matter what happens. An <strong>agent</strong> can look at the current situation and decide what to do next — skipping a step, repeating one, or choosing between different paths. LangGraph is the framework that lets these decision-making systems be built as a <strong>graph</strong> instead of a straight line. Its core building blocks are: a <strong>node</strong> (one step in the graph), an <strong>edge</strong> (a connection that shows what happens next), a <strong>conditional edge</strong> (a decision point based on a node's result), and <strong>state</strong> (the data that gets passed along and updated as it moves through the graph).</p>
+
+      <div class="diagram">
+        <div class="dnode">Check order status</div>
+        <div class="dline"></div>
+        <div class="ddecision">In stock?</div>
+        <div class="dbranch">
+          <div class="dbranch-path">
+            <span class="dlabel">yes</span>
+            <div class="dnode dnode-end">Deliver</div>
+          </div>
+          <div class="dbranch-path">
+            <span class="dlabel">no</span>
+            <div class="dnode dnode-end">Notify: out of stock</div>
+          </div>
+        </div>
+      </div>
+      <p class="caption">A conditional edge: the graph branches depending on the node's result, something a plain chain cannot do.</p>
+
+      <div class="terms">
+        <span>node</span><span>edge</span><span>conditional edge</span><span>state</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="concept" id="orchestrator">
+    <div class="concept-index">05</div>
+    <div class="concept-body">
+      <h2>Orchestrator Agents</h2>
+      <p class="prompt-hint">Definition</p>
+      <p class="fill">An <strong>orchestrator agent</strong> receives a task, figures out what needs to happen, and routes it to the right specialized agent(s) — it usually doesn't do the actual work itself. It behaves like a manager: it doesn't clean the data or write the report itself, it decides who should. This is exactly the pattern the upcoming project will use — an orchestrator agent that receives raw data and decides which specialized agent handles it next, using LangGraph's node and conditional-edge structure to route between them.</p>
+      <div class="example-box">
+        <span class="example-label">Example</span>
+        <p>Task: <em>"Clean this data and write a report."</em><br>
+        The orchestrator routes it → <strong>Data Cleaning Agent</strong> first, then passes the cleaned result to → <strong>Report Writing Agent</strong>.</p>
+      </div>
+      <div class="diagram">
+        <div class="dnode ddecision">Orchestrator</div>
+        <div class="dbranch">
+          <div class="dbranch-path">
+            <div class="dnode dnode-end">Data Cleaning Agent</div>
+          </div>
+          <div class="dbranch-path">
+            <div class="dnode dnode-end">Report Writing Agent</div>
+          </div>
+        </div>
+      </div>
+      <div class="terms">
+        <span>orchestrator / router pattern</span><span>multi-agent system</span><span>shared state</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="concept" id="learned">
+    <div class="concept-index">06</div>
+    <div class="concept-body">
+      <h2>What I Learned</h2>
+      <p class="fill">This week I learned that LangChain provides reusable components — prompt templates, chains, and output parsers — for working with LLMs, instead of writing every API call from scratch. I also learned that by default an LLM has no memory and no access to tools, and that both have to be deliberately added. Most importantly, I learned the difference between a chain (a fixed sequence) and a graph (a decision-making structure) — which is why LangGraph, with its nodes, edges, state, and conditional edges, is needed for the orchestrator-agent project coming up next.</p>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <p>Project 2 — Phase 1 · LangChain &amp; LangGraph learning log</p>
+</footer>
+
+</body>
+</html>
