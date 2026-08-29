@@ -1,0 +1,851 @@
+Order_ID,Date,Product,Category,Quantity,Region,Unit_Price,Revenue
+ORD-0001,2025-11-25,Printer,Electronics,8.0,North,174.13,1393.04
+ORD-0002,2025-03-09,Keyboard,Electronics,9.0,South,43.17,388.53
+ORD-0003,2025-12-23,Webcam,Electronics,7.0,South,75.85,530.95
+ORD-0004,2025-04-08,Desk Lamp,Furniture,1.0,East,27.66,27.66
+ORD-0005,2025-09-24,Backpack,Stationery,3.0,South,36.82,110.46
+ORD-0006,2025-04-15,Office Chair,Furniture,9.0,North,175.62,1580.58
+ORD-0007,2025-11-19,Webcam,Electronics,1.0,East,75.62,75.62
+ORD-0008,2025-05-03,Mouse,Electronics,9.0,West,25.76,231.84
+ORD-0009,2025-01-29,Printer,Electronics,8.0,East,173.31,1386.48
+ORD-0010,2025-05-17,Notebook,Stationery,1.0,North,7.61,7.61
+ORD-0011,2025-07-14,Headphones,Electronics,6.0,East,85.11,510.66
+ORD-0012,2025-08-14,Printer,Electronics,5.0,East,193.67,968.35
+ORD-0013,2025-11-28,Backpack,Stationery,6.0,North,35.18,211.08
+ORD-0014,2025-06-19,Backpack,Stationery,10.0,East,33.21,332.1
+ORD-0015,2025-01-09,Office Chair,Furniture,5.0,North,147.61,738.05
+ORD-0016,2025-02-09,Mouse,Electronics,6.0,North,22.94,137.64
+ORD-0017,2025-01-25,Keyboard,Electronics,5.0,West,46.97,234.85
+ORD-0018,2025-09-18,Office Chair,Unknown,5.0,South,157.44,787.2
+ORD-0019,2025-08-14,Office Chair,Furniture,4.0,South,172.97,691.88
+ORD-0020,2025-05-04,Headphones,Electronics,3.0,East,83.83,251.49
+ORD-0021,2025-02-07,Monitor,Electronics,3.0,East,206.42,619.26
+ORD-0022,2025-11-24,Mouse,Electronics,4.0,West,25.57,102.28
+ORD-0023,2025-09-08,Smartphone,Electronics,9.0,West,641.62,5774.58
+ORD-0024,2025-06-25,Office Chair,Furniture,2.0,West,162.47,324.94
+ORD-0025,2025-03-31,USB Cable,Accessories,9.0,North,12.57,113.13
+ORD-0026,2025-02-06,Tablet,Electronics,1.0,West,445.72,445.72
+ORD-0027,2025-11-12,Monitor,Electronics,1.0,West,235.12,235.12
+ORD-0028,2025-06-25,Smartphone,Electronics,5.0,East,618.02,3090.1
+ORD-0029,2025-10-11,USB Cable,Accessories,6.0,West,10.87,65.22
+ORD-0030,2025-03-22,Mouse,Electronics,6.0,North,26.2,157.2
+ORD-0031,2025-04-24,Laptop,Electronics,3.0,North,875.21,2625.63
+ORD-0032,2025-02-09,USB Cable,Accessories,7.0,East,11.56,80.92
+ORD-0033,2025-10-28,Notebook,Stationery,9.0,West,7.21,64.89
+ORD-0034,2025-08-12,Monitor,Electronics,10.0,West,227.99,2279.9
+ORD-0035,2025-11-14,Webcam,Electronics,8.0,North,65.34,522.72
+ORD-0036,2025-12-15,USB Cable,Accessories,6.0,West,12.37,74.22
+ORD-0037,2025-04-25,Desk,Furniture,8.0,West,263.6,2108.8
+ORD-0038,2025-07-05,Laptop,Electronics,5.0,West,868.81,4344.05
+ORD-0039,2025-11-19,Backpack,Stationery,8.0,South,32.04,256.32
+ORD-0040,2025-02-25,Backpack,Stationery,10.0,East,33.88,338.8
+ORD-0041,2025-02-09,Desk Lamp,Furniture,4.0,South,32.2,128.8
+ORD-0042,2025-12-20,Notebook,Stationery,10.0,East,7.54,75.4
+ORD-0043,2025-02-09,USB Cable,Accessories,8.0,North,11.66,93.28
+ORD-0044,2025-12-13,USB Cable,Accessories,10.0,West,10.96,109.6
+ORD-0045,2025-08-25,Desk Lamp,Furniture,2.0,East,31.58,63.16
+ORD-0046,2025-10-16,Tablet,Electronics,5.0,South,412.3,2061.5
+ORD-0047,2025-09-19,Tablet,Electronics,9.0,West,441.78,3976.02
+ORD-0048,2025-08-04,Desk Lamp,Furniture,4.0,North,32.42,129.68
+ORD-0049,2025-05-27,Tablet,Electronics,6.0,East,397.55,2385.3
+ORD-0050,2025-12-02,Headphones,Electronics,1.0,East,84.92,84.92
+ORD-0051,2025-06-17,USB Cable,Accessories,9.0,East,10.94,98.46
+ORD-0052,2025-04-02,Printer,Electronics,1.0,West,194.36,194.36
+ORD-0053,2025-12-19,Keyboard,Electronics,5.0,South,46.36,231.8
+ORD-0054,2025-02-28,Desk,Furniture,4.0,South,257.96,1031.84
+ORD-0055,2025-02-28,Headphones,Electronics,3.0,East,72.0,216.0
+ORD-0056,2025-10-31,Mouse,Electronics,6.0,North,23.35,140.1
+ORD-0057,2025-06-18,Headphones,Electronics,2.0,North,78.24,156.48
+ORD-0058,2025-09-26,Printer,Electronics,3.0,South,175.66,526.98
+ORD-0059,2025-12-29,Mouse,Electronics,5.0,North,23.63,118.15
+ORD-0060,2025-02-14,Desk,Furniture,9.0,South,234.32,2108.88
+ORD-0061,2025-12-11,Printer,Electronics,2.0,East,166.64,333.28
+ORD-0062,2025-06-30,Smartphone,Electronics,10.0,South,638.66,6386.6
+ORD-0063,2025-06-19,Keyboard,Electronics,8.0,South,47.72,381.76
+ORD-0064,2025-12-22,Desk,Furniture,2.0,East,239.0,478.0
+ORD-0065,2025-07-10,USB Cable,Accessories,5.0,North,10.84,54.2
+ORD-0066,2025-06-04,Tablet,Electronics,7.0,South,413.4,2893.8
+ORD-0067,2025-07-07,Smartphone,Electronics,8.0,South,588.53,4708.24
+ORD-0068,2025-01-07,Notebook,Stationery,1.0,East,8.75,8.75
+ORD-0069,2025-05-13,Desk,Furniture,6.0,North,222.12,1332.72
+ORD-0070,2025-08-23,Notebook,Stationery,1.0,South,8.33,8.33
+ORD-0071,2025-02-14,Mouse,Electronics,2.0,East,27.36,54.72
+ORD-0072,2025-11-10,Smartphone,Electronics,1.0,South,692.39,692.39
+ORD-0073,2025-09-06,Keyboard,Electronics,5.0,West,46.79,233.95
+ORD-0074,2025-01-31,USB Cable,Accessories,10.0,East,12.81,128.1
+ORD-0075,2025-01-23,Desk Lamp,Furniture,9.0,North,32.89,296.01
+ORD-0076,2025-06-09,USB Cable,Accessories,6.0,North,12.29,73.74
+ORD-0077,2025-12-29,Printer,Electronics,1.0,North,182.13,182.13
+ORD-0078,2025-06-07,USB Cable,Accessories,1.0,North,12.31,12.31
+ORD-0079,2025-02-08,Webcam,Electronics,2.0,South,70.46,140.92
+ORD-0080,2025-03-23,Office Chair,Furniture,9.0,South,164.32,1478.88
+ORD-0081,2025-12-22,Desk Lamp,Furniture,3.0,North,29.7,89.1
+ORD-0082,2025-09-15,Headphones,Electronics,1.0,North,75.5,75.5
+ORD-0083,2025-07-25,Tablet,Electronics,5.0,North,388.1,1940.5
+ORD-0084,2025-03-18,Laptop,Electronics,7.0,South,867.98,6075.86
+ORD-0085,2025-01-12,Keyboard,Electronics,6.0,North,42.87,257.22
+ORD-0086,2025-10-22,Smartphone,Electronics,1.0,North,591.0,591.0
+ORD-0087,2025-08-12,Office Chair,Furniture,5.0,West,162.15,810.75
+ORD-0088,2025-01-13,Keyboard,Electronics,5.0,West,43.05,215.25
+ORD-0089,2025-02-15,Smartphone,Electronics,6.0,North,692.19,4153.14
+ORD-0090,2025-06-04,Tablet,Electronics,3.0,East,384.24,1152.72
+ORD-0091,2025-04-23,Monitor,Electronics,5.0,North,207.96,1039.8
+ORD-0092,2025-08-21,Monitor,Electronics,7.0,West,230.13,1610.91
+ORD-0093,2025-01-17,Notebook,Stationery,5.0,East,8.16,40.8
+ORD-0094,2025-12-26,Keyboard,Electronics,5.0,East,41.08,205.4
+ORD-0095,2025-08-11,Monitor,Electronics,5.0,North,236.6,1183.0
+ORD-0096,2025-12-20,Webcam,Electronics,10.0,West,75.28,752.8
+ORD-0097,2025-07-07,Desk Lamp,Furniture,10.0,West,28.98,289.8
+ORD-0098,2025-12-10,Smartphone,Electronics,3.0,East,629.25,1887.75
+ORD-0099,2025-12-31,Notebook,Stationery,1.0,North,8.78,8.78
+ORD-0100,2025-06-12,USB Cable,Accessories,5.0,South,12.3,61.5
+ORD-0101,2025-11-22,Smartphone,Electronics,9.0,South,654.07,5886.63
+ORD-0102,2025-03-15,Notebook,Stationery,1.0,West,8.54,8.54
+ORD-0103,2025-08-21,Tablet,Electronics,3.0,South,401.96,1205.88
+ORD-0104,2025-08-12,Keyboard,Electronics,4.0,West,44.36,177.44
+ORD-0105,2025-11-15,Tablet,Electronics,1.0,West,400.49,400.49
+ORD-0106,2025-03-01,Desk Lamp,Furniture,1.0,West,31.73,31.73
+ORD-0107,2025-12-01,Desk Lamp,Furniture,8.0,South,30.44,243.52
+ORD-0108,2025-08-10,Office Chair,Furniture,2.0,West,165.08,330.16
+ORD-0109,2025-02-06,Tablet,Electronics,8.0,East,399.19,3193.52
+ORD-0110,2025-10-05,Printer,Electronics,7.0,North,169.93,1189.51
+ORD-0111,2025-07-15,USB Cable,Accessories,10.0,North,11.97,119.7
+ORD-0112,2025-12-18,Desk,Furniture,10.0,West,251.4,2514.0
+ORD-0113,2025-08-30,Tablet,Electronics,2.0,North,422.12,844.24
+ORD-0114,2025-11-20,Office Chair,Furniture,6.0,South,145.04,870.24
+ORD-0115,2025-08-07,Mouse,Electronics,6.0,South,26.84,161.04
+ORD-0116,2025-07-11,Webcam,Electronics,3.0,North,63.91,191.73
+ORD-0117,2025-01-17,Smartphone,Electronics,2.0,South,709.26,1418.52
+ORD-0118,2025-01-12,Desk Lamp,Furniture,1.0,North,27.15,27.15
+ORD-0119,2025-07-12,Mouse,Electronics,6.0,North,25.97,155.82
+ORD-0120,2025-01-22,Office Chair,Furniture,5.0,North,146.63,733.15
+ORD-0121,2025-04-30,Notebook,Stationery,9.0,West,8.66,77.94
+ORD-0122,2025-07-29,Desk,Furniture,1.0,North,238.29,238.29
+ORD-0123,2025-11-02,USB Cable,Accessories,7.0,West,11.13,77.91
+ORD-0124,2025-09-27,USB Cable,Accessories,5.0,North,11.62,58.1
+ORD-0125,2025-07-11,USB Cable,Accessories,5.0,North,11.2,56.0
+ORD-0126,2025-06-24,Webcam,Electronics,2.0,North,65.39,130.78
+ORD-0127,2025-10-12,Desk,Furniture,3.0,South,261.51,784.53
+ORD-0128,2025-07-23,Webcam,Electronics,7.0,West,69.23,484.61
+ORD-0129,2025-06-13,Desk Lamp,Furniture,6.0,West,31.73,190.38
+ORD-0130,2025-09-08,Webcam,Electronics,2.0,North,71.95,143.9
+ORD-0131,2025-08-15,Laptop,Electronics,6.0,North,983.52,5901.12
+ORD-0132,2025-01-07,Desk,Furniture,2.0,South,222.32,444.64
+ORD-0133,2025-01-29,Printer,Electronics,2.0,South,170.43,340.86
+ORD-0134,2025-02-02,Desk,Furniture,2.0,South,253.76,507.52
+ORD-0135,2025-05-14,Office Chair,Furniture,3.0,West,175.06,525.18
+ORD-0136,2025-03-20,Laptop,Electronics,2.0,West,904.91,1809.82
+ORD-0137,2025-02-27,USB Cable,Accessories,4.0,West,11.45,45.8
+ORD-0138,2025-01-26,Office Chair,Furniture,9.0,North,159.13,1432.17
+ORD-0139,2025-08-14,Office Chair,Furniture,6.0,West,175.48,1052.88
+ORD-0140,2025-10-12,Desk Lamp,Furniture,1.0,East,28.61,28.61
+ORD-0141,2025-01-04,Backpack,Stationery,8.0,East,34.35,274.8
+ORD-0142,2025-04-09,Headphones,Electronics,7.0,South,86.26,603.82
+ORD-0143,2025-02-08,Laptop,Electronics,10.0,West,855.55,8555.5
+ORD-0144,2025-09-28,Office Chair,Furniture,3.0,East,145.27,435.81
+ORD-0145,2025-10-12,Headphones,Electronics,1.0,South,81.67,81.67
+ORD-0146,2025-06-06,Headphones,Electronics,5.0,West,86.52,432.6
+ORD-0147,2025-03-16,Laptop,Electronics,4.0,North,900.38,3601.52
+ORD-0148,2025-10-15,Backpack,Stationery,10.0,East,34.79,347.9
+ORD-0149,2025-05-10,Mouse,Electronics,8.0,North,24.75,198.0
+ORD-0150,2025-06-24,Notebook,Stationery,1.0,West,7.96,7.96
+ORD-0151,2025-03-25,Printer,Electronics,10.0,East,184.41,1844.1
+ORD-0152,2025-01-22,Notebook,Stationery,1.0,West,7.95,7.95
+ORD-0153,2025-01-27,Desk,Furniture,4.0,North,237.48,949.92
+ORD-0154,2025-07-14,USB Cable,Accessories,8.0,East,11.94,95.52
+ORD-0155,2025-12-03,Printer,Electronics,5.0,North,183.27,916.35
+ORD-0156,2025-08-24,Desk,Furniture,2.0,West,241.78,483.56
+ORD-0157,2025-04-02,Office Chair,Furniture,6.0,West,171.33,1027.98
+ORD-0158,2025-01-21,USB Cable,Accessories,5.0,North,10.92,54.6
+ORD-0159,2025-10-30,Smartphone,Electronics,2.0,East,693.33,1386.66
+ORD-0160,2025-12-23,Laptop,Electronics,3.0,North,1015.35,3046.05
+ORD-0161,2025-03-25,Printer,Electronics,9.0,West,172.26,1550.34
+ORD-0162,2025-09-19,Printer,Electronics,7.0,North,178.66,1250.62
+ORD-0163,2025-05-27,Tablet,Electronics,7.0,West,414.84,2903.88
+ORD-0164,2025-09-14,Office Chair,Furniture,6.0,North,150.99,905.94
+ORD-0165,2025-02-27,Mouse,Electronics,8.0,East,24.48,195.84
+ORD-0166,2025-01-15,Headphones,Electronics,4.0,East,72.71,290.84
+ORD-0167,2025-06-11,USB Cable,Accessories,8.0,North,11.47,91.76
+ORD-0168,2025-06-12,Office Chair,Furniture,4.0,North,170.13,680.52
+ORD-0169,2025-11-16,Monitor,Electronics,8.0,East,210.52,1684.16
+ORD-0170,2025-10-08,Backpack,Stationery,9.0,West,37.23,335.07
+ORD-0171,2025-10-07,Headphones,Electronics,3.0,East,80.51,241.53
+ORD-0172,2025-01-12,Laptop,Electronics,3.0,West,1022.17,3066.51
+ORD-0173,2025-10-01,Headphones,Electronics,2.0,North,81.2,162.4
+ORD-0174,2025-09-28,Mouse,Electronics,10.0,North,22.65,226.5
+ORD-0175,2025-07-27,Desk Lamp,Furniture,3.0,West,31.05,93.15
+ORD-0176,2025-01-27,Tablet,Electronics,3.0,North,381.77,1145.31
+ORD-0177,2025-03-13,Headphones,Electronics,5.0,West,79.21,396.05
+ORD-0178,2025-03-01,Laptop,Electronics,5.0,South,1031.59,5157.95
+ORD-0179,2025-05-25,Mouse,Electronics,2.0,East,23.33,46.66
+ORD-0180,2025-04-03,Notebook,Stationery,10.0,South,7.82,78.2
+ORD-0181,2025-11-05,Printer,Electronics,6.0,West,188.27,1129.62
+ORD-0182,2025-01-08,Desk Lamp,Furniture,5.0,East,32.29,161.45
+ORD-0183,2025-03-20,Tablet,Electronics,6.0,West,434.36,2606.16
+ORD-0184,2025-01-27,Printer,Electronics,1.0,East,171.29,171.29
+ORD-0185,2025-06-23,Backpack,Stationery,5.0,East,36.22,181.1
+ORD-0186,2025-02-19,Desk,Furniture,9.0,East,230.24,2072.16
+ORD-0187,2025-07-18,Desk Lamp,Furniture,10.0,East,31.31,313.1
+ORD-0188,2025-12-15,Desk Lamp,Furniture,2.0,West,32.72,65.44
+ORD-0189,2025-06-30,Notebook,Stationery,1.0,East,8.35,8.35
+ORD-0190,2025-01-24,Notebook,Stationery,10.0,East,8.58,85.8
+ORD-0191,2025-11-12,USB Cable,Accessories,9.0,South,10.81,97.29
+ORD-0192,2025-02-15,Webcam,Electronics,10.0,North,73.05,730.5
+ORD-0193,2025-01-15,Headphones,Electronics,9.0,North,85.27,767.43
+ORD-0194,2025-06-02,Desk Lamp,Furniture,9.0,South,27.24,245.16
+ORD-0195,2025-08-10,Printer,Electronics,6.0,South,193.38,1160.28
+ORD-0196,2025-07-25,Laptop,Electronics,8.0,West,903.77,7230.16
+ORD-0197,2025-09-30,Keyboard,Electronics,1.0,West,46.49,46.49
+ORD-0198,2025-08-24,Webcam,Electronics,10.0,West,74.2,742.0
+ORD-0199,2025-12-06,Keyboard,Electronics,4.0,South,46.46,185.84
+ORD-0200,2025-08-16,Tablet,Electronics,1.0,South,385.75,385.75
+ORD-0201,2025-01-09,Mouse,Electronics,8.0,East,25.48,203.84
+ORD-0202,2025-06-15,Printer,Electronics,1.0,West,181.79,181.79
+ORD-0203,2025-11-15,Printer,Electronics,3.0,West,194.41,583.23
+ORD-0204,2025-08-02,Webcam,Electronics,4.0,West,68.66,274.64
+ORD-0205,2025-04-27,Desk Lamp,Furniture,8.0,North,28.93,231.44
+ORD-0206,2025-12-10,Backpack,Stationery,6.0,East,36.75,220.5
+ORD-0207,2025-03-13,Webcam,Electronics,10.0,West,68.78,687.8
+ORD-0208,2025-03-05,Keyboard,Electronics,7.0,West,46.31,324.17
+ORD-0209,2025-07-24,Webcam,Electronics,8.0,West,72.05,576.4
+ORD-0210,2025-07-28,Printer,Electronics,2.0,North,193.97,387.94
+ORD-0211,2025-03-13,Backpack,Stationery,10.0,North,35.69,356.9
+ORD-0212,2025-10-04,Headphones,Electronics,8.0,South,80.03,640.24
+ORD-0213,2025-10-01,Monitor,Electronics,3.0,East,204.11,612.33
+ORD-0214,2025-11-16,USB Cable,Accessories,7.0,South,11.08,77.56
+ORD-0215,2025-12-04,Smartphone,Electronics,3.0,East,605.06,1815.18
+ORD-0216,2025-04-05,Notebook,Stationery,7.0,North,7.47,52.29
+ORD-0217,2025-06-15,Webcam,Electronics,2.0,West,71.93,143.86
+ORD-0218,2025-02-01,Tablet,Electronics,10.0,South,440.24,4402.4
+ORD-0219,2025-01-11,Desk,Furniture,6.0,West,241.44,1448.64
+ORD-0220,2025-10-28,Mouse,Electronics,3.0,South,26.65,79.95
+ORD-0221,2025-08-05,Monitor,Electronics,3.0,North,241.62,724.86
+ORD-0222,2025-10-16,USB Cable,Accessories,9.0,North,12.77,114.93
+ORD-0223,2025-04-12,USB Cable,Accessories,7.0,North,12.47,87.29
+ORD-0224,2025-09-24,USB Cable,Accessories,5.0,South,12.08,60.4
+ORD-0225,2025-08-02,USB Cable,Accessories,10.0,East,11.88,118.8
+ORD-0226,2025-06-28,Keyboard,Electronics,7.0,South,41.26,288.82
+ORD-0227,2025-03-29,Tablet,Electronics,9.0,East,411.55,3703.95
+ORD-0228,2025-02-10,Tablet,Electronics,1.0,South,454.45,454.45
+ORD-0229,2025-03-17,Backpack,Stationery,7.0,South,37.16,260.12
+ORD-0230,2025-02-15,Notebook,Stationery,6.0,North,7.55,45.3
+ORD-0231,2025-06-09,Printer,Electronics,10.0,West,178.8,1788.0
+ORD-0232,2025-03-21,USB Cable,Accessories,9.0,West,12.76,114.84
+ORD-0233,2025-11-06,Desk,Furniture,1.0,East,219.23,219.23
+ORD-0234,2025-03-27,Printer,Electronics,4.0,West,175.95,703.8
+ORD-0235,2025-04-02,Tablet,Electronics,9.0,South,449.55,4045.95
+ORD-0236,2025-05-28,Laptop,Electronics,4.0,South,931.74,3726.96
+ORD-0237,2025-06-10,Laptop,Electronics,10.0,North,869.75,8697.5
+ORD-0238,2025-07-21,Desk,Furniture,3.0,North,242.04,726.12
+ORD-0239,2025-08-30,Backpack,Stationery,9.0,West,37.53,337.77
+ORD-0240,2025-12-19,Tablet,Electronics,2.0,East,427.58,855.16
+ORD-0241,2025-01-02,Desk,Furniture,4.0,West,226.86,907.44
+ORD-0242,2025-08-13,Keyboard,Electronics,6.0,West,43.96,263.76
+ORD-0243,2025-10-16,Webcam,Electronics,2.0,West,69.3,138.6
+ORD-0244,2025-08-21,Desk,Furniture,8.0,West,243.8,1950.4
+ORD-0245,2025-03-18,Headphones,Electronics,8.0,South,84.15,673.2
+ORD-0246,2025-04-26,Printer,Electronics,1.0,East,165.56,165.56
+ORD-0247,2025-06-03,Monitor,Electronics,3.0,South,237.14,711.42
+ORD-0248,2025-04-13,Office Chair,Furniture,10.0,East,144.39,1443.9
+ORD-0249,2025-07-13,Backpack,Stationery,9.0,North,34.09,306.81
+ORD-0250,2025-06-15,Desk,Furniture,5.0,West,217.32,1086.6
+ORD-0251,2025-12-25,Tablet,Electronics,6.0,South,411.01,2466.06
+ORD-0252,2025-03-31,Mouse,Electronics,4.0,East,25.13,100.52
+ORD-0253,2025-06-23,Laptop,Electronics,10.0,North,952.22,9522.2
+ORD-0254,2025-05-02,Headphones,Electronics,2.0,North,74.65,149.3
+ORD-0255,2025-05-23,Notebook,Stationery,8.0,West,8.23,65.84
+ORD-0256,2025-04-16,USB Cable,Accessories,6.0,East,10.91,65.46
+ORD-0257,2025-11-01,Office Chair,Furniture,5.0,South,168.38,841.9
+ORD-0258,2025-12-26,Desk Lamp,Furniture,9.0,West,32.68,294.12
+ORD-0259,2025-11-13,Backpack,Stationery,1.0,South,33.88,33.88
+ORD-0260,2025-05-03,Monitor,Electronics,5.0,North,220.76,1103.8
+ORD-0261,2025-01-09,Office Chair,Furniture,6.0,South,156.13,936.78
+ORD-0262,2025-09-19,Desk,Furniture,5.0,South,216.32,1081.6
+ORD-0263,2025-03-14,Keyboard,Electronics,6.0,West,43.97,263.82
+ORD-0264,2025-12-25,Laptop,Electronics,6.0,South,1005.43,6032.58
+ORD-0265,2025-08-11,Tablet,Electronics,7.0,Unknown,428.06,2996.42
+ORD-0266,2025-02-10,Laptop,Electronics,4.0,North,874.24,3496.96
+ORD-0267,2025-07-23,Notebook,Stationery,8.0,West,8.56,68.48
+ORD-0268,2025-09-21,Keyboard,Electronics,7.0,West,45.28,316.96
+ORD-0269,2025-11-24,USB Cable,Accessories,9.0,East,12.82,115.38
+ORD-0270,2025-06-27,Tablet,Electronics,7.0,South,426.74,2987.18
+ORD-0271,2025-12-14,Printer,Electronics,3.0,North,182.15,546.45
+ORD-0272,2025-11-14,Smartphone,Electronics,3.0,West,598.68,1796.04
+ORD-0273,2025-03-25,Headphones,Electronics,8.0,North,74.68,597.44
+ORD-0274,2025-11-14,Laptop,Electronics,5.0,East,1039.68,5198.4
+ORD-0275,2025-04-21,Mouse,Electronics,4.0,South,23.64,94.56
+ORD-0276,2025-09-08,Laptop,Electronics,8.0,West,1040.72,8325.76
+ORD-0277,2025-01-07,Office Chair,Furniture,6.0,South,161.02,966.12
+ORD-0278,2025-03-25,Laptop,Electronics,2.0,East,880.8,1761.6
+ORD-0279,2025-07-27,Backpack,Stationery,4.0,East,32.2,128.8
+ORD-0280,2025-11-10,Laptop,Electronics,4.0,North,894.68,3578.72
+ORD-0281,2025-01-22,Smartphone,Electronics,6.0,West,705.33,4231.98
+ORD-0282,2025-01-03,Smartphone,Electronics,6.0,North,638.84,3833.04
+ORD-0283,2025-05-07,USB Cable,Accessories,1.0,East,11.75,11.75
+ORD-0284,2025-10-24,Monitor,Electronics,8.0,South,211.78,1694.24
+ORD-0285,2025-07-07,Printer,Electronics,6.0,North,167.29,1003.74
+ORD-0286,2025-12-28,Mouse,Electronics,3.0,North,24.94,74.82
+ORD-0287,2025-01-14,Laptop,Electronics,9.0,South,879.71,7917.39
+ORD-0288,2025-01-12,Laptop,Electronics,2.0,North,1013.74,2027.48
+ORD-0289,2025-03-28,Headphones,Electronics,8.0,South,77.93,623.44
+ORD-0290,2025-01-12,Tablet,Electronics,10.0,West,409.48,4094.8
+ORD-0291,2025-01-25,Smartphone,Electronics,3.0,South,646.62,1939.86
+ORD-0292,2025-10-28,Mouse,Electronics,5.0,West,24.72,123.6
+ORD-0293,2025-08-31,USB Cable,Accessories,6.0,South,13.19,79.14
+ORD-0294,2025-05-02,Notebook,Stationery,10.0,East,8.07,80.7
+ORD-0295,2025-05-27,Monitor,Electronics,6.0,East,201.88,1211.28
+ORD-0296,2025-02-24,Printer,Electronics,4.0,West,183.85,735.4
+ORD-0297,2025-08-26,Keyboard,Electronics,3.0,West,41.86,125.58
+ORD-0298,2025-12-22,Printer,Electronics,4.0,East,163.11,652.44
+ORD-0299,2025-06-22,Backpack,Stationery,1.0,West,38.3,38.3
+ORD-0300,2025-08-09,Office Chair,Furniture,4.0,South,168.75,675.0
+ORD-0301,2025-04-29,Backpack,Stationery,1.0,South,38.36,38.36
+ORD-0302,2025-11-05,Laptop,Electronics,1.0,East,945.8,945.8
+ORD-0303,2025-07-02,Desk Lamp,Furniture,10.0,North,30.19,301.9
+ORD-0304,2025-10-15,Monitor,Electronics,6.0,South,205.41,1232.46
+ORD-0305,2025-11-03,Office Chair,Furniture,5.0,West,151.9,759.5
+ORD-0306,2025-10-27,Mouse,Electronics,4.0,North,26.69,106.76
+ORD-0307,2025-03-23,Keyboard,Electronics,3.0,North,43.71,131.13
+ORD-0308,2025-07-30,Smartphone,Electronics,1.0,South,692.49,692.49
+ORD-0309,2025-05-30,Monitor,Electronics,6.0,South,229.2,1375.2
+ORD-0310,2025-02-06,Monitor,Electronics,2.0,North,205.8,411.6
+ORD-0311,2025-12-18,Backpack,Stationery,8.0,North,35.05,280.4
+ORD-0312,2025-11-08,Desk Lamp,Furniture,10.0,East,31.06,310.6
+ORD-0313,2025-12-27,Laptop,Electronics,5.0,West,899.66,4498.3
+ORD-0314,2025-02-28,Desk,Furniture,7.0,East,255.87,1791.09
+ORD-0315,2025-05-11,USB Cable,Accessories,10.0,South,12.11,121.1
+ORD-0316,2025-07-21,Backpack,Stationery,2.0,East,32.66,65.32
+ORD-0317,2025-08-31,Monitor,Electronics,8.0,East,223.65,1789.2
+ORD-0318,2025-02-04,Webcam,Electronics,2.0,East,77.0,154.0
+ORD-0319,2025-04-03,Headphones,Electronics,4.0,East,74.41,297.64
+ORD-0320,2025-07-26,Keyboard,Electronics,1.0,West,47.85,47.85
+ORD-0321,2025-12-19,USB Cable,Accessories,5.0,West,11.3,56.5
+ORD-0322,2025-11-28,Backpack,Stationery,9.0,North,36.98,332.82
+ORD-0323,2025-11-01,Keyboard,Electronics,1.0,South,47.11,47.11
+ORD-0324,2025-12-16,Headphones,Electronics,9.0,East,76.81,691.29
+ORD-0325,2025-08-01,Notebook,Stationery,8.0,North,7.72,61.76
+ORD-0326,2025-06-08,Headphones,Electronics,6.0,North,84.68,508.08
+ORD-0327,2025-01-24,Desk Lamp,Furniture,7.0,North,29.77,208.39
+ORD-0328,2025-10-20,Headphones,Electronics,3.0,West,83.69,251.07
+ORD-0329,2025-01-04,Keyboard,Electronics,1.0,East,41.83,41.83
+ORD-0330,2025-08-08,Printer,Electronics,5.0,East,192.69,963.45
+ORD-0331,2025-12-30,Keyboard,Electronics,2.0,South,46.9,93.8
+ORD-0332,2025-01-20,Desk,Furniture,5.0,East,259.53,1297.65
+ORD-0333,2025-06-01,Laptop,Electronics,8.0,East,880.15,7041.2
+ORD-0334,2025-02-19,Office Chair,Furniture,9.0,North,162.98,1466.82
+ORD-0335,2025-06-26,Printer,Electronics,2.0,South,183.57,367.14
+ORD-0336,2025-04-06,Smartphone,Electronics,3.0,East,630.95,1892.85
+ORD-0337,2025-04-15,Office Chair,Furniture,3.0,West,158.67,476.01
+ORD-0338,2025-09-07,Laptop,Electronics,1.0,East,862.22,862.22
+ORD-0339,2025-04-27,Backpack,Stationery,8.0,North,36.72,293.76
+ORD-0340,2025-12-20,USB Cable,Accessories,6.0,West,12.12,72.72
+ORD-0341,2025-08-16,Desk,Furniture,8.0,North,218.77,1750.16
+ORD-0342,2025-03-07,Desk,Furniture,9.0,East,248.68,2238.12
+ORD-0343,2025-12-01,Smartphone,Electronics,5.0,West,645.68,3228.4
+ORD-0344,2025-09-19,Printer,Electronics,3.0,South,163.24,489.72
+ORD-0345,2025-10-22,Desk Lamp,Furniture,5.0,South,32.82,164.1
+ORD-0346,2025-08-31,Tablet,Electronics,5.0,West,457.73,2288.65
+ORD-0347,2025-07-05,Notebook,Stationery,5.0,West,8.02,40.1
+ORD-0348,2025-09-03,Headphones,Electronics,3.0,North,73.5,220.5
+ORD-0349,2025-05-05,Printer,Electronics,10.0,West,189.17,1891.7
+ORD-0350,2025-09-25,USB Cable,Accessories,4.0,North,11.98,47.92
+ORD-0351,2025-05-11,Notebook,Stationery,9.0,East,7.68,69.12
+ORD-0352,2025-08-25,Desk,Furniture,10.0,North,239.59,2395.9
+ORD-0353,2025-01-18,Keyboard,Electronics,9.0,West,45.2,406.8
+ORD-0354,2025-02-09,USB Cable,Accessories,2.0,West,12.15,24.3
+ORD-0355,2025-01-21,Laptop,Electronics,8.0,East,938.83,7510.64
+ORD-0356,2025-08-13,Smartphone,Electronics,8.0,West,663.75,5310.0
+ORD-0357,2025-12-21,Laptop,Electronics,7.0,West,1029.56,7206.92
+ORD-0358,2025-10-09,Tablet,Electronics,8.0,South,408.43,3267.44
+ORD-0359,2025-01-08,USB Cable,Accessories,3.0,South,12.54,37.62
+ORD-0360,2025-04-10,Mouse,Electronics,6.0,East,26.97,161.82
+ORD-0361,2025-08-28,Mouse,Electronics,1.0,North,24.78,24.78
+ORD-0362,2025-03-28,Backpack,Stationery,7.0,South,34.6,242.2
+ORD-0363,2025-10-25,Printer,Electronics,1.0,North,183.68,183.68
+ORD-0364,2025-01-14,Desk,Furniture,9.0,West,244.39,2199.51
+ORD-0365,2025-11-30,Desk,Furniture,1.0,South,254.72,254.72
+ORD-0366,2025-01-02,Headphones,Electronics,1.0,East,79.62,79.62
+ORD-0367,2025-10-20,Headphones,Electronics,7.0,East,87.94,615.58
+ORD-0368,2025-11-21,Headphones,Electronics,2.0,East,72.95,145.9
+ORD-0369,2025-02-10,Keyboard,Electronics,5.0,South,40.53,202.65
+ORD-0370,2025-11-14,Office Chair,Furniture,8.0,North,164.49,1315.92
+ORD-0371,2025-11-12,Monitor,Electronics,8.0,West,211.13,1689.04
+ORD-0372,2025-04-21,Office Chair,Furniture,3.0,North,151.69,455.07
+ORD-0373,2025-01-14,Laptop,Electronics,7.0,North,914.26,6399.82
+ORD-0374,2025-08-19,Office Chair,Furniture,3.0,West,152.19,456.57
+ORD-0375,2025-03-25,Keyboard,Electronics,6.0,West,40.78,244.68
+ORD-0376,2025-05-10,Backpack,Stationery,6.0,South,38.3,229.8
+ORD-0377,2025-08-19,Laptop,Electronics,3.0,South,896.94,2690.82
+ORD-0378,2025-11-22,Office Chair,Furniture,7.0,South,167.49,1172.43
+ORD-0379,2025-05-25,Keyboard,Electronics,3.0,South,47.36,142.08
+ORD-0380,2025-12-11,Monitor,Electronics,8.0,South,238.89,1911.12
+ORD-0381,2025-01-28,Office Chair,Furniture,10.0,West,144.98,1449.8
+ORD-0382,2025-03-07,Keyboard,Electronics,4.0,North,48.35,193.4
+ORD-0383,2025-06-12,Tablet,Electronics,1.0,South,422.29,422.29
+ORD-0384,2025-08-17,Headphones,Electronics,4.0,South,82.12,328.48
+ORD-0385,2025-09-18,Tablet,Electronics,7.0,North,432.14,3024.98
+ORD-0386,2025-06-13,Desk,Furniture,4.0,South,255.35,1021.4
+ORD-0387,2025-10-28,Headphones,Electronics,6.0,North,77.33,463.98
+ORD-0388,2025-10-30,Desk,Furniture,9.0,North,251.19,2260.71
+ORD-0389,2025-10-14,Webcam,Electronics,1.0,West,70.4,70.4
+ORD-0390,2025-01-10,Smartphone,Electronics,,East,688.14,3440.7
+ORD-0391,2025-07-14,Tablet,Electronics,7.0,West,461.21,3228.47
+ORD-0392,2025-04-28,Smartphone,Electronics,1.0,East,611.08,611.08
+ORD-0393,2025-09-27,Smartphone,Electronics,4.0,East,714.3,2857.2
+ORD-0394,2025-03-21,Monitor,Electronics,6.0,East,201.95,1211.7
+ORD-0395,2025-04-03,Headphones,Electronics,2.0,South,72.04,144.08
+ORD-0396,2025-09-23,Webcam,Electronics,10.0,West,63.62,636.2
+ORD-0397,2025-11-28,Desk,Furniture,5.0,East,232.41,1162.05
+ORD-0398,2025-12-16,Keyboard,Electronics,10.0,North,46.2,462.0
+ORD-0399,2025-12-27,Laptop,Electronics,1.0,South,868.12,868.12
+ORD-0400,2025-09-14,Keyboard,Electronics,6.0,West,40.55,243.3
+ORD-0401,2025-05-13,Laptop,Electronics,6.0,East,1033.05,6198.3
+ORD-0402,2025-10-03,Tablet,Electronics,4.0,North,447.04,1788.16
+ORD-0403,2025-09-21,Mouse,Electronics,8.0,West,26.55,212.4
+ORD-0404,2025-06-20,Keyboard,Electronics,4.0,West,48.46,193.84
+ORD-0405,2025-01-01,Office Chair,Furniture,8.0,South,166.4,1331.2
+ORD-0406,2025-11-09,Office Chair,Furniture,8.0,West,147.34,1178.72
+ORD-0407,2025-03-05,Printer,Electronics,5.0,South,176.37,881.85
+ORD-0408,2025-10-11,Headphones,Electronics,4.0,East,83.57,334.28
+ORD-0409,2025-05-01,Laptop,Electronics,2.0,South,908.26,1816.52
+ORD-0410,2025-04-17,Laptop,Electronics,3.0,North,985.61,2956.83
+ORD-0411,2025-06-24,USB Cable,Accessories,3.0,South,10.86,32.58
+ORD-0412,2025-07-23,Backpack,Stationery,4.0,North,33.64,134.56
+ORD-0413,2025-06-14,Headphones,Electronics,4.0,South,80.79,323.16
+ORD-0414,2025-11-01,Monitor,Electronics,10.0,West,225.81,2258.1
+ORD-0415,2025-04-30,Printer,Electronics,5.0,East,182.77,913.85
+ORD-0416,2025-02-13,Monitor,Electronics,4.0,North,228.7,914.8
+ORD-0417,2025-11-08,Tablet,Electronics,10.0,South,378.51,3785.1
+ORD-0418,2025-06-05,Tablet,Electronics,8.0,South,386.48,3091.84
+ORD-0419,2025-07-26,Monitor,Electronics,6.0,South,236.23,1417.38
+ORD-0420,2025-04-18,Monitor,Electronics,6.0,West,228.0,1368.0
+ORD-0421,2025-09-08,Webcam,Electronics,8.0,West,64.58,516.64
+ORD-0422,2025-11-30,Headphones,Electronics,7.0,North,85.47,598.29
+ORD-0423,2025-05-10,Monitor,Electronics,10.0,North,208.66,2086.6
+ORD-0424,2025-10-20,Office Chair,Furniture,10.0,West,159.3,1593.0
+ORD-0425,2025-01-20,Backpack,Stationery,8.0,North,32.52,260.16
+ORD-0426,2025-10-09,Backpack,Stationery,2.0,East,36.47,72.94
+ORD-0427,2025-10-12,Smartphone,Electronics,9.0,East,671.69,6045.21
+ORD-0428,2025-01-01,Mouse,Electronics,1.0,West,23.56,23.56
+ORD-0429,2025-04-29,Tablet,Electronics,8.0,North,450.53,3604.24
+ORD-0430,2025-02-04,Laptop,Electronics,4.0,South,931.25,3725.0
+ORD-0431,2025-07-17,USB Cable,Accessories,4.0,East,11.5,46.0
+ORD-0432,2025-09-02,Desk Lamp,Furniture,5.0,West,27.91,139.55
+ORD-0433,2025-02-28,Laptop,Electronics,8.0,North,905.57,7244.56
+ORD-0434,2025-11-21,Mouse,Electronics,5.0,West,22.61,113.05
+ORD-0435,2025-06-10,USB Cable,Accessories,8.0,South,12.2,97.6
+ORD-0436,2025-06-28,Webcam,Electronics,10.0,East,74.79,747.9
+ORD-0437,2025-07-25,Headphones,Electronics,1.0,West,80.78,80.78
+ORD-0438,2025-01-12,Keyboard,Electronics,10.0,West,42.47,424.7
+ORD-0439,2025-10-03,Headphones,Electronics,9.0,West,72.54,652.86
+ORD-0440,2025-06-30,Laptop,Electronics,6.0,South,895.78,5374.68
+ORD-0441,2025-08-30,Laptop,Electronics,3.0,West,934.06,2802.18
+ORD-0442,2025-08-04,USB Cable,Accessories,8.0,South,12.62,100.96
+ORD-0443,2025-09-08,USB Cable,Accessories,9.0,South,11.25,101.25
+ORD-0444,2025-10-26,Tablet,Electronics,6.0,South,438.46,2630.76
+ORD-0445,2025-05-06,Webcam,Electronics,7.0,East,75.14,525.98
+ORD-0446,2025-08-05,Tablet,Electronics,1.0,East,416.13,416.13
+ORD-0447,2025-11-02,Mouse,Electronics,5.0,West,26.61,133.05
+ORD-0448,2025-10-12,Monitor,Electronics,5.0,West,222.4,1112.0
+ORD-0449,2025-07-04,Headphones,Electronics,10.0,East,82.19,821.9
+ORD-0450,2025-02-08,USB Cable,Accessories,4.0,North,12.06,48.24
+ORD-0451,2025-08-11,Desk,Furniture,6.0,East,238.23,1429.38
+ORD-0452,2025-07-03,Mouse,Electronics,7.0,South,23.67,165.69
+ORD-0453,2025-06-27,Office Chair,Furniture,9.0,East,153.7,1383.3
+ORD-0454,2025-10-21,Webcam,Electronics,1.0,South,67.06,67.06
+ORD-0455,2025-12-06,Laptop,Electronics,6.0,West,962.02,5772.12
+ORD-0456,2025-05-31,Tablet,Electronics,7.0,North,388.08,2716.56
+ORD-0457,2025-05-06,Mouse,Electronics,3.0,West,27.08,81.24
+ORD-0458,2025-10-28,Desk Lamp,Furniture,8.0,South,31.32,250.56
+ORD-0459,2025-11-04,Headphones,Electronics,5.0,South,78.42,392.1
+ORD-0460,2025-12-02,USB Cable,Accessories,9.0,South,11.18,100.62
+ORD-0461,2025-08-22,Laptop,Electronics,5.0,North,1022.58,5112.9
+ORD-0462,2025-01-08,Keyboard,Electronics,9.0,East,47.91,431.19
+ORD-0463,2025-12-07,Desk Lamp,Furniture,10.0,West,31.33,313.3
+ORD-0464,2025-05-09,Webcam,Electronics,4.0,West,66.8,267.2
+ORD-0465,2025-09-21,Mouse,Electronics,9.0,East,24.51,220.59
+ORD-0466,2025-06-06,Printer,Electronics,5.0,West,165.7,828.5
+ORD-0467,2025-12-18,Laptop,Electronics,10.0,North,890.92,8909.2
+ORD-0468,2025-12-24,Headphones,Electronics,9.0,West,84.53,760.77
+ORD-0469,2025-01-05,Smartphone,Electronics,3.0,South,677.96,2033.88
+ORD-0470,2025-03-27,Desk,Furniture,4.0,East,244.49,977.96
+ORD-0471,2025-06-24,Notebook,Stationery,9.0,North,8.63,77.67
+ORD-0472,2025-10-17,Desk Lamp,Furniture,10.0,East,30.5,305.0
+ORD-0473,2025-07-12,Monitor,Electronics,6.0,North,218.55,1311.3
+ORD-0474,2025-11-07,Notebook,Stationery,2.0,South,7.74,15.48
+ORD-0475,2025-04-29,Headphones,Electronics,7.0,East,87.05,609.35
+ORD-0476,2025-08-06,Office Chair,Furniture,2.0,West,146.65,293.3
+ORD-0477,2025-04-24,Tablet,Electronics,2.0,North,456.19,912.38
+ORD-0478,2025-05-25,Office Chair,Furniture,1.0,East,170.45,170.45
+ORD-0479,2025-01-26,Smartphone,Electronics,3.0,West,601.89,1805.67
+ORD-0480,2025-05-16,Desk Lamp,Furniture,6.0,East,30.39,182.34
+ORD-0481,2025-10-30,Monitor,Electronics,8.0,East,236.13,1889.04
+ORD-0482,2025-08-20,Printer,Electronics,9.0,East,182.59,1643.31
+ORD-0483,2025-03-17,Smartphone,Electronics,7.0,North,702.94,4920.58
+ORD-0484,2025-11-24,Desk Lamp,Furniture,4.0,West,32.66,130.64
+ORD-0485,2025-12-11,Backpack,Stationery,6.0,South,34.46,206.76
+ORD-0486,2025-10-29,Notebook,Stationery,5.0,North,7.8,39.0
+ORD-0487,2025-10-16,Smartphone,Electronics,8.0,North,706.72,5653.76
+ORD-0488,2025-01-01,Notebook,Stationery,1.0,North,8.28,8.28
+ORD-0489,2025-05-27,Laptop,Electronics,1.0,South,877.04,877.04
+ORD-0490,2025-10-14,Office Chair,Furniture,6.0,West,145.35,872.1
+ORD-0491,2025-05-22,Laptop,Electronics,10.0,West,962.28,9622.8
+ORD-0492,2025-02-22,Desk,Furniture,2.0,West,260.65,521.3
+ORD-0493,2025-10-31,Backpack,Stationery,5.0,East,37.41,187.05
+ORD-0494,2025-03-10,Monitor,Electronics,1.0,East,227.74,227.74
+ORD-0495,2025-12-27,Printer,Electronics,7.0,East,167.01,1169.07
+ORD-0496,2025-03-31,Webcam,Electronics,1.0,South,66.56,66.56
+ORD-0497,2025-08-08,Notebook,Stationery,4.0,East,8.6,34.4
+ORD-0498,2025-07-11,Printer,Electronics,9.0,South,168.58,1517.22
+ORD-0499,2025-03-04,Notebook,Stationery,1.0,West,7.65,7.65
+ORD-0500,2025-03-14,Headphones,Electronics,4.0,East,74.07,296.28
+ORD-0501,2025-06-10,Smartphone,Electronics,6.0,East,672.89,4037.34
+ORD-0502,2025-06-18,Desk,Furniture,6.0,North,261.31,1567.86
+ORD-0503,2025-03-30,Office Chair,Furniture,8.0,South,152.61,1220.88
+ORD-0504,2025-06-25,Webcam,Electronics,1.0,West,69.66,69.66
+ORD-0505,2025-09-26,USB Cable,Accessories,7.0,North,12.32,86.24
+ORD-0506,2025-03-14,Notebook,Stationery,1.0,North,8.8,8.8
+ORD-0507,2025-09-02,Printer,Electronics,7.0,West,165.77,1160.39
+ORD-0508,2025-03-18,Desk,Furniture,3.0,North,239.93,719.79
+ORD-0509,2025-06-08,Keyboard,Electronics,8.0,South,43.97,351.76
+ORD-0510,2025-11-20,Webcam,Electronics,3.0,South,75.12,225.36
+ORD-0511,2025-04-08,Keyboard,Electronics,1.0,East,44.78,44.78
+ORD-0512,2025-04-12,Laptop,Electronics,8.0,North,876.09,7008.72
+ORD-0513,2025-05-12,Office Chair,Furniture,3.0,East,164.3,492.9
+ORD-0514,2025-04-12,Tablet,Electronics,2.0,North,442.75,885.5
+ORD-0515,2025-01-19,Tablet,Electronics,1.0,South,378.24,378.24
+ORD-0516,2025-03-23,USB Cable,Accessories,3.0,South,12.86,38.58
+ORD-0517,2025-10-06,Headphones,Electronics,2.0,South,74.98,149.96
+ORD-0518,2025-12-05,Printer,Electronics,2.0,North,181.87,363.74
+ORD-0519,2025-12-31,Desk Lamp,Furniture,6.0,South,29.49,176.94
+ORD-0520,2025-11-27,USB Cable,Accessories,1.0,North,12.53,12.53
+ORD-0521,2025-05-09,Smartphone,Electronics,2.0,East,633.25,1266.5
+ORD-0522,2025-12-10,Smartphone,Electronics,6.0,North,698.07,4188.42
+ORD-0523,2025-11-06,Printer,Electronics,3.0,East,188.3,564.9
+ORD-0524,2025-03-30,Desk Lamp,Furniture,4.0,North,30.89,123.56
+ORD-0525,2025-08-01,Monitor,Electronics,1.0,East,233.03,233.03
+ORD-0526,2025-05-23,Headphones,Electronics,8.0,South,84.06,672.48
+ORD-0527,2025-03-06,Desk,Furniture,7.0,East,217.73,1524.11
+ORD-0528,2025-03-17,Notebook,Stationery,7.0,South,7.83,54.81
+ORD-0529,2025-07-18,Desk Lamp,Furniture,3.0,South,32.58,97.74
+ORD-0530,2025-05-23,Tablet,Electronics,10.0,East,388.56,3885.6
+ORD-0531,2025-11-12,Webcam,Electronics,10.0,North,73.32,733.2
+ORD-0532,2025-04-03,Monitor,Electronics,3.0,North,240.88,381.76
+ORD-0533,2025-11-01,Notebook,Stationery,2.0,West,7.28,14.56
+ORD-0534,2025-08-12,Notebook,Stationery,1.0,North,8.29,8.29
+ORD-0535,2025-10-18,Monitor,Electronics,7.0,West,218.6,1530.2
+ORD-0536,2025-04-12,Laptop,Electronics,7.0,North,965.04,6755.28
+ORD-0537,2025-09-24,Keyboard,Electronics,2.0,North,41.27,82.54
+ORD-0538,2025-12-21,Notebook,Stationery,7.0,South,7.27,50.89
+ORD-0539,2025-04-20,Monitor,Electronics,8.0,West,227.34,1818.72
+ORD-0540,2025-11-26,Desk Lamp,Furniture,1.0,North,31.94,31.94
+ORD-0541,2025-09-22,Monitor,Electronics,9.0,West,232.41,2091.69
+ORD-0542,2025-01-03,Backpack,Stationery,7.0,South,35.31,247.17
+ORD-0543,2025-03-26,USB Cable,Accessories,3.0,South,11.04,33.12
+ORD-0544,2025-10-09,Mouse,Electronics,8.0,West,25.94,207.52
+ORD-0545,2025-11-24,Laptop,Electronics,7.0,South,900.96,6306.72
+ORD-0546,2025-10-31,Office Chair,Furniture,8.0,East,173.15,1385.2
+ORD-0547,2025-04-27,Mouse,Electronics,6.0,East,26.69,160.14
+ORD-0548,2025-08-09,USB Cable,Accessories,9.0,South,12.5,112.5
+ORD-0549,2025-06-03,USB Cable,Accessories,5.0,East,13.08,65.4
+ORD-0550,2025-06-02,USB Cable,Accessories,3.0,North,10.88,32.64
+ORD-0551,2025-01-12,Mouse,Electronics,3.0,West,26.18,78.54
+ORD-0552,2025-05-13,Printer,Electronics,1.0,North,173.89,173.89
+ORD-0553,2025-10-31,Keyboard,Electronics,8.0,West,48.65,389.2
+ORD-0554,2025-10-20,Monitor,Electronics,2.0,South,209.73,419.46
+ORD-0555,2025-10-27,Webcam,Electronics,3.0,North,73.15,219.45
+ORD-0556,2025-08-16,Keyboard,Electronics,8.0,South,48.4,387.2
+ORD-0557,2025-09-28,Tablet,Electronics,8.0,South,381.5,3052.0
+ORD-0558,2025-02-12,Desk Lamp,Furniture,4.0,West,29.39,117.56
+ORD-0559,2025-12-09,Headphones,Electronics,4.0,West,84.2,336.8
+ORD-0560,2025-11-22,Printer,Electronics,5.0,West,178.38,891.9
+ORD-0561,2025-10-29,Office Chair,Furniture,6.0,North,152.55,915.3
+ORD-0562,2025-12-30,Keyboard,Electronics,5.0,East,42.48,212.4
+ORD-0563,2025-01-21,Webcam,Electronics,7.0,West,64.84,453.88
+ORD-0564,2025-04-17,Smartphone,Electronics,2.0,West,696.43,1392.86
+ORD-0565,2025-12-02,USB Cable,Accessories,7.0,North,12.18,85.26
+ORD-0566,2025-10-30,Notebook,Stationery,10.0,West,7.32,73.2
+ORD-0567,2025-04-27,Tablet,Electronics,7.0,North,410.14,2870.98
+ORD-0568,2025-05-04,Headphones,Electronics,1.0,South,77.88,77.88
+ORD-0569,2025-10-08,Laptop,Electronics,7.0,West,889.53,6226.71
+ORD-0570,2025-10-19,Office Chair,Furniture,5.0,West,157.94,789.7
+ORD-0571,2025-07-22,Desk Lamp,Furniture,3.0,South,28.99,86.97
+ORD-0572,2025-02-20,Headphones,Electronics,3.0,South,77.47,232.41
+ORD-0573,2025-09-28,USB Cable,Accessories,4.0,South,12.57,50.28
+ORD-0574,2025-11-20,Notebook,Stationery,2.0,West,7.56,15.12
+ORD-0575,2025-10-04,Printer,Electronics,2.0,East,185.11,370.22
+ORD-0576,2025-05-21,Notebook,Stationery,1.0,East,8.11,8.11
+ORD-0577,2025-10-02,Mouse,Electronics,5.0,East,25.34,126.7
+ORD-0578,2025-10-17,Notebook,Stationery,4.0,West,8.26,33.04
+ORD-0579,2025-11-30,Mouse,Electronics,10.0,South,25.24,252.4
+ORD-0580,2025-02-21,Tablet,Electronics,2.0,West,451.86,903.72
+ORD-0581,2025-01-27,Printer,Electronics,3.0,South,186.32,558.96
+ORD-0582,2025-06-06,Desk Lamp,Furniture,7.0,West,30.28,211.96
+ORD-0583,2025-08-27,Desk,Furniture,7.0,West,255.83,1790.81
+ORD-0584,2025-06-05,USB Cable,Accessories,4.0,South,12.25,49.0
+ORD-0585,2025-10-18,Mouse,Electronics,5.0,East,23.96,119.8
+ORD-0586,2025-05-16,Laptop,Electronics,5.0,South,894.35,4471.75
+ORD-0587,2025-05-24,Notebook,Stationery,6.0,North,7.44,44.64
+ORD-0588,2025-04-16,Notebook,Stationery,9.0,North,8.64,77.76
+ORD-0589,2025-06-07,Laptop,Electronics,2.0,South,989.93,1979.86
+ORD-0590,2025-05-26,Desk Lamp,Furniture,5.0,West,32.62,163.1
+ORD-0591,2025-01-02,Smartphone,Electronics,3.0,North,663.43,1990.29
+ORD-0592,2025-03-18,Tablet,Electronics,4.0,North,417.77,1671.08
+ORD-0593,2025-05-12,Monitor,Electronics,10.0,West,200.63,2006.3
+ORD-0594,2025-03-31,Desk,Furniture,6.0,West,248.24,1489.44
+ORD-0595,2025-12-11,Office Chair,Furniture,8.0,East,162.63,1301.04
+ORD-0596,2025-12-16,Webcam,Electronics,1.0,West,76.86,76.86
+ORD-0597,2025-09-20,Mouse,Electronics,10.0,South,23.7,237.0
+ORD-0598,2025-12-17,Laptop,Electronics,8.0,South,955.84,7646.72
+ORD-0599,2025-04-18,Webcam,Electronics,7.0,East,72.11,504.77
+ORD-0600,2025-03-15,Printer,Electronics,1.0,North,185.21,185.21
+ORD-0601,2025-02-08,Desk Lamp,Furniture,2.0,North,30.37,60.74
+ORD-0602,2025-06-08,Mouse,Electronics,3.0,West,26.38,79.14
+ORD-0603,2025-03-12,Monitor,Electronics,1.0,South,207.02,207.02
+ORD-0604,2025-11-08,Webcam,Electronics,9.0,North,73.16,658.44
+ORD-0605,2025-08-29,Printer,Electronics,8.0,East,184.31,1474.48
+ORD-0606,2025-10-25,Headphones,Electronics,2.0,East,86.34,172.68
+ORD-0607,2025-02-05,USB Cable,Accessories,9.0,South,12.83,115.47
+ORD-0608,2025-03-25,Notebook,Stationery,7.0,East,7.7,53.9
+ORD-0609,2025-09-20,Headphones,Electronics,9.0,East,76.42,687.78
+ORD-0610,2025-11-06,Mouse,Electronics,6.0,South,27.41,164.46
+ORD-0611,2025-06-21,Monitor,Electronics,6.0,West,221.2,1327.2
+ORD-0612,2025-06-22,Desk,Furniture,4.0,West,259.51,1038.04
+ORD-0613,2025-12-28,Webcam,Electronics,10.0,East,65.29,652.9
+ORD-0614,2025-02-16,Tablet,Electronics,10.0,West,432.0,4320.0
+ORD-0615,2025-05-21,USB Cable,Accessories,2.0,West,12.74,25.48
+ORD-0616,2025-04-28,Mouse,Electronics,7.0,East,27.24,190.68
+ORD-0617,2025-10-04,Desk Lamp,Furniture,5.0,West,29.02,145.1
+ORD-0618,2025-08-02,Laptop,Electronics,6.0,East,992.75,5956.5
+ORD-0619,2025-08-08,Tablet,Electronics,2.0,North,423.26,846.52
+ORD-0620,2025-01-26,Tablet,Electronics,5.0,South,383.09,1915.45
+ORD-0621,2025-01-09,Tablet,Electronics,10.0,South,435.96,4359.6
+ORD-0622,2025-09-28,Keyboard,Electronics,4.0,West,46.71,186.84
+ORD-0623,2025-01-10,Mouse,Electronics,9.0,West,27.15,244.35
+ORD-0624,2025-05-01,USB Cable,Accessories,6.0,West,11.99,71.94
+ORD-0625,2025-05-05,Notebook,Stationery,2.0,South,7.57,15.14
+ORD-0626,2025-06-19,Notebook,Stationery,1.0,North,7.27,7.27
+ORD-0627,2025-03-13,Mouse,Electronics,5.0,North,24.58,122.9
+ORD-0628,2025-06-01,Printer,Electronics,9.0,South,172.87,1555.83
+ORD-0629,2025-07-27,Keyboard,Electronics,6.0,North,47.35,284.1
+ORD-0630,2025-02-18,Laptop,Electronics,10.0,South,922.31,9223.1
+ORD-0631,2025-06-03,Tablet,Electronics,7.0,North,457.72,3204.04
+ORD-0632,2025-12-13,Tablet,Electronics,5.0,East,458.83,2294.15
+ORD-0633,2025-10-20,Mouse,Electronics,10.0,East,25.6,256.0
+ORD-0634,2025-03-09,Printer,Electronics,6.0,South,195.43,1172.58
+ORD-0635,2025-02-19,Notebook,Stationery,5.0,North,8.42,42.1
+ORD-0636,2025-06-01,Notebook,Stationery,9.0,West,8.07,72.63
+ORD-0637,2025-01-19,Monitor,Electronics,6.0,North,205.93,1235.58
+ORD-0638,2025-04-10,Mouse,Electronics,8.0,East,24.79,198.32
+ORD-0639,2025-03-01,Keyboard,Electronics,2.0,East,45.55,91.1
+ORD-0640,2025-06-16,Smartphone,Electronics,9.0,North,697.32,6275.88
+ORD-0641,2025-07-21,Keyboard,Electronics,5.0,North,44.83,224.15
+ORD-0642,2025-12-11,Desk Lamp,Furniture,7.0,West,32.39,226.73
+ORD-0643,2025-05-26,Notebook,Stationery,10.0,West,8.28,82.8
+ORD-0644,2025-06-13,Notebook,Stationery,1.0,North,7.42,7.42
+ORD-0645,2025-08-30,Headphones,Electronics,10.0,North,87.92,879.2
+ORD-0646,2025-03-10,Notebook,Stationery,5.0,North,8.04,40.2
+ORD-0647,2025-06-24,Laptop,Electronics,10.0,North,929.45,9294.5
+ORD-0648,2025-02-18,Office Chair,Furniture,2.0,South,165.09,330.18
+ORD-0649,2025-04-18,Mouse,Electronics,6.0,North,23.04,138.24
+ORD-0650,2025-08-14,Webcam,Electronics,1.0,West,71.91,71.91
+ORD-0651,2025-06-10,Keyboard,Electronics,3.0,East,44.98,134.94
+ORD-0652,2025-04-29,Office Chair,Furniture,5.0,South,157.01,785.05
+ORD-0653,2025-05-29,Printer,Electronics,4.0,North,196.31,785.24
+ORD-0654,2025-05-30,Smartphone,Electronics,3.0,East,652.93,1958.79
+ORD-0655,2025-10-20,Laptop,Electronics,10.0,South,896.63,8966.3
+ORD-0656,2025-05-23,USB Cable,Accessories,5.0,East,11.9,59.5
+ORD-0657,2025-06-09,Backpack,Stationery,8.0,North,37.94,303.52
+ORD-0658,2025-01-11,Keyboard,Electronics,4.0,North,42.08,168.32
+ORD-0659,2025-05-18,Office Chair,Furniture,1.0,West,150.85,150.85
+ORD-0660,2025-03-19,USB Cable,Accessories,7.0,North,10.83,75.81
+ORD-0661,2025-03-18,Smartphone,Electronics,8.0,North,586.84,4694.72
+ORD-0662,2025-09-11,Headphones,Electronics,3.0,South,85.27,255.81
+ORD-0663,2025-09-15,USB Cable,Accessories,6.0,West,12.56,75.36
+ORD-0664,2025-11-16,Laptop,Electronics,2.0,South,922.46,1844.92
+ORD-0665,2025-10-18,Laptop,Electronics,7.0,East,987.68,6913.76
+ORD-0666,2025-09-20,Webcam,Electronics,8.0,North,68.53,548.24
+ORD-0667,2025-03-26,Headphones,Electronics,6.0,East,87.25,523.5
+ORD-0668,2025-05-26,Backpack,Stationery,6.0,South,38.27,229.62
+ORD-0669,2025-11-19,Mouse,Electronics,5.0,North,24.46,122.3
+ORD-0670,2025-02-11,USB Cable,Accessories,8.0,North,12.85,102.8
+ORD-0671,2025-05-05,Headphones,Electronics,1.0,South,84.37,84.37
+ORD-0672,2025-06-16,Laptop,Electronics,10.0,South,913.9,9139.0
+ORD-0673,2025-08-29,Laptop,Electronics,4.0,South,899.09,3596.36
+ORD-0674,2025-10-07,Office Chair,Furniture,4.0,South,158.66,634.64
+ORD-0675,2025-07-07,Notebook,Stationery,3.0,South,8.45,25.35
+ORD-0676,2025-10-29,Backpack,Stationery,3.0,North,38.22,114.66
+ORD-0677,2025-01-19,USB Cable,Accessories,4.0,South,12.63,50.52
+ORD-0678,2025-03-09,Webcam,Electronics,1.0,North,74.97,74.97
+ORD-0679,2025-08-06,Webcam,Electronics,2.0,North,71.44,142.88
+ORD-0680,2025-04-12,USB Cable,Accessories,9.0,South,12.8,115.2
+ORD-0681,2025-02-11,Desk Lamp,Furniture,10.0,South,31.71,317.1
+ORD-0682,2025-10-15,Tablet,Electronics,2.0,West,409.67,819.34
+ORD-0683,2025-06-16,Smartphone,Electronics,5.0,North,656.76,3283.8
+ORD-0684,2025-04-19,Webcam,Electronics,9.0,South,74.27,668.43
+ORD-0685,2025-02-05,Headphones,Electronics,9.0,South,72.74,654.66
+ORD-0686,2025-08-20,Smartphone,Electronics,8.0,South,690.05,5520.4
+ORD-0687,2025-08-17,Headphones,Electronics,1.0,West,74.85,74.85
+ORD-0688,2025-12-19,Printer,Electronics,1.0,West,180.53,180.53
+ORD-0689,2025-06-13,Laptop,Electronics,9.0,East,1008.57,9077.13
+ORD-0690,2025-03-14,Notebook,Stationery,8.0,North,7.61,60.88
+ORD-0691,2025-05-16,Office Chair,Furniture,10.0,East,151.87,1518.7
+ORD-0692,2025-12-19,Webcam,Electronics,9.0,South,68.64,617.76
+ORD-0693,2025-03-11,Notebook,Stationery,7.0,West,8.63,60.41
+ORD-0694,2025-07-15,Notebook,Stationery,3.0,West,7.2,21.6
+ORD-0695,2025-09-26,Notebook,Stationery,3.0,East,8.64,25.92
+ORD-0696,2025-02-18,Tablet,Electronics,2.0,West,390.92,781.84
+ORD-0697,2025-11-12,Smartphone,Electronics,5.0,South,713.71,3568.55
+ORD-0698,2025-05-10,Headphones,Electronics,3.0,West,87.28,261.84
+ORD-0699,2025-01-05,Desk,Furniture,6.0,East,239.74,1438.44
+ORD-0700,2025-01-27,Printer,Electronics,2.0,South,180.46,360.92
+ORD-0701,2025-06-09,Keyboard,Electronics,3.0,East,44.83,134.49
+ORD-0702,2025-05-29,Notebook,Stationery,5.0,West,8.22,41.1
+ORD-0703,2025-09-21,Mouse,Electronics,,East,22.95,22.95
+ORD-0704,2025-08-18,Smartphone,Electronics,1.0,East,589.24,589.24
+ORD-0705,2025-07-19,Webcam,Electronics,10.0,North,63.81,638.1
+ORD-0706,2025-02-19,Backpack,Stationery,9.0,West,34.61,311.49
+ORD-0707,2025-03-08,Webcam,Electronics,7.0,West,66.86,468.02
+ORD-0708,2025-10-27,Office Chair,Furniture,1.0,East,163.91,163.91
+ORD-0709,2025-02-27,Keyboard,Electronics,8.0,North,49.43,395.44
+ORD-0710,2025-09-16,Desk,Furniture,3.0,West,234.54,703.62
+ORD-0711,2025-12-08,Mouse,Electronics,8.0,South,25.37,202.96
+ORD-0712,2025-11-22,Webcam,Electronics,5.0,East,68.82,344.1
+ORD-0713,2025-05-10,Desk,Furniture,1.0,West,256.67,256.67
+ORD-0714,2025-08-03,Keyboard,Electronics,7.0,South,48.62,340.34
+ORD-0715,2025-06-21,Notebook,Stationery,5.0,West,8.6,43.0
+ORD-0716,2025-09-15,Mouse,Electronics,6.0,South,27.37,164.22
+ORD-0717,2025-04-12,Desk,Furniture,6.0,East,217.32,1303.92
+ORD-0718,2025-07-28,Office Chair,Furniture,8.0,West,170.87,1366.96
+ORD-0719,2025-10-18,Headphones,Electronics,9.0,West,84.03,756.27
+ORD-0720,2025-12-20,Laptop,Electronics,2.0,North,898.45,1796.9
+ORD-0721,2025-10-13,Headphones,Electronics,9.0,East,87.3,785.7
+ORD-0722,2025-04-26,Keyboard,Electronics,10.0,South,41.83,418.3
+ORD-0723,2025-09-21,Smartphone,Electronics,9.0,West,673.34,6060.06
+ORD-0724,2025-05-30,Laptop,Electronics,10.0,West,897.73,8977.3
+ORD-0725,2025-10-27,Printer,Electronics,10.0,South,177.53,1775.3
+ORD-0726,2025-02-05,Office Chair,Furniture,7.0,East,167.01,1169.07
+ORD-0727,2025-11-29,Printer,Electronics,1.0,North,182.28,182.28
+ORD-0728,2025-10-14,Tablet,Electronics,7.0,North,413.91,2897.37
+ORD-0729,2025-10-30,Mouse,Electronics,10.0,West,24.13,241.3
+ORD-0730,2025-11-07,USB Cable,Accessories,5.0,South,12.82,64.1
+ORD-0731,2025-07-27,Laptop,Electronics,6.0,West,882.32,5293.92
+ORD-0732,2025-04-16,Printer,Electronics,10.0,South,177.48,1774.8
+ORD-0733,2025-06-07,Webcam,Electronics,7.0,North,75.65,529.55
+ORD-0734,2025-05-01,Printer,Electronics,5.0,East,192.45,962.25
+ORD-0735,2025-02-24,Desk,Furniture,7.0,South,235.25,1646.75
+ORD-0736,2025-01-12,Headphones,Electronics,9.0,North,84.21,757.89
+ORD-0737,2025-05-25,Desk,Furniture,3.0,West,255.51,766.53
+ORD-0738,2025-05-16,Tablet,Electronics,8.0,South,452.67,3621.36
+ORD-0739,2025-01-03,Laptop,Electronics,2.0,East,958.46,1916.92
+ORD-0740,2025-05-24,Laptop,Electronics,7.0,West,893.85,6256.95
+ORD-0741,2025-01-30,Tablet,Electronics,2.0,West,399.45,798.9
+ORD-0742,2025-08-25,Keyboard,Electronics,4.0,North,43.16,172.64
+ORD-0743,2025-10-06,Desk,Furniture,7.0,South,244.5,1711.5
+ORD-0744,2025-12-14,Monitor,Electronics,3.0,West,199.44,598.32
+ORD-0745,2025-04-25,Webcam,Electronics,2.0,East,71.9,143.8
+ORD-0746,2025-04-14,Backpack,Stationery,10.0,South,34.05,340.5
+ORD-0747,2025-04-28,Headphones,Electronics,7.0,East,76.72,537.04
+ORD-0748,2025-01-05,Laptop,Electronics,1.0,West,1022.1,1022.1
+ORD-0749,2025-12-26,Keyboard,Electronics,8.0,East,44.64,357.12
+ORD-0750,2025-09-05,USB Cable,Accessories,3.0,North,11.03,33.09
+ORD-0751,2025-12-30,Webcam,Electronics,2.0,East,74.57,149.14
+ORD-0752,2025-11-17,Desk,Furniture,3.0,South,218.29,654.87
+ORD-0753,2025-05-01,Headphones,Electronics,5.0,East,83.63,418.15
+ORD-0754,2025-10-13,USB Cable,Accessories,8.0,East,12.66,101.28
+ORD-0755,2025-05-29,Desk,Furniture,10.0,North,232.92,2329.2
+ORD-0756,2025-03-25,Printer,Electronics,7.0,East,191.69,1341.83
+ORD-0757,2025-08-19,USB Cable,Accessories,7.0,East,12.04,84.28
+ORD-0758,2025-10-15,Tablet,Electronics,7.0,West,416.92,2918.44
+ORD-0759,2025-06-10,Desk Lamp,Furniture,8.0,West,27.27,218.16
+ORD-0760,2025-09-29,Keyboard,Electronics,1.0,South,43.11,43.11
+ORD-0761,2025-02-07,Headphones,Electronics,4.0,West,86.9,347.6
+ORD-0762,2025-08-14,Notebook,Stationery,6.0,West,7.83,46.98
+ORD-0763,2025-05-22,Desk Lamp,Furniture,9.0,West,30.28,272.52
+ORD-0764,2025-10-19,Mouse,Electronics,2.0,West,25.16,50.32
+ORD-0765,2025-05-31,Mouse,Electronics,1.0,North,25.45,25.45
+ORD-0766,2025-04-24,Headphones,Electronics,10.0,West,72.98,729.8
+ORD-0767,2025-08-25,USB Cable,Accessories,2.0,North,11.67,23.34
+ORD-0768,2025-03-07,Desk,Furniture,7.0,North,250.71,1754.97
+ORD-0769,2025-12-27,Keyboard,Electronics,3.0,West,42.31,126.93
+ORD-0770,2025-12-07,Backpack,Stationery,10.0,East,32.93,329.3
+ORD-0771,2025-09-15,Mouse,Electronics,2.0,North,22.55,45.1
+ORD-0772,2025-09-06,Keyboard,Electronics,7.0,East,44.44,311.08
+ORD-0773,2025-11-27,Mouse,Electronics,2.0,East,26.91,53.82
+ORD-0774,2025-11-19,Printer,Electronics,3.0,West,163.87,491.61
+ORD-0775,2025-06-29,Desk,Furniture,7.0,South,225.17,1576.19
+ORD-0776,2025-07-09,Printer,Electronics,4.0,West,173.16,692.64
+ORD-0777,2025-06-03,Webcam,Electronics,1.0,South,73.24,73.24
+ORD-0778,2025-07-15,Mouse,Electronics,5.0,South,25.7,128.5
+ORD-0779,2025-11-07,Notebook,Stationery,9.0,West,7.87,70.83
+ORD-0780,2025-09-19,Notebook,Stationery,8.0,West,8.41,67.28
+ORD-0781,2025-05-23,Printer,Electronics,9.0,South,183.95,1655.55
+ORD-0782,2025-12-08,Tablet,Electronics,10.0,West,453.27,4532.7
+ORD-0783,2025-11-12,Desk Lamp,Furniture,9.0,South,31.91,287.19
+ORD-0784,2025-04-11,Notebook,Stationery,7.0,East,7.6,53.2
+ORD-0785,2025-09-01,Mouse,Electronics,4.0,West,23.86,95.44
+ORD-0786,2025-01-12,Headphones,Electronics,5.0,East,74.01,370.05
+ORD-0787,2025-08-27,Printer,Electronics,1.0,North,174.13,174.13
+ORD-0788,2025-02-18,Webcam,Electronics,1.0,East,76.99,76.99
+ORD-0789,2025-02-11,Backpack,Stationery,3.0,East,34.34,103.02
+ORD-0790,2025-06-15,Backpack,Stationery,8.0,South,33.04,264.32
+ORD-0791,2025-03-23,Smartphone,Electronics,2.0,East,684.12,1368.24
+ORD-0792,2025-10-18,Desk Lamp,Furniture,4.0,West,30.25,121.0
+ORD-0793,2025-06-07,USB Cable,Accessories,2.0,South,11.16,22.32
+ORD-0794,2025-08-04,Desk,Furniture,5.0,North,234.27,1171.35
+ORD-0795,2025-06-07,Notebook,Stationery,9.0,West,7.86,70.74
+ORD-0796,2025-05-14,Notebook,Stationery,1.0,North,8.41,8.41
+ORD-0797,2025-03-08,USB Cable,Accessories,5.0,East,10.85,54.25
+ORD-0798,2025-12-02,Laptop,Electronics,9.0,West,906.11,8154.99
+ORD-0799,2025-01-07,Webcam,Electronics,1.0,West,70.25,70.25
+ORD-0800,2025-01-14,Monitor,Electronics,9.0,North,209.83,1888.47
+ORD-0801,2025-03-14,Printer,Electronics,8.0,West,184.62,1476.96
+ORD-0802,2025-06-12,Tablet,Electronics,4.0,West,418.48,1673.92
+ORD-0803,2025-03-07,Webcam,Electronics,10.0,West,68.06,680.6
+ORD-0804,2025-12-13,Office Chair,Furniture,5.0,East,174.37,871.85
+ORD-0805,2025-05-10,Notebook,Stationery,5.0,North,8.21,41.05
+ORD-0806,2025-07-25,Desk,Furniture,6.0,West,222.24,1333.44
+ORD-0807,2025-10-03,Smartphone,Electronics,7.0,South,657.81,4604.67
+ORD-0808,2025-09-13,Backpack,Stationery,8.0,South,36.97,295.76
+ORD-0809,2025-09-23,Notebook,Stationery,8.0,South,8.33,66.64
+ORD-0810,2025-01-25,Smartphone,Electronics,2.0,South,607.37,1214.74
+ORD-0811,2025-10-08,Mouse,Electronics,9.0,East,27.36,246.24
+ORD-0812,2025-09-10,Webcam,Electronics,7.0,West,69.28,484.96
+ORD-0813,2025-11-06,Mouse,Electronics,4.0,North,23.3,93.2
+ORD-0814,2025-10-16,Monitor,Electronics,4.0,West,205.93,823.72
+ORD-0815,2025-06-13,Headphones,Electronics,8.0,East,73.57,588.56
+ORD-0816,2025-04-05,Office Chair,Furniture,4.0,South,169.71,678.84
+ORD-0817,2025-09-27,Webcam,Electronics,6.0,East,64.71,388.26
+ORD-0818,2025-11-17,Laptop,Electronics,5.0,West,878.77,4393.85
+ORD-0819,2025-04-20,Monitor,Electronics,3.0,North,235.42,706.26
+ORD-0820,2025-12-02,Keyboard,Electronics,10.0,East,43.6,436.0
+ORD-0821,2025-11-06,Laptop,Electronics,2.0,North,860.86,1721.72
+ORD-0822,2025-08-26,Desk Lamp,Furniture,9.0,East,27.31,245.79
+ORD-0823,2025-01-25,Printer,Electronics,10.0,North,167.12,1671.2
+ORD-0824,2025-05-21,Desk,Furniture,9.0,North,226.24,2036.16
+ORD-0825,2025-04-27,Webcam,Electronics,1.0,South,72.31,72.31
+ORD-0826,2025-01-25,Keyboard,Electronics,10.0,North,41.92,419.2
+ORD-0827,2025-03-20,Keyboard,Electronics,3.0,South,41.57,124.71
+ORD-0828,2025-03-09,Monitor,Electronics,8.0,West,231.65,1853.2
+ORD-0829,2025-06-22,USB Cable,Accessories,6.0,West,12.41,74.46
+ORD-0830,2025-01-12,Desk Lamp,Furniture,5.0,South,29.61,148.05
+ORD-0831,2025-10-15,Headphones,Electronics,5.0,South,80.79,403.95
+ORD-0832,2025-05-08,Webcam,Electronics,6.0,East,67.37,404.22
+ORD-0833,2025-04-06,USB Cable,Accessories,7.0,East,11.96,83.72
+ORD-0834,2025-04-02,Monitor,Electronics,1.0,East,220.29,220.29
+ORD-0835,2025-05-21,Printer,Electronics,9.0,West,175.94,1583.46
+ORD-0836,2025-01-31,Backpack,Stationery,3.0,East,37.85,113.55
+ORD-0837,2025-11-30,Notebook,Stationery,4.0,North,7.23,28.92
+ORD-0838,2025-01-20,Notebook,Stationery,10.0,North,8.45,84.5
+ORD-0839,2025-05-26,Headphones,Electronics,1.0,East,73.99,73.99
+ORD-0840,2025-11-12,Printer,Electronics,10.0,North,190.71,1907.1
+ORD-0841,2025-06-09,Tablet,Electronics,3.0,West,429.74,1289.22
+ORD-0842,2025-12-15,Headphones,Electronics,2.0,North,85.49,170.98
+ORD-0843,2025-02-12,Webcam,Electronics,2.0,West,64.37,128.74
+ORD-0844,2025-09-11,Webcam,Electronics,1.0,South,70.83,70.83
+ORD-0845,2025-05-10,Smartphone,Electronics,8.0,South,650.14,5201.12
+ORD-0846,2025-03-01,USB Cable,Accessories,3.0,South,12.49,37.47
+ORD-0847,2025-05-31,Tablet,Electronics,3.0,South,422.88,1268.64
+ORD-0848,2025-10-14,Notebook,Stationery,6.0,North,8.07,48.42
+ORD-0849,2025-01-05,Keyboard,Electronics,8.0,East,44.37,354.96
+ORD-0850,2025-09-23,USB Cable,Accessories,9.0,North,11.54,103.86
