@@ -4,80 +4,176 @@
 <meta charset="UTF-8">
 <title>Retail Sales Dashboard</title>
 <style>
+    * {
+        box-sizing: border-box;
+    }
+
     body {
-        font-family: Arial, sans-serif;
-        background-color: #f3f4f6;
+        font-family: 'Segoe UI', Arial, sans-serif;
+        background: linear-gradient(160deg, #f8fafc 0%, #e8ecf3 100%);
         margin: 0;
-        padding: 30px;
+        padding: 40px 30px;
+        min-height: 100vh;
     }
-    h1 {
+
+    .header {
         text-align: center;
-        color: #1e293b;
+        margin-bottom: 40px;
     }
+
+    .header h1 {
+        color: #141c2d;
+        font-size: 34px;
+        margin: 0;
+        letter-spacing: -0.5px;
+    }
+
+    .header p {
+        color: #64748b;
+        font-size: 15px;
+        margin-top: 8px;
+    }
+
     .cards {
         display: flex;
         justify-content: center;
-        gap: 20px;
+        gap: 24px;
         flex-wrap: wrap;
-        margin-bottom: 40px;
+        margin-bottom: 45px;
+        max-width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
     }
+
     .card {
-        background: white;
-        border-radius: 10px;
-        padding: 20px 30px;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        background: #ffffff;
+        border-radius: 16px;
+        padding: 26px 34px;
+        box-shadow: 0 4px 18px rgba(20, 28, 45, 0.08);
         text-align: center;
-        min-width: 180px;
+        min-width: 210px;
+        flex: 1;
+        border-top: 4px solid var(--accent, #2563eb);
+        transition: transform 0.15s ease;
     }
+
+    .card:hover {
+        transform: translateY(-4px);
+    }
+
+    .card .icon {
+        font-size: 22px;
+        margin-bottom: 6px;
+    }
+
     .card h2 {
-        margin: 0;
-        color: #3b82f6;
-        font-size: 24px;
+        margin: 4px 0 0;
+        color: #141c2d;
+        font-size: 26px;
+        font-weight: 700;
     }
+
     .card p {
-        margin: 5px 0 0;
-        color: #555;
+        margin: 6px 0 0;
+        color: #6b7686;
+        font-size: 13px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        font-weight: 600;
     }
+
+    .card.sales { --accent: #2563eb; }
+    .card.orders { --accent: #059669; }
+    .card.avg { --accent: #d97706; }
+    .card.top { --accent: #7c3aed; }
+
     .charts {
         display: flex;
         justify-content: center;
-        gap: 20px;
+        gap: 24px;
         flex-wrap: wrap;
+        max-width: 1300px;
+        margin: 0 auto;
     }
-    .charts img {
-        width: 400px;
+
+    .chart-card {
+        background: #ffffff;
+        border-radius: 16px;
+        padding: 20px;
+        box-shadow: 0 4px 18px rgba(20, 28, 45, 0.08);
+        flex: 1;
+        min-width: 340px;
+        max-width: 420px;
+    }
+
+    .chart-card h3 {
+        color: #141c2d;
+        font-size: 15px;
+        margin: 0 0 12px 4px;
+        font-weight: 600;
+    }
+
+    .chart-card img {
+        width: 100%;
         border-radius: 10px;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        display: block;
+    }
+
+    .footer {
+        text-align: center;
+        margin-top: 45px;
+        color: #94a3b8;
+        font-size: 13px;
     }
 </style>
 </head>
 <body>
 
-<h1>📊 Retail Sales Dashboard</h1>
+<div class="header">
+    <h1>📊 Retail Sales Dashboard</h1>
+    <p>Multi-Agent Retail Data Pipeline — Analysis Overview</p>
+</div>
 
 <div class="cards">
-    <div class="card">
+    <div class="card sales">
+        <div class="icon">💰</div>
         <h2>₹956,508.86</h2>
         <p>Total Sales</p>
     </div>
-    <div class="card">
+    <div class="card orders">
+        <div class="icon">🛒</div>
         <h2>850</h2>
         <p>Total Orders</p>
     </div>
-    <div class="card">
+    <div class="card avg">
+        <div class="icon">📈</div>
         <h2>₹1,125.30</h2>
         <p>Average Order Value</p>
     </div>
-    <div class="card">
+    <div class="card top">
+        <div class="icon">🏆</div>
         <h2>Laptop</h2>
         <p>Best-Selling Product</p>
     </div>
 </div>
 
 <div class="charts">
-    <img src="../assets/top_products.png" alt="Top Products">
-    <img src="../assets/sales_by_region.png" alt="Sales by Region">
-    <img src="../assets/sales_by_category.png" alt="Sales by Category">
+    <div class="chart-card">
+        <h3>Top 5 Best-Selling Products</h3>
+        <img src="../assets/top_products.png" alt="Top Products">
+    </div>
+    <div class="chart-card">
+        <h3>Sales by Region</h3>
+        <img src="../assets/sales_by_region.png" alt="Sales by Region">
+    </div>
+    <div class="chart-card">
+        <h3>Sales by Category</h3>
+        <img src="../assets/sales_by_category.png" alt="Sales by Category">
+    </div>
+</div>
+
+<div class="footer">
+    Built with LangGraph &middot; Python &middot; Pandas &middot; Matplotlib
 </div>
 
 </body>
