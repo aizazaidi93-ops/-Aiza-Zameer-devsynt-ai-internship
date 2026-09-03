@@ -1,0 +1,406 @@
+subscription_id,signup_date,plan_type,region,seats_purchased,monthly_revenue,status
+SUB-3000,2025-12-22,Enterprise,Other,24,4625.88,Active
+SUB-3001,2025-06-21,Basic,Asia,22,194.04,Churned
+SUB-3002,2025-08-07,Enterprise,,1,208.29,Trial
+SUB-3003,2025-12-11,Business,Asia,21,1607.19,Churned
+SUB-3004,2026-05-18,Basic,,7,58.91,Trial
+SUB-3005,2026-02-15,Business,North America,4,290.6,Churned
+SUB-3006,2026-06-16,Pro,,29,794.86,Trial
+SUB-3007,2025-07-16,Basic,Other,25,225.93,Active
+SUB-3008,2025-11-27,Business,Asia,20,1716.2,Churned
+SUB-3009,2026-04-20,Business,,25,1795.45,Trial
+SUB-3010,2026-04-14,Pro,Other,34,952.38,Active
+SUB-3011,2025-12-11,Basic,Europe,1,9.08,Active
+SUB-3012,2025-11-23,Basic,Asia,23,223.89,Active
+SUB-3013,2025-08-03,Pro,Other,6,191.05,Trial
+SUB-3014,2026-01-11,Basic,Other,41,348.6,Active
+SUB-3015,2026-06-04,Enterprise,Asia,2,376.8,Churned
+SUB-3016,2025-10-29,Pro,Other,19,562.67,Trial
+SUB-3017,2025-11-03,Enterprise,,25,4505.02,Active
+SUB-3018,2026-04-21,Business,Other,47,3446.08,Active
+SUB-3019,2025-06-29,Pro,Europe,19,505.34,Active
+SUB-3020,2026-03-24,Business,Asia,37,3014.47,Churned
+SUB-3021,2025-09-15,Business,,22,1711.54,Trial
+SUB-3022,2025-12-14,Basic,,14,119.98,Trial
+SUB-3023,2025-10-14,Enterprise,Europe,1,210.12,Trial
+SUB-3024,2026-03-09,Basic,Other,30,261.98,Churned
+SUB-3025,2026-02-20,Enterprise,Other,4,767.8,Trial
+SUB-3026,2026-05-31,Enterprise,North America,17,3380.42,Churned
+SUB-3027,2026-05-01,Pro,North America,29,900.42,Active
+SUB-3028,2025-12-21,Pro,North America,6,157.86,Trial
+SUB-3029,2026-01-09,Pro,,22,648.99,Trial
+SUB-3030,2026-02-15,Pro,Asia,6,184.08,Trial
+SUB-3031,2025-12-27,Pro,Europe,12,348.64,Active
+SUB-3032,2025-07-15,Basic,North America,50,487.1,Active
+SUB-3033,2025-08-23,Business,North America,23,1860.69,Trial
+SUB-3034,2025-07-03,Business,Other,30,2182.5,Churned
+SUB-3035,2026-04-24,Enterprise,Europe,44,9041.97,Active
+SUB-3036,2025-12-09,Enterprise,North America,49,10207.32,Active
+SUB-3037,2025-09-24,Enterprise,Europe,47,8893.06,Churned
+SUB-3038,2025-08-11,Basic,Asia,6,48.86,Active
+SUB-3039,2025-11-04,Business,Asia,42,3071.91,Churned
+SUB-3040,2025-09-26,Pro,Other,16,439.43,Churned
+SUB-3041,2026-01-05,Pro,Europe,14,420.84,Churned
+SUB-3042,2026-02-26,Pro,,17,515.81,Active
+SUB-3043,2025-10-07,Basic,Asia,39,349.81,Trial
+SUB-3044,2026-04-25,Basic,North America,8,66.79,Active
+SUB-3045,2026-02-11,Pro,,37,1178.92,Active
+SUB-3046,2026-05-19,Business,North America,24,2069.12,Active
+SUB-3047,2026-02-18,Business,,9,776.43,Churned
+SUB-3048,2026-06-24,Enterprise,,35,7520.16,Churned
+SUB-3049,2025-08-08,Business,,31,2564.95,Trial
+SUB-3050,2026-06-16,Basic,Other,22,196.38,Trial
+SUB-3051,2026-03-04,Business,Europe,24,1892.02,Active
+SUB-3052,2025-12-30,Basic,Other,49,417.86,Churned
+SUB-3053,2025-06-09,Pro,Europe,9,276.52,Trial
+SUB-3054,2026-01-03,Pro,Asia,45,1434.35,Active
+SUB-3055,2025-08-16,Business,Asia,40,2951.91,Churned
+SUB-3056,2025-11-17,Enterprise,Europe,5,981.11,Active
+SUB-3057,2026-02-24,Basic,,41,357.87,Trial
+SUB-3058,2025-11-19,Business,Asia,7,561.48,Active
+SUB-3059,2026-02-12,Basic,,1,9.61,Trial
+SUB-3060,2026-04-20,Pro,Other,39,1036.63,Active
+SUB-3061,2026-02-27,Basic,Other,20,168.39,Churned
+SUB-3062,2025-08-14,Basic,Europe,13,121.08,Churned
+SUB-3063,2025-07-04,Pro,Asia,38,1015.1,Churned
+SUB-3064,2026-05-27,Basic,Europe,6,58.21,Churned
+SUB-3065,2026-02-03,Pro,,48,1435.2,Trial
+SUB-3066,2025-06-28,Business,North America,6,469.29,Churned
+SUB-3067,2025-08-18,Enterprise,Europe,50,10854.75,Trial
+SUB-3068,2025-08-12,Enterprise,Europe,47,8912.76,Trial
+SUB-3069,2025-06-01,Business,,11,801.38,Churned
+SUB-3070,2025-12-23,Business,Europe,49,3961.94,Active
+SUB-3071,2025-06-10,Basic,Asia,46,423.32,Trial
+SUB-3072,2026-04-21,Basic,North America,48,392.25,Active
+SUB-3073,2026-03-10,Basic,Other,46,376.0,Churned
+SUB-3074,2026-06-22,Pro,Asia,24,644.57,Active
+SUB-3075,2026-06-17,Pro,Other,29,799.09,Active
+SUB-3076,2025-09-07,Enterprise,,23,4499.55,Active
+SUB-3077,2025-06-12,Enterprise,,38,7436.01,Churned
+SUB-3078,2025-09-22,Enterprise,,3,655.4,Churned
+SUB-3079,2025-09-22,Enterprise,,1,208.0,Trial
+SUB-3080,2026-04-04,Basic,Europe,39,366.84,Active
+SUB-3081,2026-06-25,Enterprise,Asia,13,2578.26,Trial
+SUB-3082,2025-08-22,Business,Other,16,1303.77,Active
+SUB-3083,2026-05-06,Business,Asia,12,1020.81,Trial
+SUB-3084,2026-03-10,Basic,Europe,41,388.31,Churned
+SUB-3085,2025-06-22,Business,Asia,23,1745.63,Active
+SUB-3086,2026-06-28,Pro,Other,31,844.38,Churned
+SUB-3087,2026-06-19,Business,,9,765.89,Active
+SUB-3088,2025-09-27,Enterprise,Asia,5,1081.68,Churned
+SUB-3089,2026-03-17,Basic,Asia,16,155.93,Trial
+SUB-3090,2026-06-16,Basic,Other,33,289.92,Active
+SUB-3091,2025-06-03,Basic,Asia,43,362.59,Trial
+SUB-3092,2025-10-01,Enterprise,Asia,4,724.1,Active
+SUB-3093,2026-03-14,Pro,Asia,48,1298.46,Churned
+SUB-3094,2026-05-05,Business,Europe,23,1869.17,Trial
+SUB-3095,2026-02-28,Business,,9,,Active
+SUB-3096,2025-09-25,Business,Asia,6,496.79,Active
+SUB-3097,2025-10-22,Business,,36,3120.7,Trial
+SUB-3098,2026-01-24,Business,North America,20,1552.61,Churned
+SUB-3099,2026-02-07,Enterprise,North America,14,2864.48,Active
+SUB-3100,2026-03-09,Basic,Europe,45,391.42,Trial
+SUB-3101,2026-06-01,Basic,Europe,2,17.67,Churned
+SUB-3102,2026-05-02,Basic,North America,13,108.32,Active
+SUB-3103,2026-07-06,Enterprise,,4,871.1,Active
+SUB-3104,2025-08-18,Business,Asia,31,2639.54,Active
+SUB-3105,2026-04-17,Business,Europe,48,3606.97,Trial
+SUB-3106,2026-07-06,Pro,Other,19,562.55,Active
+SUB-3107,2025-08-28,Pro,Europe,46,1354.33,Trial
+SUB-3108,2026-02-10,Basic,North America,15,141.16,Trial
+SUB-3109,2025-11-18,Business,Europe,44,3433.91,Churned
+SUB-3110,2026-04-12,Basic,,15,132.31,Active
+SUB-3111,2026-04-30,Basic,North America,10,95.81,Trial
+SUB-3112,2026-07-04,Basic,Asia,43,413.17,Trial
+SUB-3113,2025-09-29,Pro,,21,558.56,Active
+SUB-3114,2025-10-28,Enterprise,,37,7261.29,Churned
+SUB-3115,2025-10-22,Business,Europe,41,3496.98,Active
+SUB-3116,2025-07-04,Pro,,30,821.33,Active
+SUB-3117,2025-06-14,Basic,,32,305.7,Trial
+SUB-3118,2025-06-13,Basic,North America,4,38.57,Churned
+SUB-3119,2026-05-25,Business,Europe,6,476.91,Churned
+SUB-3120,2025-11-06,Basic,North America,10,98.8,Active
+SUB-3121,2025-09-23,Basic,,12,108.54,Churned
+SUB-3122,2025-11-14,Basic,,32,285.19,Trial
+SUB-3123,2026-01-01,Basic,Europe,45,430.2,Active
+SUB-3124,2025-10-24,Business,,3,260.55,Churned
+SUB-3125,2026-01-17,Enterprise,,33,7014.13,Trial
+SUB-3126,2025-11-28,Pro,Other,33,,Active
+SUB-3127,2025-07-20,Pro,Other,46,1348.73,Churned
+SUB-3128,2025-08-28,Enterprise,Europe,34,6988.18,Active
+SUB-3129,2025-12-25,Enterprise,Europe,34,,Active
+SUB-3130,2026-03-22,Enterprise,,28,5488.34,Active
+SUB-3131,2025-07-02,Business,Asia,31,2663.06,Active
+SUB-3132,2026-04-17,Business,Asia,15,1095.63,Active
+SUB-3133,2025-06-01,Basic,,46,441.18,Active
+SUB-3134,2026-03-30,Basic,Europe,22,196.03,Active
+SUB-3135,2025-10-08,Basic,Europe,17,149.93,Trial
+SUB-3136,2025-06-12,Business,Asia,16,1219.95,Trial
+SUB-3137,2025-11-16,Basic,North America,26,215.41,Trial
+SUB-3138,2025-09-02,Pro,North America,32,902.57,Churned
+SUB-3139,2026-06-30,Pro,Europe,14,423.59,Churned
+SUB-3140,2026-03-01,Pro,Asia,21,582.72,Trial
+SUB-3141,2025-09-24,Business,Other,46,3366.27,Trial
+SUB-3142,2025-12-06,Enterprise,Europe,29,5825.59,Trial
+SUB-3143,2026-05-19,Basic,,41,369.98,Active
+SUB-3144,2026-01-21,Basic,Other,35,299.96,Churned
+SUB-3145,2025-06-02,Enterprise,North America,29,6016.38,Active
+SUB-3146,2025-09-28,Business,Other,1,75.9,Churned
+SUB-3147,2025-07-18,Enterprise,Europe,27,4838.2,Trial
+SUB-3148,2025-12-20,Enterprise,Asia,34,6271.68,Trial
+SUB-3149,2025-12-22,Basic,Europe,46,433.93,Active
+SUB-3150,2026-01-29,Business,Asia,20,1685.51,Active
+SUB-3151,2025-12-29,Enterprise,Europe,16,2956.57,Active
+SUB-3152,2025-11-02,Pro,Other,17,484.88,Churned
+SUB-3153,2025-11-23,Enterprise,Asia,3,597.97,Active
+SUB-3154,2026-05-14,Enterprise,Other,31,6358.08,Churned
+SUB-3155,2025-06-11,Enterprise,North America,39,8042.7,Churned
+SUB-3156,2025-08-07,Business,Other,19,1578.75,Trial
+SUB-3157,2026-07-06,Business,Europe,30,2420.53,Active
+SUB-3158,2025-07-09,Basic,Other,33,316.66,Churned
+SUB-3159,2025-10-18,Enterprise,Other,23,4534.77,Churned
+SUB-3160,2025-08-12,Basic,North America,10,90.52,Trial
+SUB-3161,2026-01-17,Enterprise,North America,7,1482.46,Trial
+SUB-3162,2026-03-05,Business,North America,42,3619.44,Trial
+SUB-3163,2025-07-30,Enterprise,Europe,4,858.55,Trial
+SUB-3164,2025-08-23,Business,Other,14,1136.96,Active
+SUB-3165,2025-09-17,Pro,Europe,35,1109.24,Trial
+SUB-3166,2026-03-06,Pro,Europe,16,476.44,Active
+SUB-3167,2025-06-19,Pro,Europe,27,773.88,Active
+SUB-3168,2025-10-15,Pro,Other,31,884.39,Active
+SUB-3169,2025-11-12,Business,North America,4,314.41,Active
+SUB-3170,2025-11-06,Business,Other,4,297.0,Trial
+SUB-3171,2026-03-06,Business,Other,26,2092.01,Trial
+SUB-3172,2025-08-20,Basic,Europe,23,192.22,Active
+SUB-3173,2025-12-17,Enterprise,North America,22,4810.44,Active
+SUB-3174,2026-02-17,Pro,Other,6,180.72,Churned
+SUB-3175,2025-11-12,Business,Europe,29,,Active
+SUB-3176,2026-05-30,Business,Asia,24,1804.94,Active
+SUB-3177,2025-10-07,Pro,Other,39,1070.75,Active
+SUB-3178,2025-08-30,Enterprise,Europe,16,2974.25,Active
+SUB-3179,2026-01-25,Basic,Asia,39,345.72,Churned
+SUB-3180,2026-05-20,Business,North America,15,1158.1,Active
+SUB-3181,2026-05-12,Pro,Other,16,443.01,Active
+SUB-3182,2026-06-15,Business,Asia,16,1347.03,Churned
+SUB-3183,2026-03-06,Pro,Asia,31,944.9,Trial
+SUB-3184,2026-01-22,Pro,Europe,40,1212.6,Active
+SUB-3185,2025-12-01,Pro,Asia,37,1139.02,Churned
+SUB-3186,2026-02-05,Enterprise,Other,45,8963.43,Trial
+SUB-3187,2025-12-06,Enterprise,,17,3656.37,Trial
+SUB-3188,2026-01-26,Pro,Other,25,689.65,Churned
+SUB-3189,2025-07-26,Basic,Europe,17,162.75,Churned
+SUB-3190,2025-07-11,Business,Other,15,1205.26,Trial
+SUB-3191,2026-01-14,Basic,Asia,28,271.62,Churned
+SUB-3192,2026-05-15,Pro,Other,47,1335.72,Trial
+SUB-3193,2025-10-22,Pro,North America,19,591.02,Trial
+SUB-3194,2025-10-11,Pro,Asia,49,1307.08,Active
+SUB-3195,2026-06-03,Basic,Other,25,229.09,Active
+SUB-3196,2025-10-22,Enterprise,North America,10,2019.68,Trial
+SUB-3197,2025-10-20,Pro,,43,1216.69,Churned
+SUB-3198,2025-11-19,Basic,North America,49,419.57,Churned
+SUB-3199,2026-05-26,Pro,North America,4,121.41,Active
+SUB-3200,2026-03-30,Pro,Asia,28,777.55,Trial
+SUB-3201,2026-01-26,Enterprise,Other,43,8670.43,Trial
+SUB-3202,2025-10-07,Pro,,40,1200.14,Active
+SUB-3203,2025-11-22,Basic,Europe,35,343.08,Churned
+SUB-3204,2026-06-16,Basic,Europe,20,197.35,Trial
+SUB-3205,2025-07-04,Business,,13,926.38,Active
+SUB-3206,2025-10-02,Business,Other,22,1875.75,Trial
+SUB-3207,2025-12-08,Enterprise,Europe,39,7511.7,Active
+SUB-3208,2025-06-16,Basic,,30,293.31,Active
+SUB-3209,2025-08-18,Enterprise,Europe,13,2362.08,Active
+SUB-3210,2026-06-14,Basic,Europe,36,337.78,Active
+SUB-3211,2025-09-12,Business,Europe,45,3339.89,Active
+SUB-3212,2026-03-10,Enterprise,Europe,5,1015.71,Churned
+SUB-3213,2026-01-10,Pro,,46,1240.61,Active
+SUB-3214,2025-12-13,Pro,,32,890.06,Trial
+SUB-3215,2025-11-29,Basic,North America,20,178.54,Active
+SUB-3216,2025-11-17,Pro,Other,44,1395.76,Trial
+SUB-3217,2026-05-17,Pro,Asia,49,1554.64,Active
+SUB-3218,2026-05-28,Basic,Europe,23,187.78,Churned
+SUB-3219,2025-09-09,Pro,North America,34,986.16,Active
+SUB-3220,2025-06-08,Business,North America,33,2647.1,Active
+SUB-3221,2025-08-25,Pro,North America,20,590.29,Churned
+SUB-3222,2025-09-09,Business,Asia,36,2668.98,Trial
+SUB-3223,2025-07-22,Pro,North America,33,1015.94,Active
+SUB-3224,2025-12-03,Basic,Asia,16,141.56,Trial
+SUB-3225,2025-08-14,Pro,,28,771.77,Churned
+SUB-3226,2025-06-03,Business,Other,16,1202.26,Trial
+SUB-3227,2026-05-18,Business,North America,44,3434.98,Churned
+SUB-3228,2025-10-03,Pro,,46,1466.81,Trial
+SUB-3229,2026-03-01,Enterprise,Europe,25,4967.63,Churned
+SUB-3230,2026-01-07,Enterprise,,3,644.57,Churned
+SUB-3231,2025-12-08,Business,Europe,30,2420.19,Active
+SUB-3232,2026-03-16,Enterprise,North America,31,6214.3,Trial
+SUB-3233,2025-09-17,Enterprise,Europe,1,185.5,Churned
+SUB-3234,2025-06-28,Business,Asia,3,217.65,Active
+SUB-3235,2025-08-05,Pro,Europe,39,1061.85,Churned
+SUB-3236,2026-02-10,Basic,Asia,1,9.25,Churned
+SUB-3237,2025-09-23,Pro,,43,1325.17,Churned
+SUB-3238,2025-09-17,Enterprise,Asia,4,824.28,Trial
+SUB-3239,2025-06-25,Pro,North America,32,952.84,Active
+SUB-3240,2026-01-05,Pro,,29,777.17,Trial
+SUB-3241,2026-02-11,Business,Other,18,1314.84,Trial
+SUB-3242,2026-03-27,Enterprise,Asia,37,7387.4,Trial
+SUB-3243,2025-08-25,Basic,Europe,40,372.05,Active
+SUB-3244,2026-03-27,Pro,Other,21,645.5,Active
+SUB-3245,2026-03-26,Business,Other,40,3411.99,Churned
+SUB-3246,2025-11-27,Enterprise,Other,21,3893.1,Trial
+SUB-3247,2025-12-16,Business,,43,3710.88,Active
+SUB-3248,2026-04-29,Pro,North America,48,1354.05,Churned
+SUB-3249,2025-07-22,Basic,Other,2,18.49,Trial
+SUB-3250,2025-10-11,Pro,,50,1423.06,Active
+SUB-3251,2025-08-18,Business,Other,33,2516.17,Active
+SUB-3252,2025-09-23,Basic,Other,13,121.45,Churned
+SUB-3253,2025-09-14,Pro,,6,180.02,Churned
+SUB-3254,2025-11-17,Business,Europe,14,1069.45,Churned
+SUB-3255,2025-10-01,Enterprise,Asia,30,6171.32,Churned
+SUB-3256,2025-06-20,Pro,Other,31,,Churned
+SUB-3257,2026-01-22,Business,,3,223.27,Churned
+SUB-3258,2025-09-21,Enterprise,Europe,15,3044.78,Active
+SUB-3259,2025-12-27,Business,Asia,36,2999.38,Churned
+SUB-3260,2026-01-20,Basic,Europe,1,9.14,Churned
+SUB-3261,2026-02-18,Pro,,14,399.41,Churned
+SUB-3262,2026-01-25,Pro,North America,10,286.97,Churned
+SUB-3263,2025-12-14,Pro,North America,1,29.25,Active
+SUB-3264,2026-06-08,Pro,,21,572.51,Active
+SUB-3265,2025-11-25,Enterprise,North America,36,7872.23,Trial
+SUB-3266,2025-07-30,Business,Europe,8,628.73,Trial
+SUB-3267,2026-06-12,Business,,37,3000.11,Active
+SUB-3268,2026-01-15,Basic,,34,295.55,Churned
+SUB-3269,2025-11-24,Pro,Europe,34,1028.94,Churned
+SUB-3270,2025-12-29,Enterprise,Europe,34,6796.4,Churned
+SUB-3271,2025-06-02,Enterprise,North America,17,3588.06,Active
+SUB-3272,2026-02-22,Business,Asia,30,2186.09,Active
+SUB-3273,2025-11-13,Enterprise,Other,29,5328.85,Trial
+SUB-3274,2025-12-01,Pro,Other,46,1241.3,Active
+SUB-3275,2026-01-07,Business,North America,9,729.62,Churned
+SUB-3276,2025-12-25,Business,North America,36,2755.79,Trial
+SUB-3277,2025-09-21,Pro,,39,1231.41,Active
+SUB-3278,2025-07-25,Business,,47,3657.63,Trial
+SUB-3279,2025-11-18,Pro,Asia,29,789.15,Trial
+SUB-3280,2025-10-29,Business,,21,1698.02,Active
+SUB-3281,2025-07-25,Basic,North America,20,180.91,Active
+SUB-3282,2025-08-03,Business,Other,21,1516.18,Trial
+SUB-3283,2025-06-16,Business,,17,1271.89,Active
+SUB-3284,2026-03-02,Enterprise,Europe,8,1700.68,Trial
+SUB-3285,2026-01-08,Basic,North America,15,131.67,Trial
+SUB-3286,2025-12-07,Enterprise,Other,50,10403.53,Churned
+SUB-3287,2025-07-10,Pro,Other,39,1140.37,Trial
+SUB-3288,2026-01-14,Pro,,13,351.55,Churned
+SUB-3289,2025-06-12,Business,Europe,43,3485.27,Trial
+SUB-3290,2025-06-17,Pro,Europe,6,161.08,Active
+SUB-3291,2025-11-28,Business,North America,44,3762.37,Trial
+SUB-3292,2025-06-08,Basic,Europe,3,26.46,Trial
+SUB-3293,2026-01-16,Business,Asia,31,2208.18,Active
+SUB-3294,2026-03-06,Basic,Other,45,406.41,Active
+SUB-3295,2025-10-20,Enterprise,Other,9,1878.57,Active
+SUB-3296,2025-12-01,Enterprise,North America,48,9935.29,Churned
+SUB-3297,2025-07-17,Pro,North America,34,890.45,Active
+SUB-3298,2025-09-16,Basic,Europe,33,317.76,Churned
+SUB-3299,2025-11-01,Pro,,49,1561.36,Trial
+SUB-3300,2026-06-08,Business,Other,1,81.44,Churned
+SUB-3301,2026-03-27,Basic,,31,274.81,Trial
+SUB-3302,2026-01-15,Basic,North America,31,261.85,Active
+SUB-3303,2025-06-06,Enterprise,Other,38,,Churned
+SUB-3304,2025-10-07,Business,,39,2843.39,Trial
+SUB-3305,2025-06-28,Enterprise,Asia,48,9165.0,Trial
+SUB-3306,2026-03-19,Pro,Asia,28,741.53,Trial
+SUB-3307,2025-09-06,Enterprise,Other,40,8066.68,Churned
+SUB-3308,2026-02-22,Basic,Other,40,377.98,Churned
+SUB-3309,2026-05-22,Basic,Asia,46,387.39,Trial
+SUB-3310,2025-08-06,Enterprise,North America,23,4527.52,Churned
+SUB-3311,2025-10-27,Enterprise,Europe,18,3852.81,Active
+SUB-3312,2025-12-06,Basic,,42,368.49,Trial
+SUB-3313,2025-06-06,Enterprise,Asia,44,,Active
+SUB-3314,2025-09-21,Pro,Asia,43,1131.09,Trial
+SUB-3315,2025-10-10,Pro,Other,33,863.06,Churned
+SUB-3316,2026-02-16,Business,North America,35,,Churned
+SUB-3317,2025-09-27,Business,Europe,15,1279.49,Churned
+SUB-3318,2026-02-06,Pro,Asia,19,589.03,Churned
+SUB-3319,2025-08-09,Business,Other,48,4153.32,Trial
+SUB-3320,2025-07-26,Business,,13,1124.68,Churned
+SUB-3321,2026-06-01,Basic,,24,202.37,Churned
+SUB-3322,2026-01-09,Enterprise,Other,49,8792.2,Trial
+SUB-3323,2025-09-23,Pro,Europe,35,1092.73,Churned
+SUB-3324,2026-06-01,Pro,,40,1080.18,Churned
+SUB-3325,2025-09-29,Business,North America,43,3073.96,Active
+SUB-3326,2025-06-04,Business,Europe,46,3635.49,Trial
+SUB-3327,2026-05-22,Pro,Europe,21,606.34,Active
+SUB-3328,2025-11-07,Pro,North America,13,351.64,Active
+SUB-3329,2025-11-08,Pro,,46,1459.58,Churned
+SUB-3330,2026-06-21,Enterprise,North America,34,6189.44,Active
+SUB-3331,2025-11-15,Basic,Other,47,395.48,Active
+SUB-3332,2025-12-22,Enterprise,Other,41,8504.37,Churned
+SUB-3333,2025-11-09,Pro,Asia,38,1066.55,Churned
+SUB-3334,2025-09-11,Basic,Other,6,51.48,Active
+SUB-3335,2026-04-11,Basic,Europe,38,374.08,Churned
+SUB-3336,2025-06-08,Pro,Other,11,339.24,Active
+SUB-3337,2026-04-02,Basic,North America,10,85.35,Trial
+SUB-3338,2025-08-14,Business,Asia,44,3485.05,Trial
+SUB-3339,2026-05-27,Basic,Asia,36,299.61,Churned
+SUB-3340,2026-04-20,Basic,,11,93.71,Churned
+SUB-3341,2026-06-07,Pro,Asia,24,697.63,Trial
+SUB-3342,2026-01-27,Business,North America,35,2791.37,Churned
+SUB-3343,2026-06-13,Enterprise,Asia,17,3325.81,Churned
+SUB-3344,2026-02-11,Pro,North America,50,1517.85,Churned
+SUB-3345,2025-06-29,Business,Other,33,,Churned
+SUB-3346,2026-03-15,Enterprise,,35,6992.58,Churned
+SUB-3347,2026-03-20,Business,North America,34,2947.57,Active
+SUB-3348,2025-08-04,Business,,14,1156.29,Active
+SUB-3349,2025-09-23,Basic,Europe,10,93.42,Churned
+SUB-3350,2025-11-19,Enterprise,Europe,3,551.57,Churned
+SUB-3351,2026-02-11,Basic,Other,17,164.64,Churned
+SUB-3352,2025-11-20,Enterprise,Other,38,6903.1,Trial
+SUB-3353,2026-02-14,Basic,Europe,43,420.36,Trial
+SUB-3354,2025-10-04,Pro,Other,14,369.68,Trial
+SUB-3355,2025-12-20,Pro,Asia,37,979.3,Trial
+SUB-3356,2026-03-05,Business,Other,21,1820.95,Active
+SUB-3357,2026-05-20,Pro,North America,48,1501.13,Active
+SUB-3358,2025-11-26,Basic,North America,45,389.62,Churned
+SUB-3359,2025-09-07,Basic,,28,252.22,Churned
+SUB-3360,2025-06-28,Pro,Other,46,1451.37,Churned
+SUB-3361,2025-06-10,Enterprise,Europe,33,6828.23,Trial
+SUB-3362,2026-01-30,Basic,Other,9,76.94,Trial
+SUB-3363,2026-05-19,Basic,,48,414.17,Active
+SUB-3364,2025-08-06,Enterprise,Europe,11,2154.95,Churned
+SUB-3365,2026-02-09,Pro,North America,1,28.23,Trial
+SUB-3366,2026-03-19,Pro,Asia,32,985.34,Churned
+SUB-3367,2026-06-04,Basic,Other,26,244.01,Churned
+SUB-3368,2025-11-19,Enterprise,Asia,36,7714.04,Trial
+SUB-3369,2025-08-25,Basic,North America,47,450.92,Trial
+SUB-3370,2025-07-06,Basic,North America,35,289.89,Active
+SUB-3371,2026-06-01,Business,Asia,49,4021.84,Churned
+SUB-3372,2026-02-03,Pro,Europe,10,271.3,Churned
+SUB-3373,2026-06-16,Pro,,33,923.21,Trial
+SUB-3374,2025-12-30,Business,,21,1762.98,Active
+SUB-3375,2026-07-04,Pro,North America,21,648.03,Trial
+SUB-3376,2026-02-19,Enterprise,North America,40,7842.51,Active
+SUB-3377,2025-08-17,Business,Asia,31,2444.18,Active
+SUB-3378,2026-05-31,Business,Asia,10,804.71,Active
+SUB-3379,2026-04-28,Business,,20,1690.99,Trial
+SUB-3380,2026-03-12,Basic,Other,3,27.25,Churned
+SUB-3381,2026-05-07,Business,Asia,32,2606.59,Active
+SUB-3382,2026-02-14,Pro,Asia,22,629.59,Active
+SUB-3383,2025-07-27,Pro,North America,46,1291.3,Active
+SUB-3384,2025-08-16,Pro,,34,949.27,Churned
+SUB-3385,2025-10-15,Business,Europe,28,2026.35,Trial
+SUB-3386,2025-10-06,Enterprise,North America,42,8558.4,Active
+SUB-3387,2025-10-28,Pro,Europe,35,1116.0,Churned
+SUB-3388,2025-09-08,Business,Europe,30,2323.17,Trial
+SUB-3389,2025-06-27,Enterprise,Asia,18,3708.48,Churned
+SUB-3390,2026-03-25,Basic,Other,26,239.62,Trial
+SUB-3391,2026-04-29,Pro,Asia,3,87.32,Churned
+SUB-3392,2026-04-22,Basic,,49,423.57,Churned
+SUB-3393,2026-04-22,Basic,Other,36,339.94,Churned
+SUB-3394,2025-12-10,Enterprise,,50,,Trial
+SUB-3395,2026-04-17,Pro,Europe,35,1085.48,Trial
+SUB-3396,2026-03-30,Basic,Other,7,59.79,Churned
+SUB-3397,2026-02-03,Business,,28,2233.74,Active
+SUB-3398,2025-09-11,Basic,Europe,5,47.66,Active
+SUB-3399,2026-01-14,Business,Europe,11,825.04,Trial
+SUB-3160,2025-08-12,Basic,North America,10,90.52,Trial
+SUB-3396,2026-03-30,Basic,Other,7,59.79,Churned
+SUB-3084,2026-03-10,Basic,Europe,41,388.31,Churned
+SUB-3118,2025-06-13,Basic,North America,4,38.57,Churned
+SUB-3048,2026-06-24,Enterprise,,35,7520.16,Churned

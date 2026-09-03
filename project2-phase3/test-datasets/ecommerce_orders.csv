@@ -1,0 +1,711 @@
+order_id,purchase_date,product_title,product_category,shipping_city,units,order_total,payment_method
+ECM-9000,2026-03-25,Phone Case,Electronics,Islamabad,4,7380.52,
+ECM-9001,2026-08-06,T-Shirt,Fashion,Karachi,1,4898.16,Card
+ECM-9002,2026-07-20,Smart Watch,Electronics,Islamabad,4,33952.36,Wallet
+ECM-9003,2026-02-11,Smart Watch,Electronics,Islamabad,5,13267.95,Card
+ECM-9004,2026-02-08,Face Serum,Beauty,Multan,2,4830.24,Wallet
+ECM-9005,2026-02-01,Sunglasses,Fashion,Faisalabad,4,13792.72,
+ECM-9006,2026-08-07,Bluetooth Earbuds,Electronics,Karachi,4,34389.4,
+ECM-9007,2026-08-19,Sunglasses,Fashion,Multan,4,7288.24,
+ECM-9008,2026-04-03,Sunglasses,Fashion,Karachi,3,7846.17,
+ECM-9009,2026-06-11,Wall Clock,Home,Multan,1,8043.33,Card
+ECM-9010,2026-04-01,Sneakers,Fashion,Islamabad,1,1102.84,Card
+ECM-9011,2026-02-24,Bluetooth Earbuds,Electronics,Faisalabad,4,7508.88,
+ECM-9012,2026-07-13,Sunglasses,Fashion,Lahore,3,20489.82,Card
+ECM-9013,2026-06-23,Lipstick,Beauty,Lahore,2,1338.4,Wallet
+ECM-9014,2026-08-05,Phone Case,Electronics,Islamabad,4,4910.64,Card
+ECM-9015,2026-06-28,Power Bank,Electronics,Faisalabad,5,1813.45,COD
+ECM-9016,2026-02-18,Handbag,Fashion,Faisalabad,4,23064.04,Card
+ECM-9017,2026-04-08,Wall Clock,Home,Islamabad,4,6329.84,Wallet
+ECM-9018,2026-03-02,Smart Watch,Electronics,Faisalabad,1,3113.23,
+ECM-9019,2026-02-10,Face Serum,Beauty,Lahore,5,6716.4,COD
+ECM-9020,2026-07-23,T-Shirt,Fashion,Islamabad,3,23611.65,COD
+ECM-9021,2026-07-29,Sneakers,Fashion,Faisalabad,4,10067.8,
+ECM-9022,2026-05-05,Face Serum,Beauty,Karachi,2,3839.98,Wallet
+ECM-9023,2026-03-28,Face Serum,Beauty,Karachi,1,3994.25,
+ECM-9024,2026-07-01,Shampoo,Beauty,Karachi,2,2334.52,
+ECM-9025,2026-08-06,Face Serum,Beauty,Karachi,5,41897.25,Card
+ECM-9026,2026-04-25,Lipstick,Beauty,Karachi,2,10568.92,
+ECM-9027,2026-07-06,Handbag,Fashion,Karachi,1,3148.91,COD
+ECM-9028,2026-06-09,Cushion Cover,Home,Islamabad,5,9120.8,COD
+ECM-9029,2026-03-16,Face Serum,Beauty,Islamabad,3,15528.57,Card
+ECM-9030,2026-05-26,Cushion Cover,Home,Lahore,5,31246.65,Wallet
+ECM-9031,2026-07-06,Wall Clock,Home,Lahore,4,8601.88,Card
+ECM-9032,2026-03-17,Face Serum,Beauty,Faisalabad,2,13218.04,Wallet
+ECM-9033,2026-05-05,Lipstick,Beauty,Karachi,4,6585.96,
+ECM-9034,2026-03-25,Table Lamp,Home,Faisalabad,5,16008.25,Wallet
+ECM-9035,2026-05-29,Sneakers,Fashion,Multan,3,26961.99,Card
+ECM-9036,2026-08-17,Sneakers,Fashion,Multan,3,26602.68,Wallet
+ECM-9037,2026-04-08,Smart Watch,Electronics,Karachi,2,1799.64,Card
+ECM-9038,2026-07-04,Power Bank,Electronics,Lahore,5,23222.5,Wallet
+ECM-9039,2026-06-25,Cushion Cover,Home,Karachi,1,,COD
+ECM-9040,2026-06-16,Phone Case,Electronics,Karachi,5,12726.6,
+ECM-9041,2026-08-12,Sneakers,Fashion,Islamabad,4,35363.76,
+ECM-9042,2026-08-16,Power Bank,Electronics,Karachi,3,26768.1,
+ECM-9043,2026-08-11,Wall Clock,Home,Lahore,3,19411.23,Wallet
+ECM-9044,2026-04-01,Cushion Cover,Home,Karachi,3,16823.19,COD
+ECM-9045,2026-05-23,Lipstick,Beauty,Islamabad,5,9621.7,Wallet
+ECM-9046,2026-03-18,Sneakers,Fashion,Multan,5,23713.2,COD
+ECM-9047,2026-06-12,T-Shirt,Fashion,Faisalabad,2,6999.62,Card
+ECM-9048,2026-05-07,Shampoo,Beauty,Karachi,4,6955.8,COD
+ECM-9049,2026-08-20,Table Lamp,Home,Lahore,1,,Card
+ECM-9050,2026-03-13,Cushion Cover,Home,Faisalabad,1,4706.5,Card
+ECM-9051,2026-03-15,Cushion Cover,Home,Faisalabad,2,2928.02,
+ECM-9052,2026-06-22,Sneakers,Fashion,Islamabad,3,,Card
+ECM-9053,2026-07-06,Lipstick,Beauty,Faisalabad,1,4904.81,COD
+ECM-9054,2026-04-26,Power Bank,Electronics,Islamabad,5,5738.3,
+ECM-9055,2026-05-19,Bluetooth Earbuds,Electronics,Islamabad,1,1866.91,Wallet
+ECM-9056,2026-05-07,Phone Case,Electronics,Islamabad,3,18992.22,Wallet
+ECM-9057,2026-02-12,Sunglasses,Fashion,Islamabad,4,23909.56,Wallet
+ECM-9058,2026-04-22,Wall Clock,Home,Karachi,5,5905.65,Wallet
+ECM-9059,2026-06-23,Shampoo,Beauty,Multan,3,20738.19,Wallet
+ECM-9060,2026-04-20,Lipstick,Beauty,Karachi,2,15998.32,Card
+ECM-9061,2026-06-16,Face Serum,Beauty,Islamabad,1,7346.91,Card
+ECM-9062,2026-04-05,Shampoo,Beauty,Karachi,5,5414.75,Card
+ECM-9063,2026-07-28,Shampoo,Beauty,Karachi,5,36591.7,Card
+ECM-9064,2026-08-13,Phone Case,Electronics,Lahore,1,6592.7,
+ECM-9065,2026-08-14,Sneakers,Fashion,Multan,5,38824.25,
+ECM-9066,2026-08-20,Lipstick,Beauty,Lahore,1,8657.04,Wallet
+ECM-9067,2026-02-09,Wall Clock,Home,Islamabad,4,33362.56,
+ECM-9068,2026-07-20,Sunglasses,Fashion,Multan,2,10391.6,Wallet
+ECM-9069,2026-03-11,Smart Watch,Electronics,Karachi,5,38469.25,Wallet
+ECM-9070,2026-02-08,Shampoo,Beauty,Faisalabad,4,14177.0,COD
+ECM-9071,2026-05-14,Smart Watch,Electronics,Islamabad,1,1069.54,Card
+ECM-9072,2026-05-25,Wall Clock,Home,Multan,4,23735.4,
+ECM-9073,2026-06-05,Wall Clock,Home,Lahore,5,24963.45,
+ECM-9074,2026-08-02,Smart Watch,Electronics,Lahore,1,4734.41,
+ECM-9075,2026-04-29,Sneakers,Fashion,Karachi,2,4780.78,
+ECM-9076,2026-05-19,Cushion Cover,Home,Islamabad,1,432.19,
+ECM-9077,2026-08-02,Wall Clock,Home,Lahore,5,31479.4,
+ECM-9078,2026-02-25,Lipstick,Beauty,Faisalabad,3,11372.58,Wallet
+ECM-9079,2026-04-01,T-Shirt,Fashion,Islamabad,4,31399.76,Wallet
+ECM-9080,2026-05-01,Power Bank,Electronics,Faisalabad,1,5363.25,COD
+ECM-9081,2026-03-09,Cushion Cover,Home,Lahore,3,22196.43,COD
+ECM-9082,2026-04-22,Smart Watch,Electronics,Lahore,5,44261.35,COD
+ECM-9083,2026-06-17,Power Bank,Electronics,Islamabad,2,,Wallet
+ECM-9084,2026-06-17,Wall Clock,Home,Islamabad,1,952.8,Wallet
+ECM-9085,2026-08-13,Smart Watch,Electronics,Karachi,5,12668.0,Wallet
+ECM-9086,2026-05-06,Face Serum,Beauty,Karachi,3,7544.46,COD
+ECM-9087,2026-04-28,Sunglasses,Fashion,Karachi,1,5470.44,Wallet
+ECM-9088,2026-08-09,Table Lamp,Home,Faisalabad,2,17270.34,
+ECM-9089,2026-06-13,Sneakers,Fashion,Islamabad,5,36690.85,
+ECM-9090,2026-03-23,Cushion Cover,Home,Karachi,5,25812.75,COD
+ECM-9091,2026-05-16,Phone Case,Electronics,Faisalabad,4,13157.16,Wallet
+ECM-9092,2026-08-02,Face Serum,Beauty,Multan,1,6235.24,Card
+ECM-9093,2026-07-24,Handbag,Fashion,Lahore,4,29302.36,COD
+ECM-9094,2026-05-22,Power Bank,Electronics,Islamabad,3,1383.51,Card
+ECM-9095,2026-02-20,T-Shirt,Fashion,Lahore,4,8485.4,COD
+ECM-9096,2026-03-01,Sneakers,Fashion,Islamabad,1,4120.99,
+ECM-9097,2026-06-01,Cushion Cover,Home,Lahore,2,14436.9,Wallet
+ECM-9098,2026-07-24,Lipstick,Beauty,Karachi,2,9914.02,
+ECM-9099,2026-07-22,Face Serum,Beauty,Islamabad,1,6792.28,Card
+ECM-9100,2026-05-08,Smart Watch,Electronics,Lahore,4,35187.76,
+ECM-9101,2026-02-25,Face Serum,Beauty,Multan,4,11216.24,Card
+ECM-9102,2026-08-09,Cushion Cover,Home,Lahore,2,10971.82,Card
+ECM-9103,2026-06-07,Shampoo,Beauty,Faisalabad,4,18723.96,Card
+ECM-9104,2026-04-26,Sneakers,Fashion,Karachi,3,22672.95,COD
+ECM-9105,2026-05-30,Table Lamp,Home,Faisalabad,4,7472.64,COD
+ECM-9106,2026-05-22,Face Serum,Beauty,Lahore,5,3091.85,COD
+ECM-9107,2026-03-26,Sneakers,Fashion,Islamabad,3,11695.11,Card
+ECM-9108,2026-04-24,Table Lamp,Home,Multan,1,8490.69,COD
+ECM-9109,2026-02-28,Power Bank,Electronics,Karachi,1,5603.16,
+ECM-9110,2026-02-05,Shampoo,Beauty,Multan,4,13597.32,
+ECM-9111,2026-07-23,T-Shirt,Fashion,Faisalabad,2,15057.36,Wallet
+ECM-9112,2026-04-29,Wall Clock,Home,Islamabad,4,1888.6,COD
+ECM-9113,2026-02-02,Bluetooth Earbuds,Electronics,Multan,4,29553.12,
+ECM-9114,2026-03-03,Smart Watch,Electronics,Islamabad,1,7188.14,COD
+ECM-9115,2026-06-13,Face Serum,Beauty,Lahore,5,37570.65,
+ECM-9116,2026-07-27,T-Shirt,Fashion,Multan,3,16758.84,
+ECM-9117,2026-04-01,T-Shirt,Fashion,Lahore,1,1832.99,Card
+ECM-9118,2026-02-16,Cushion Cover,Home,Islamabad,4,35600.48,
+ECM-9119,2026-06-14,Sunglasses,Fashion,Karachi,2,12812.94,Card
+ECM-9120,2026-07-30,Cushion Cover,Home,Lahore,2,13552.84,Wallet
+ECM-9121,2026-05-16,Power Bank,Electronics,Multan,4,21148.88,
+ECM-9122,2026-06-19,Bluetooth Earbuds,Electronics,Karachi,1,1219.76,
+ECM-9123,2026-02-10,Bluetooth Earbuds,Electronics,Lahore,5,2894.6,Card
+ECM-9124,2026-03-11,Lipstick,Beauty,Islamabad,2,5280.16,
+ECM-9125,2026-05-31,Sunglasses,Fashion,Karachi,3,26018.73,Wallet
+ECM-9126,2026-06-28,Sneakers,Fashion,Multan,4,11694.76,Wallet
+ECM-9127,2026-03-29,Phone Case,Electronics,Lahore,1,1273.32,COD
+ECM-9128,2026-04-08,Sunglasses,Fashion,Islamabad,2,706.44,
+ECM-9129,2026-07-26,Sunglasses,Fashion,Lahore,1,7385.5,Wallet
+ECM-9130,2026-04-24,Sunglasses,Fashion,Lahore,3,10292.52,COD
+ECM-9131,2026-02-01,Wall Clock,Home,Lahore,5,22941.1,COD
+ECM-9132,2026-06-04,Lipstick,Beauty,Lahore,2,15088.08,COD
+ECM-9133,2026-03-20,Shampoo,Beauty,Multan,1,345.3,Card
+ECM-9134,2026-03-23,Shampoo,Beauty,Multan,1,6023.7,Wallet
+ECM-9135,2026-03-02,Bluetooth Earbuds,Electronics,Lahore,2,8331.22,
+ECM-9136,2026-03-02,Table Lamp,Home,Faisalabad,3,11474.37,Card
+ECM-9137,2026-06-16,Cushion Cover,Home,Lahore,4,4687.56,Card
+ECM-9138,2026-07-14,Handbag,Fashion,Lahore,2,11740.26,Card
+ECM-9139,2026-03-20,Shampoo,Beauty,Lahore,2,4198.6,
+ECM-9140,2026-04-23,Smart Watch,Electronics,Karachi,3,19022.1,Card
+ECM-9141,2026-06-28,Bluetooth Earbuds,Electronics,Multan,1,6164.11,COD
+ECM-9142,2026-05-19,Power Bank,Electronics,Multan,2,16872.24,Wallet
+ECM-9143,2026-06-24,Wall Clock,Home,Multan,4,20870.56,Card
+ECM-9144,2026-06-26,Power Bank,Electronics,Faisalabad,2,4365.84,
+ECM-9145,2026-08-01,Sunglasses,Fashion,Karachi,4,8895.88,
+ECM-9146,2026-05-23,Lipstick,Beauty,Islamabad,3,19818.15,
+ECM-9147,2026-02-07,Smart Watch,Electronics,Faisalabad,4,13639.36,Card
+ECM-9148,2026-02-20,Cushion Cover,Home,Karachi,1,4558.04,Card
+ECM-9149,2026-04-12,Lipstick,Beauty,Multan,3,13376.88,Wallet
+ECM-9150,2026-07-11,Shampoo,Beauty,Multan,2,8580.08,COD
+ECM-9151,2026-04-23,Cushion Cover,Home,,2,6720.58,
+ECM-9152,2026-03-25,Shampoo,Beauty,Islamabad,1,1597.55,Card
+ECM-9153,2026-06-25,Lipstick,Beauty,Faisalabad,4,5748.48,COD
+ECM-9154,2026-03-09,Handbag,Fashion,Multan,1,6567.07,COD
+ECM-9155,2026-04-14,Cushion Cover,Home,Faisalabad,4,23575.8,Wallet
+ECM-9156,2026-03-29,Handbag,Fashion,Faisalabad,5,40384.05,Wallet
+ECM-9157,2026-03-26,Sunglasses,Fashion,Faisalabad,5,6527.55,COD
+ECM-9158,2026-03-03,Shampoo,Beauty,Karachi,3,21600.87,Wallet
+ECM-9159,2026-06-03,Face Serum,Beauty,Islamabad,4,3930.12,Wallet
+ECM-9160,2026-03-14,Sunglasses,Fashion,Lahore,2,1466.66,
+ECM-9161,2026-02-02,Sneakers,Fashion,Karachi,4,10461.92,
+ECM-9162,2026-07-07,Wall Clock,Home,,2,9456.02,COD
+ECM-9163,2026-07-13,Wall Clock,Home,Lahore,1,2476.51,Card
+ECM-9164,2026-03-09,Sunglasses,Fashion,Lahore,2,8778.2,Wallet
+ECM-9165,2026-05-30,Cushion Cover,Home,Karachi,1,8324.87,Card
+ECM-9166,2026-08-19,Lipstick,Beauty,Karachi,4,6633.8,Card
+ECM-9167,2026-04-22,Sneakers,Fashion,Faisalabad,4,7012.04,Wallet
+ECM-9168,2026-05-15,Face Serum,Beauty,Karachi,2,3266.12,
+ECM-9169,2026-03-14,Bluetooth Earbuds,Electronics,Lahore,1,3984.87,COD
+ECM-9170,2026-07-18,Sneakers,Fashion,Karachi,1,3114.54,
+ECM-9171,2026-03-05,Table Lamp,Home,Multan,1,7433.25,COD
+ECM-9172,2026-02-24,Shampoo,Beauty,Islamabad,4,30301.6,COD
+ECM-9173,2026-04-02,Smart Watch,Electronics,Islamabad,1,3235.61,COD
+ECM-9174,2026-08-15,Cushion Cover,Home,Faisalabad,1,5748.08,Card
+ECM-9175,2026-03-06,Face Serum,Beauty,Karachi,2,4356.68,Card
+ECM-9176,2026-04-09,Bluetooth Earbuds,Electronics,Multan,1,8762.62,Wallet
+ECM-9177,2026-04-03,T-Shirt,Fashion,Multan,1,7198.1,COD
+ECM-9178,2026-06-10,Sneakers,Fashion,Multan,5,19827.95,COD
+ECM-9179,2026-02-13,Bluetooth Earbuds,Electronics,Karachi,2,3705.22,COD
+ECM-9180,2026-05-03,Cushion Cover,Home,Faisalabad,4,20217.92,COD
+ECM-9181,2026-02-15,T-Shirt,Fashion,Islamabad,5,21132.35,
+ECM-9182,2026-07-14,Shampoo,Beauty,Faisalabad,4,35554.64,Card
+ECM-9183,2026-08-02,Power Bank,Electronics,Lahore,5,22090.75,COD
+ECM-9184,2026-05-31,Cushion Cover,Home,Karachi,5,27558.15,Wallet
+ECM-9185,2026-06-17,Power Bank,Electronics,Lahore,2,9474.88,
+ECM-9186,2026-03-07,Face Serum,Beauty,Islamabad,3,9499.26,Wallet
+ECM-9187,2026-07-10,Handbag,Fashion,Karachi,1,5403.35,COD
+ECM-9188,2026-07-25,Cushion Cover,Home,Islamabad,5,20702.15,Card
+ECM-9189,2026-07-25,Lipstick,Beauty,Faisalabad,2,14290.74,COD
+ECM-9190,2026-02-09,Phone Case,Electronics,Islamabad,5,12659.8,
+ECM-9191,2026-06-13,Shampoo,Beauty,Islamabad,4,17516.8,Wallet
+ECM-9192,2026-06-05,Smart Watch,Electronics,Faisalabad,1,8450.21,COD
+ECM-9193,2026-02-05,Cushion Cover,Home,Multan,2,2102.9,
+ECM-9194,2026-02-08,Table Lamp,Home,Islamabad,2,2118.76,
+ECM-9195,2026-06-14,Bluetooth Earbuds,Electronics,Karachi,1,,Card
+ECM-9196,2026-02-23,Power Bank,Electronics,Multan,1,6203.91,Card
+ECM-9197,2026-05-17,T-Shirt,Fashion,Islamabad,3,12996.54,Card
+ECM-9198,2026-06-23,Handbag,Fashion,Multan,1,1331.85,
+ECM-9199,2026-03-11,Power Bank,Electronics,Faisalabad,2,13704.28,COD
+ECM-9200,2026-06-29,Sneakers,Fashion,Multan,1,957.24,
+ECM-9201,2026-03-17,Cushion Cover,Home,Multan,1,,Card
+ECM-9202,2026-04-18,Shampoo,Beauty,Lahore,3,,
+ECM-9203,2026-03-31,Cushion Cover,Home,Lahore,3,19554.54,Card
+ECM-9204,2026-02-18,Cushion Cover,Home,Islamabad,3,18073.71,
+ECM-9205,2026-02-25,Power Bank,Electronics,Faisalabad,3,3673.08,Card
+ECM-9206,2026-07-21,Table Lamp,Home,Lahore,5,20137.2,Card
+ECM-9207,2026-04-16,Smart Watch,Electronics,Karachi,2,12136.66,
+ECM-9208,2026-07-18,Face Serum,Beauty,Karachi,4,34187.76,Wallet
+ECM-9209,2026-02-19,Face Serum,Beauty,Islamabad,3,26888.97,Card
+ECM-9210,2026-03-02,Face Serum,Beauty,Lahore,3,12349.53,Wallet
+ECM-9211,2026-05-17,Wall Clock,Home,Islamabad,2,5029.0,Wallet
+ECM-9212,2026-06-11,Power Bank,Electronics,Faisalabad,4,16352.56,COD
+ECM-9213,2026-06-17,Power Bank,Electronics,Karachi,1,6271.3,
+ECM-9214,2026-07-10,Table Lamp,Home,Islamabad,1,3266.5,Wallet
+ECM-9215,2026-02-20,T-Shirt,Fashion,Multan,1,3425.58,COD
+ECM-9216,2026-02-14,Face Serum,Beauty,Multan,3,25806.6,Card
+ECM-9217,2026-04-21,Phone Case,Electronics,Multan,4,35528.28,Wallet
+ECM-9218,2026-08-19,Wall Clock,Home,Multan,3,6416.19,COD
+ECM-9219,2026-05-05,Face Serum,Beauty,Multan,2,16236.06,
+ECM-9220,2026-02-16,Phone Case,Electronics,Islamabad,5,29127.95,Card
+ECM-9221,2026-08-03,Handbag,Fashion,Lahore,2,17083.88,
+ECM-9222,2026-08-10,Handbag,Fashion,Lahore,1,3131.23,Wallet
+ECM-9223,2026-05-30,Shampoo,Beauty,Islamabad,1,757.35,COD
+ECM-9224,2026-02-18,Handbag,Fashion,Multan,4,13914.92,Card
+ECM-9225,2026-06-22,Shampoo,Beauty,Islamabad,4,29700.76,
+ECM-9226,2026-02-22,Sneakers,Fashion,Faisalabad,2,9814.66,
+ECM-9227,2026-03-08,Bluetooth Earbuds,Electronics,Karachi,4,33738.68,Card
+ECM-9228,2026-05-30,Wall Clock,Home,Faisalabad,4,4977.2,
+ECM-9229,2026-02-16,Cushion Cover,Home,,5,38628.6,Card
+ECM-9230,2026-02-11,Handbag,Fashion,,2,13151.8,Wallet
+ECM-9231,2026-06-18,Handbag,Fashion,Multan,4,8674.96,COD
+ECM-9232,2026-08-01,Wall Clock,Home,Islamabad,4,15524.4,Wallet
+ECM-9233,2026-08-03,Sunglasses,Fashion,Multan,5,25732.65,
+ECM-9234,2026-03-10,Face Serum,Beauty,Islamabad,3,3829.35,Card
+ECM-9235,2026-04-01,Handbag,Fashion,Lahore,2,16400.1,Card
+ECM-9236,2026-02-22,Face Serum,Beauty,Karachi,5,34377.65,
+ECM-9237,2026-02-24,Shampoo,Beauty,Islamabad,5,20680.1,
+ECM-9238,2026-08-18,Table Lamp,Home,Karachi,1,1068.85,Wallet
+ECM-9239,2026-02-06,Cushion Cover,Home,Lahore,5,44600.35,Card
+ECM-9240,2026-05-28,Phone Case,Electronics,Lahore,3,26020.41,
+ECM-9241,2026-04-15,Phone Case,Electronics,,2,17581.04,Wallet
+ECM-9242,2026-03-10,Cushion Cover,Home,Multan,2,7991.7,
+ECM-9243,2026-05-21,Table Lamp,Home,Multan,1,2745.2,Wallet
+ECM-9244,2026-07-16,Table Lamp,Home,Lahore,1,2118.37,Wallet
+ECM-9245,2026-06-14,Bluetooth Earbuds,Electronics,Lahore,2,9068.72,
+ECM-9246,2026-04-01,Handbag,Fashion,,2,14563.36,Card
+ECM-9247,2026-03-01,Bluetooth Earbuds,Electronics,Multan,5,23114.95,
+ECM-9248,2026-07-28,Cushion Cover,Home,Multan,5,3124.1,COD
+ECM-9249,2026-02-12,Shampoo,Beauty,Islamabad,5,39616.05,Card
+ECM-9250,2026-03-24,Shampoo,Beauty,Multan,1,5106.68,COD
+ECM-9251,2026-05-11,Sneakers,Fashion,Karachi,5,23478.2,Card
+ECM-9252,2026-06-14,T-Shirt,Fashion,Lahore,5,30214.3,COD
+ECM-9253,2026-06-02,Lipstick,Beauty,Karachi,1,,Card
+ECM-9254,2026-05-30,Smart Watch,Electronics,Lahore,1,5401.02,COD
+ECM-9255,2026-07-09,Face Serum,Beauty,Karachi,4,25206.36,
+ECM-9256,2026-06-09,Cushion Cover,Home,Multan,1,3756.12,Card
+ECM-9257,2026-03-10,Cushion Cover,Home,Islamabad,1,8728.66,COD
+ECM-9258,2026-05-13,Shampoo,Beauty,Islamabad,5,21271.35,
+ECM-9259,2026-07-05,T-Shirt,Fashion,Karachi,1,2394.35,Card
+ECM-9260,2026-03-07,Bluetooth Earbuds,Electronics,Islamabad,5,11288.65,
+ECM-9261,2026-05-18,Power Bank,Electronics,,5,6313.95,Card
+ECM-9262,2026-05-25,Face Serum,Beauty,Karachi,1,7082.08,
+ECM-9263,2026-06-15,Cushion Cover,Home,Multan,1,5609.69,Card
+ECM-9264,2026-06-03,Wall Clock,Home,Lahore,4,29289.32,
+ECM-9265,2026-08-06,Sneakers,Fashion,Lahore,3,16839.15,
+ECM-9266,2026-05-19,Lipstick,Beauty,,4,14838.44,Card
+ECM-9267,2026-07-20,Lipstick,Beauty,Faisalabad,4,13788.48,COD
+ECM-9268,2026-04-15,Handbag,Fashion,Lahore,3,21441.6,Card
+ECM-9269,2026-02-24,Bluetooth Earbuds,Electronics,Multan,2,6795.72,Card
+ECM-9270,2026-07-21,Power Bank,Electronics,Islamabad,5,15594.0,Card
+ECM-9271,2026-03-01,Shampoo,Beauty,Karachi,2,15131.36,COD
+ECM-9272,2026-07-08,Smart Watch,Electronics,Lahore,3,15255.54,Card
+ECM-9273,2026-03-11,Face Serum,Beauty,Karachi,1,6422.51,
+ECM-9274,2026-06-11,Power Bank,Electronics,Multan,4,27802.48,COD
+ECM-9275,2026-04-09,Table Lamp,Home,Faisalabad,5,36606.15,COD
+ECM-9276,2026-03-14,Sneakers,Fashion,Karachi,4,30374.56,Wallet
+ECM-9277,2026-03-06,Wall Clock,Home,Lahore,1,7311.93,COD
+ECM-9278,2026-04-09,Bluetooth Earbuds,Electronics,Karachi,2,3967.94,COD
+ECM-9279,2026-06-01,Handbag,Fashion,Lahore,3,3103.68,Wallet
+ECM-9280,2026-06-11,Shampoo,Beauty,Karachi,1,4588.23,Card
+ECM-9281,2026-06-15,Face Serum,Beauty,Lahore,2,10430.7,Card
+ECM-9282,2026-03-23,Handbag,Fashion,Islamabad,1,2214.95,COD
+ECM-9283,2026-05-04,Table Lamp,Home,Karachi,3,15860.49,Wallet
+ECM-9284,2026-04-03,Wall Clock,Home,Faisalabad,3,17398.59,Wallet
+ECM-9285,2026-02-05,Sneakers,Fashion,Lahore,3,22182.39,Wallet
+ECM-9286,2026-06-03,Power Bank,Electronics,Multan,1,4449.67,COD
+ECM-9287,2026-06-05,Handbag,Fashion,Lahore,5,31944.5,Card
+ECM-9288,2026-02-01,Sunglasses,Fashion,Islamabad,5,17315.35,Wallet
+ECM-9289,2026-06-01,Bluetooth Earbuds,Electronics,Islamabad,5,43294.95,
+ECM-9290,2026-04-19,Phone Case,Electronics,Islamabad,4,31983.2,COD
+ECM-9291,2026-04-07,Face Serum,Beauty,Lahore,1,7300.41,COD
+ECM-9292,2026-04-24,Sunglasses,Fashion,Multan,4,32586.04,Card
+ECM-9293,2026-06-18,Shampoo,Beauty,Lahore,4,19219.68,Wallet
+ECM-9294,2026-07-27,Face Serum,Beauty,Karachi,3,19101.99,Card
+ECM-9295,2026-03-25,Smart Watch,Electronics,Islamabad,3,26209.65,
+ECM-9296,2026-03-11,Bluetooth Earbuds,Electronics,Karachi,3,7555.35,Wallet
+ECM-9297,2026-05-23,Face Serum,Beauty,Islamabad,3,14344.95,
+ECM-9298,2026-02-02,Wall Clock,Home,Islamabad,1,1260.39,
+ECM-9299,2026-07-15,Bluetooth Earbuds,Electronics,Lahore,2,10333.32,Wallet
+ECM-9300,2026-07-27,Bluetooth Earbuds,Electronics,Islamabad,1,5353.68,Card
+ECM-9301,2026-03-07,Handbag,Fashion,Karachi,4,20795.56,Card
+ECM-9302,2026-03-02,Face Serum,Beauty,Faisalabad,1,5144.82,Card
+ECM-9303,2026-08-09,Wall Clock,Home,Islamabad,2,6581.36,COD
+ECM-9304,2026-04-21,Shampoo,Beauty,Faisalabad,5,12795.55,Wallet
+ECM-9305,2026-02-28,Phone Case,Electronics,Islamabad,5,23521.9,Wallet
+ECM-9306,2026-04-10,Wall Clock,Home,Multan,1,1222.15,
+ECM-9307,2026-07-01,Cushion Cover,Home,Faisalabad,2,9959.6,Wallet
+ECM-9308,2026-06-19,Cushion Cover,Home,Karachi,2,11675.1,Card
+ECM-9309,2026-06-18,Handbag,Fashion,Islamabad,1,8166.44,Wallet
+ECM-9310,2026-03-28,Cushion Cover,Home,Multan,1,7642.35,COD
+ECM-9311,2026-03-12,Cushion Cover,Home,Karachi,5,31153.45,Wallet
+ECM-9312,2026-07-03,Phone Case,Electronics,Karachi,1,6380.85,
+ECM-9313,2026-02-21,Handbag,Fashion,Faisalabad,1,7434.4,COD
+ECM-9314,2026-08-13,Power Bank,Electronics,Karachi,2,2802.44,COD
+ECM-9315,2026-04-17,Shampoo,Beauty,Faisalabad,2,13661.84,Card
+ECM-9316,2026-07-12,Lipstick,Beauty,Multan,2,7324.76,Card
+ECM-9317,2026-06-12,Power Bank,Electronics,Lahore,5,35401.7,
+ECM-9318,2026-03-27,Cushion Cover,Home,Faisalabad,2,9583.18,COD
+ECM-9319,2026-06-11,Shampoo,Beauty,,2,4239.28,COD
+ECM-9320,2026-06-13,Shampoo,Beauty,,4,31864.16,COD
+ECM-9321,2026-04-15,Face Serum,Beauty,Islamabad,3,11609.34,Card
+ECM-9322,2026-08-07,Lipstick,Beauty,Islamabad,4,35924.8,Wallet
+ECM-9323,2026-05-08,Table Lamp,Home,Multan,3,25924.08,COD
+ECM-9324,2026-07-04,Wall Clock,Home,Faisalabad,2,8843.02,
+ECM-9325,2026-05-18,Cushion Cover,Home,Faisalabad,4,27677.64,Wallet
+ECM-9326,2026-03-24,Handbag,Fashion,Islamabad,2,720.18,Wallet
+ECM-9327,2026-07-18,Sunglasses,Fashion,Faisalabad,4,5787.2,Card
+ECM-9328,2026-02-07,Handbag,Fashion,Lahore,1,3154.12,Wallet
+ECM-9329,2026-07-18,Table Lamp,Home,Karachi,4,6293.6,Card
+ECM-9330,2026-07-13,Bluetooth Earbuds,Electronics,Lahore,3,23496.78,COD
+ECM-9331,2026-02-19,Sneakers,Fashion,Karachi,2,4943.62,COD
+ECM-9332,2026-02-23,Sneakers,Fashion,Islamabad,2,1262.54,Card
+ECM-9333,2026-07-10,Phone Case,Electronics,Islamabad,2,2106.4,COD
+ECM-9334,2026-02-10,Power Bank,Electronics,Karachi,3,20444.34,Card
+ECM-9335,2026-07-30,Sunglasses,Fashion,Karachi,3,18880.2,Card
+ECM-9336,2026-04-07,T-Shirt,Fashion,Lahore,5,21791.1,COD
+ECM-9337,2026-05-04,Handbag,Fashion,Faisalabad,1,4427.59,COD
+ECM-9338,2026-05-18,Handbag,Fashion,Multan,5,7119.3,
+ECM-9339,2026-05-17,Face Serum,Beauty,Lahore,2,10122.94,Wallet
+ECM-9340,2026-08-11,Face Serum,Beauty,Lahore,2,15532.28,
+ECM-9341,2026-08-10,Sneakers,Fashion,Karachi,1,4787.19,
+ECM-9342,2026-02-24,Face Serum,Beauty,Islamabad,5,23148.8,COD
+ECM-9343,2026-04-19,Phone Case,Electronics,Lahore,4,30636.92,Card
+ECM-9344,2026-04-09,Sneakers,Fashion,Multan,2,16819.44,Wallet
+ECM-9345,2026-02-23,Lipstick,Beauty,Islamabad,4,32855.2,COD
+ECM-9346,2026-04-14,Power Bank,Electronics,Faisalabad,5,40794.15,COD
+ECM-9347,2026-03-26,Bluetooth Earbuds,Electronics,Lahore,5,16399.2,Card
+ECM-9348,2026-06-23,Sunglasses,Fashion,Lahore,2,12903.38,
+ECM-9349,2026-02-16,Shampoo,Beauty,Karachi,1,987.71,COD
+ECM-9350,2026-06-28,Sneakers,Fashion,Multan,1,8927.18,Wallet
+ECM-9351,2026-07-24,T-Shirt,Fashion,Lahore,5,6305.3,
+ECM-9352,2026-05-07,Bluetooth Earbuds,Electronics,Karachi,5,22318.35,Card
+ECM-9353,2026-02-07,Bluetooth Earbuds,Electronics,Faisalabad,5,25479.7,COD
+ECM-9354,2026-07-05,Handbag,Fashion,Faisalabad,3,19353.42,Wallet
+ECM-9355,2026-02-15,Lipstick,Beauty,Multan,5,25528.65,
+ECM-9356,2026-05-14,Smart Watch,Electronics,Multan,2,17771.44,Wallet
+ECM-9357,2026-08-02,Shampoo,Beauty,Lahore,1,3616.82,Card
+ECM-9358,2026-03-17,T-Shirt,Fashion,Islamabad,5,9875.45,Wallet
+ECM-9359,2026-05-01,Bluetooth Earbuds,Electronics,Multan,1,1166.49,COD
+ECM-9360,2026-07-17,Face Serum,Beauty,Islamabad,1,1941.8,Wallet
+ECM-9361,2026-05-13,T-Shirt,Fashion,Multan,1,403.71,
+ECM-9362,2026-04-27,Handbag,Fashion,Faisalabad,2,5003.14,
+ECM-9363,2026-06-26,Shampoo,Beauty,Islamabad,1,2338.9,Card
+ECM-9364,2026-06-25,Lipstick,Beauty,Faisalabad,5,39582.2,
+ECM-9365,2026-03-25,T-Shirt,Fashion,Karachi,5,40403.25,
+ECM-9366,2026-03-10,Cushion Cover,Home,Multan,4,26795.92,Wallet
+ECM-9367,2026-06-25,Shampoo,Beauty,Islamabad,2,9754.46,Card
+ECM-9368,2026-07-28,Lipstick,Beauty,Karachi,4,22899.16,Card
+ECM-9369,2026-05-09,Sunglasses,Fashion,Lahore,1,1089.94,
+ECM-9370,2026-07-02,Table Lamp,Home,Lahore,5,,Card
+ECM-9371,2026-06-30,Table Lamp,Home,Karachi,5,32603.7,
+ECM-9372,2026-05-16,Lipstick,Beauty,,1,6379.01,
+ECM-9373,2026-03-19,Table Lamp,Home,Lahore,3,18956.1,Wallet
+ECM-9374,2026-03-03,Lipstick,Beauty,Faisalabad,4,35181.4,Card
+ECM-9375,2026-07-04,Smart Watch,Electronics,Faisalabad,1,4244.4,
+ECM-9376,2026-03-15,Bluetooth Earbuds,Electronics,Multan,3,14448.57,COD
+ECM-9377,2026-03-18,Face Serum,Beauty,Lahore,3,13355.34,Wallet
+ECM-9378,2026-02-05,Cushion Cover,Home,Lahore,5,41915.7,COD
+ECM-9379,2026-07-23,Wall Clock,Home,,3,3567.42,Card
+ECM-9380,2026-03-04,Smart Watch,Electronics,Faisalabad,4,,Card
+ECM-9381,2026-02-25,Shampoo,Beauty,Islamabad,5,26868.75,Card
+ECM-9382,2026-05-26,Smart Watch,Electronics,Lahore,1,8663.41,Wallet
+ECM-9383,2026-06-13,Handbag,Fashion,Lahore,4,21905.4,COD
+ECM-9384,2026-06-05,Wall Clock,Home,Karachi,1,733.94,Card
+ECM-9385,2026-07-22,Sunglasses,Fashion,Islamabad,1,7598.07,Card
+ECM-9386,2026-04-29,Lipstick,Beauty,Karachi,3,,COD
+ECM-9387,2026-03-11,T-Shirt,Fashion,Karachi,5,17052.85,Wallet
+ECM-9388,2026-03-01,Lipstick,Beauty,Islamabad,1,380.86,
+ECM-9389,2026-08-11,Cushion Cover,Home,Multan,3,17037.15,
+ECM-9390,2026-04-28,Cushion Cover,Home,Karachi,4,9199.4,
+ECM-9391,2026-03-17,Wall Clock,Home,Islamabad,2,4103.68,Card
+ECM-9392,2026-04-24,Cushion Cover,Home,Lahore,1,6555.71,
+ECM-9393,2026-07-19,Sunglasses,Fashion,Multan,3,17894.94,Card
+ECM-9394,2026-06-23,Table Lamp,Home,Karachi,1,6903.67,
+ECM-9395,2026-02-05,Face Serum,Beauty,Lahore,2,2849.18,Wallet
+ECM-9396,2026-06-05,Sneakers,Fashion,Karachi,5,22130.95,
+ECM-9397,2026-06-18,Smart Watch,Electronics,,5,23605.8,Card
+ECM-9398,2026-04-23,Face Serum,Beauty,Islamabad,2,14908.14,
+ECM-9399,2026-07-13,Face Serum,Beauty,Karachi,5,11147.65,Wallet
+ECM-9400,2026-08-08,Power Bank,Electronics,Islamabad,5,27867.45,
+ECM-9401,2026-06-15,Wall Clock,Home,Faisalabad,1,3513.49,
+ECM-9402,2026-07-17,Cushion Cover,Home,Faisalabad,4,14859.72,Card
+ECM-9403,2026-03-11,Table Lamp,Home,Faisalabad,5,5595.25,COD
+ECM-9404,2026-04-16,Cushion Cover,Home,Lahore,5,37073.7,
+ECM-9405,2026-04-28,Table Lamp,Home,Lahore,1,2444.76,Card
+ECM-9406,2026-06-25,Sunglasses,Fashion,Islamabad,2,5310.36,Wallet
+ECM-9407,2026-05-18,Handbag,Fashion,Faisalabad,5,30633.25,Wallet
+ECM-9408,2026-07-17,Lipstick,Beauty,Multan,1,2300.73,COD
+ECM-9409,2026-08-04,Face Serum,Beauty,Faisalabad,4,21648.68,Wallet
+ECM-9410,2026-07-11,Phone Case,Electronics,Islamabad,4,25288.96,COD
+ECM-9411,2026-04-14,Cushion Cover,Home,Faisalabad,4,33621.36,Wallet
+ECM-9412,2026-03-13,Bluetooth Earbuds,Electronics,Faisalabad,3,16279.35,Card
+ECM-9413,2026-05-25,Table Lamp,Home,Islamabad,4,7150.44,COD
+ECM-9414,2026-06-04,Bluetooth Earbuds,Electronics,Lahore,1,4092.95,Card
+ECM-9415,2026-08-01,Face Serum,Beauty,Karachi,3,12986.4,
+ECM-9416,2026-02-06,Sunglasses,Fashion,Islamabad,5,8091.25,Card
+ECM-9417,2026-02-18,Sneakers,Fashion,Multan,1,6933.16,Wallet
+ECM-9418,2026-04-24,Bluetooth Earbuds,Electronics,Islamabad,3,21640.26,COD
+ECM-9419,2026-07-09,Wall Clock,Home,Islamabad,1,8985.65,Wallet
+ECM-9420,2026-03-29,Table Lamp,Home,Lahore,4,13903.32,
+ECM-9421,2026-03-11,Lipstick,Beauty,Faisalabad,3,21967.38,Card
+ECM-9422,2026-05-04,Smart Watch,Electronics,Islamabad,3,11916.15,Card
+ECM-9423,2026-04-21,Face Serum,Beauty,Islamabad,1,3279.07,COD
+ECM-9424,2026-04-16,T-Shirt,Fashion,,3,12831.18,Wallet
+ECM-9425,2026-03-12,Power Bank,Electronics,Multan,4,29112.88,
+ECM-9426,2026-06-26,Sunglasses,Fashion,Faisalabad,4,12115.68,
+ECM-9427,2026-07-23,Wall Clock,Home,Faisalabad,2,7135.3,COD
+ECM-9428,2026-07-05,Smart Watch,Electronics,Multan,3,23320.53,COD
+ECM-9429,2026-06-27,Wall Clock,Home,Lahore,1,8355.99,Wallet
+ECM-9430,2026-05-19,Shampoo,Beauty,Multan,1,6851.23,COD
+ECM-9431,2026-05-30,Sneakers,Fashion,Multan,2,11164.26,Wallet
+ECM-9432,2026-07-11,Lipstick,Beauty,Lahore,4,35323.32,Card
+ECM-9433,2026-08-15,T-Shirt,Fashion,Multan,4,22623.92,Wallet
+ECM-9434,2026-08-20,Wall Clock,Home,Faisalabad,2,7031.42,COD
+ECM-9435,2026-02-06,Table Lamp,Home,Multan,1,2997.83,COD
+ECM-9436,2026-05-11,Sunglasses,Fashion,Faisalabad,4,35557.16,Card
+ECM-9437,2026-04-29,Cushion Cover,Home,Lahore,3,10465.8,
+ECM-9438,2026-06-24,T-Shirt,Fashion,Multan,2,17813.82,Wallet
+ECM-9439,2026-08-15,Sunglasses,Fashion,Islamabad,4,28612.84,COD
+ECM-9440,2026-08-13,Shampoo,Beauty,Islamabad,2,17613.82,Wallet
+ECM-9441,2026-08-04,T-Shirt,Fashion,Islamabad,5,3767.0,Wallet
+ECM-9442,2026-02-20,Sunglasses,Fashion,Multan,2,1151.0,
+ECM-9443,2026-07-08,Face Serum,Beauty,Multan,5,43631.65,
+ECM-9444,2026-02-03,Table Lamp,Home,Multan,4,21954.68,Card
+ECM-9445,2026-03-27,Shampoo,Beauty,Islamabad,2,8956.08,Card
+ECM-9446,2026-04-19,Table Lamp,Home,Islamabad,1,7212.43,Wallet
+ECM-9447,2026-02-20,Sunglasses,Fashion,Islamabad,3,2562.12,Wallet
+ECM-9448,2026-06-08,Handbag,Fashion,Karachi,1,3991.57,Card
+ECM-9449,2026-03-12,Power Bank,Electronics,Karachi,3,2610.15,Card
+ECM-9450,2026-05-02,Lipstick,Beauty,Karachi,1,8410.12,
+ECM-9451,2026-06-08,Wall Clock,Home,Faisalabad,5,30033.5,Wallet
+ECM-9452,2026-04-30,Shampoo,Beauty,Islamabad,5,43432.8,
+ECM-9453,2026-08-05,Face Serum,Beauty,Lahore,1,3386.62,
+ECM-9454,2026-08-17,Handbag,Fashion,Lahore,1,5330.24,COD
+ECM-9455,2026-07-13,Shampoo,Beauty,Lahore,2,4766.08,
+ECM-9456,2026-04-13,Handbag,Fashion,Faisalabad,3,25862.7,
+ECM-9457,2026-05-12,Sunglasses,Fashion,Multan,4,4377.08,Card
+ECM-9458,2026-03-21,Wall Clock,Home,Multan,4,21356.0,
+ECM-9459,2026-04-14,Shampoo,Beauty,Multan,3,13847.52,COD
+ECM-9460,2026-06-22,Sunglasses,Fashion,Karachi,3,24784.2,COD
+ECM-9461,2026-02-27,Smart Watch,Electronics,Multan,4,15519.28,Wallet
+ECM-9462,2026-07-31,T-Shirt,Fashion,Karachi,4,31541.96,Wallet
+ECM-9463,2026-06-30,Shampoo,Beauty,Karachi,1,5028.48,Card
+ECM-9464,2026-03-04,Sunglasses,Fashion,Multan,2,2170.94,COD
+ECM-9465,2026-03-14,T-Shirt,Fashion,Faisalabad,1,3198.9,Card
+ECM-9466,2026-06-19,Bluetooth Earbuds,Electronics,Islamabad,2,15499.72,
+ECM-9467,2026-06-16,Cushion Cover,Home,,5,2031.8,Wallet
+ECM-9468,2026-05-14,Bluetooth Earbuds,Electronics,Lahore,1,1613.08,
+ECM-9469,2026-04-24,T-Shirt,Fashion,Multan,5,39601.45,COD
+ECM-9470,2026-03-10,Phone Case,Electronics,Multan,4,34610.32,COD
+ECM-9471,2026-03-06,Cushion Cover,Home,Faisalabad,1,4752.25,COD
+ECM-9472,2026-06-12,Table Lamp,Home,Lahore,1,2521.51,Card
+ECM-9473,2026-03-31,Table Lamp,Home,Karachi,3,18066.45,
+ECM-9474,2026-03-09,Power Bank,Electronics,Faisalabad,3,8493.33,Wallet
+ECM-9475,2026-03-07,Power Bank,Electronics,Multan,1,6281.17,COD
+ECM-9476,2026-04-24,Cushion Cover,Home,Multan,4,5310.2,Wallet
+ECM-9477,2026-08-06,Smart Watch,Electronics,Faisalabad,5,31575.5,COD
+ECM-9478,2026-05-13,Face Serum,Beauty,Karachi,2,14563.06,Wallet
+ECM-9479,2026-08-17,Power Bank,Electronics,Faisalabad,4,15652.2,COD
+ECM-9480,2026-04-30,Sunglasses,Fashion,Multan,5,25697.85,Wallet
+ECM-9481,2026-07-16,Bluetooth Earbuds,Electronics,Lahore,3,18841.41,Wallet
+ECM-9482,2026-07-15,T-Shirt,Fashion,Karachi,3,5296.95,Wallet
+ECM-9483,2026-05-28,Cushion Cover,Home,Karachi,4,21894.56,Wallet
+ECM-9484,2026-08-11,Shampoo,Beauty,Multan,3,23962.77,COD
+ECM-9485,2026-07-15,T-Shirt,Fashion,Islamabad,4,5268.04,Card
+ECM-9486,2026-08-11,Face Serum,Beauty,Karachi,4,30457.68,
+ECM-9487,2026-02-12,Bluetooth Earbuds,Electronics,Karachi,5,40722.6,Wallet
+ECM-9488,2026-07-21,Sunglasses,Fashion,Islamabad,1,1737.89,
+ECM-9489,2026-05-16,Shampoo,Beauty,Lahore,1,4706.24,Wallet
+ECM-9490,2026-06-21,Phone Case,Electronics,Faisalabad,4,34354.96,COD
+ECM-9491,2026-08-06,Wall Clock,Home,Karachi,1,2153.49,Card
+ECM-9492,2026-07-08,Sneakers,Fashion,Lahore,5,25390.0,
+ECM-9493,2026-05-11,Shampoo,Beauty,Karachi,2,14693.96,
+ECM-9494,2026-08-19,Face Serum,Beauty,Faisalabad,1,5689.76,Wallet
+ECM-9495,2026-02-21,Lipstick,Beauty,Faisalabad,4,3022.64,Wallet
+ECM-9496,2026-04-23,Handbag,Fashion,Islamabad,2,1934.1,Card
+ECM-9497,2026-07-02,Wall Clock,Home,Lahore,5,36018.95,
+ECM-9498,2026-08-14,Sunglasses,Fashion,Islamabad,1,5602.55,
+ECM-9499,2026-02-19,Handbag,Fashion,Islamabad,1,417.04,
+ECM-9500,2026-05-30,Cushion Cover,Home,Islamabad,1,1872.76,Card
+ECM-9501,2026-07-31,Handbag,Fashion,Karachi,5,41488.3,Wallet
+ECM-9502,2026-02-25,Face Serum,Beauty,Multan,5,41577.4,
+ECM-9503,2026-05-18,Cushion Cover,Home,Lahore,5,32579.3,Card
+ECM-9504,2026-04-10,Phone Case,Electronics,Islamabad,2,14637.58,COD
+ECM-9505,2026-04-09,Cushion Cover,Home,Faisalabad,4,12674.84,Card
+ECM-9506,2026-03-10,Sneakers,Fashion,Lahore,4,19324.6,Card
+ECM-9507,2026-07-09,Table Lamp,Home,Faisalabad,1,7290.25,
+ECM-9508,2026-08-18,Smart Watch,Electronics,Lahore,3,25459.35,Wallet
+ECM-9509,2026-04-30,T-Shirt,Fashion,Faisalabad,5,7953.0,COD
+ECM-9510,2026-08-15,Sunglasses,Fashion,Faisalabad,3,26688.12,Wallet
+ECM-9511,2026-02-26,Wall Clock,Home,Islamabad,5,38275.75,COD
+ECM-9512,2026-08-03,Smart Watch,Electronics,Faisalabad,4,22665.48,
+ECM-9513,2026-04-19,Bluetooth Earbuds,Electronics,Lahore,1,3230.01,Card
+ECM-9514,2026-02-04,Smart Watch,Electronics,Lahore,1,2255.47,
+ECM-9515,2026-04-15,T-Shirt,Fashion,Lahore,2,799.2,Wallet
+ECM-9516,2026-08-01,Lipstick,Beauty,Lahore,2,7847.22,Wallet
+ECM-9517,2026-08-14,Cushion Cover,Home,Faisalabad,5,32478.35,Wallet
+ECM-9518,2026-06-26,T-Shirt,Fashion,Karachi,2,6672.26,Card
+ECM-9519,2026-03-03,Lipstick,Beauty,Lahore,5,3062.15,Card
+ECM-9520,2026-06-22,Power Bank,Electronics,,2,2252.96,Card
+ECM-9521,2026-04-23,Shampoo,Beauty,Karachi,2,15970.88,Wallet
+ECM-9522,2026-05-01,T-Shirt,Fashion,Faisalabad,5,30100.15,
+ECM-9523,2026-04-19,Wall Clock,Home,Lahore,5,11865.5,
+ECM-9524,2026-05-28,Wall Clock,Home,Karachi,4,18856.72,Wallet
+ECM-9525,2026-03-20,Shampoo,Beauty,Faisalabad,1,2886.97,Wallet
+ECM-9526,2026-05-17,Shampoo,Beauty,Karachi,4,32966.6,Wallet
+ECM-9527,2026-05-25,Handbag,Fashion,Karachi,4,18218.16,Card
+ECM-9528,2026-06-17,Smart Watch,Electronics,Multan,4,11978.12,COD
+ECM-9529,2026-02-14,Cushion Cover,Home,Karachi,5,24711.85,Card
+ECM-9530,2026-06-13,T-Shirt,Fashion,Faisalabad,5,40111.4,
+ECM-9531,2026-07-11,Cushion Cover,Home,Karachi,2,8275.92,COD
+ECM-9532,2026-02-01,Face Serum,Beauty,Islamabad,2,778.28,
+ECM-9533,2026-07-10,Table Lamp,Home,Islamabad,1,5295.55,Wallet
+ECM-9534,2026-08-18,Smart Watch,Electronics,Karachi,4,32069.08,
+ECM-9535,2026-04-14,Table Lamp,Home,Faisalabad,2,6825.94,
+ECM-9536,2026-03-01,Bluetooth Earbuds,Electronics,Lahore,2,12528.6,
+ECM-9537,2026-04-30,Cushion Cover,Home,,1,4911.79,
+ECM-9538,2026-07-09,Lipstick,Beauty,Faisalabad,3,7025.31,Wallet
+ECM-9539,2026-08-06,Sunglasses,Fashion,Islamabad,5,17401.45,Card
+ECM-9540,2026-08-17,Shampoo,Beauty,Islamabad,4,10585.08,Card
+ECM-9541,2026-07-28,Lipstick,Beauty,Lahore,2,10187.68,Card
+ECM-9542,2026-07-16,Shampoo,Beauty,Karachi,2,3035.06,Wallet
+ECM-9543,2026-05-06,Face Serum,Beauty,Multan,5,32299.75,COD
+ECM-9544,2026-05-16,Smart Watch,Electronics,Faisalabad,3,25834.95,Wallet
+ECM-9545,2026-07-03,Power Bank,Electronics,Faisalabad,2,15056.06,
+ECM-9546,2026-04-06,T-Shirt,Fashion,Faisalabad,4,15128.68,Wallet
+ECM-9547,2026-03-02,Wall Clock,Home,Lahore,4,15490.52,COD
+ECM-9548,2026-04-16,Lipstick,Beauty,Karachi,4,23085.24,COD
+ECM-9549,2026-07-30,Smart Watch,Electronics,Faisalabad,1,4563.07,COD
+ECM-9550,2026-02-24,Handbag,Fashion,Islamabad,2,17734.98,COD
+ECM-9551,2026-02-08,Lipstick,Beauty,Islamabad,2,4310.1,Wallet
+ECM-9552,2026-02-14,Face Serum,Beauty,Faisalabad,1,6100.72,
+ECM-9553,2026-04-25,Bluetooth Earbuds,Electronics,Faisalabad,5,4774.05,
+ECM-9554,2026-02-03,T-Shirt,Fashion,Lahore,4,23948.92,
+ECM-9555,2026-05-30,Lipstick,Beauty,Multan,2,15141.16,
+ECM-9556,2026-03-19,Table Lamp,Home,,1,7690.89,COD
+ECM-9557,2026-02-10,Wall Clock,Home,Islamabad,1,4684.78,Card
+ECM-9558,2026-05-16,Face Serum,Beauty,Faisalabad,1,6374.96,COD
+ECM-9559,2026-05-04,Face Serum,Beauty,Islamabad,2,13334.88,Card
+ECM-9560,2026-05-24,Handbag,Fashion,Lahore,1,7099.6,Card
+ECM-9561,2026-07-28,Face Serum,Beauty,Karachi,2,12781.1,Card
+ECM-9562,2026-02-21,T-Shirt,Fashion,Lahore,1,5370.5,Wallet
+ECM-9563,2026-06-10,Face Serum,Beauty,Lahore,4,24003.24,Wallet
+ECM-9564,2026-04-30,Smart Watch,Electronics,Faisalabad,5,6268.3,COD
+ECM-9565,2026-03-12,Handbag,Fashion,Faisalabad,5,20491.8,Card
+ECM-9566,2026-03-27,Lipstick,Beauty,Lahore,3,7425.54,Wallet
+ECM-9567,2026-04-12,Shampoo,Beauty,Multan,2,5968.36,
+ECM-9568,2026-07-27,Cushion Cover,Home,Islamabad,2,6207.06,Wallet
+ECM-9569,2026-06-15,Sunglasses,Fashion,Multan,1,6108.27,Card
+ECM-9570,2026-05-12,Wall Clock,Home,Faisalabad,4,9523.08,Wallet
+ECM-9571,2026-07-16,Table Lamp,Home,Karachi,5,21865.05,
+ECM-9572,2026-05-19,Table Lamp,Home,Multan,2,14728.26,
+ECM-9573,2026-02-28,Handbag,Fashion,Islamabad,4,35340.36,COD
+ECM-9574,2026-08-04,Table Lamp,Home,Multan,3,11899.65,
+ECM-9575,2026-05-26,Face Serum,Beauty,Islamabad,2,6090.92,COD
+ECM-9576,2026-03-23,Lipstick,Beauty,Karachi,5,43184.55,COD
+ECM-9577,2026-04-23,T-Shirt,Fashion,Lahore,4,18880.44,
+ECM-9578,2026-08-16,Lipstick,Beauty,Lahore,5,20377.75,
+ECM-9579,2026-06-18,Power Bank,Electronics,Faisalabad,5,17040.95,Card
+ECM-9580,2026-06-14,Lipstick,Beauty,Karachi,5,30053.75,Card
+ECM-9581,2026-06-16,Handbag,Fashion,Karachi,3,8202.18,COD
+ECM-9582,2026-06-22,Sneakers,Fashion,Lahore,3,8919.42,Card
+ECM-9583,2026-07-13,Face Serum,Beauty,Islamabad,2,4624.18,
+ECM-9584,2026-03-20,Power Bank,Electronics,Lahore,3,18873.39,
+ECM-9585,2026-04-03,Handbag,Fashion,Lahore,2,13982.52,COD
+ECM-9586,2026-03-26,Sunglasses,Fashion,Multan,2,4613.5,
+ECM-9587,2026-03-31,Phone Case,Electronics,Multan,3,12229.92,Wallet
+ECM-9588,2026-06-06,Face Serum,Beauty,Faisalabad,5,12116.8,Card
+ECM-9589,2026-02-05,Table Lamp,Home,Faisalabad,1,6669.92,Card
+ECM-9590,2026-06-03,Shampoo,Beauty,Faisalabad,4,10205.24,Card
+ECM-9591,2026-05-05,T-Shirt,Fashion,Islamabad,1,7819.69,
+ECM-9592,2026-02-19,Cushion Cover,Home,Faisalabad,5,,Wallet
+ECM-9593,2026-03-06,Face Serum,Beauty,Faisalabad,2,1513.02,Wallet
+ECM-9594,2026-05-27,T-Shirt,Fashion,Faisalabad,2,9936.86,COD
+ECM-9595,2026-03-16,Sneakers,Fashion,Multan,2,12044.7,
+ECM-9596,2026-04-23,Face Serum,Beauty,Faisalabad,2,10975.42,Wallet
+ECM-9597,2026-05-17,Bluetooth Earbuds,Electronics,Lahore,3,23128.41,COD
+ECM-9598,2026-03-12,Lipstick,Beauty,,2,1135.46,Card
+ECM-9599,2026-03-05,Sneakers,Fashion,Karachi,5,21827.7,Card
+ECM-9600,2026-03-16,Lipstick,Beauty,Islamabad,4,12773.56,Card
+ECM-9601,2026-07-24,Cushion Cover,Home,Lahore,1,7551.57,
+ECM-9602,2026-02-06,Handbag,Fashion,Multan,3,7288.29,COD
+ECM-9603,2026-04-06,Sunglasses,Fashion,Lahore,3,21767.28,COD
+ECM-9604,2026-06-06,Lipstick,Beauty,Multan,4,28607.6,Wallet
+ECM-9605,2026-05-30,Bluetooth Earbuds,Electronics,Lahore,5,18727.65,
+ECM-9606,2026-03-29,Power Bank,Electronics,Faisalabad,5,26966.6,COD
+ECM-9607,2026-08-03,Wall Clock,Home,Karachi,5,5596.2,COD
+ECM-9608,2026-06-07,Lipstick,Beauty,Multan,2,13080.66,Wallet
+ECM-9609,2026-06-29,Wall Clock,Home,Multan,4,5217.28,
+ECM-9610,2026-03-14,Wall Clock,Home,Multan,3,,
+ECM-9611,2026-05-01,Smart Watch,Electronics,Islamabad,5,24038.05,COD
+ECM-9612,2026-04-01,Shampoo,Beauty,Multan,5,19527.3,COD
+ECM-9613,2026-03-19,Shampoo,Beauty,Multan,5,9818.15,Wallet
+ECM-9614,2026-03-30,Handbag,Fashion,Faisalabad,5,24971.5,COD
+ECM-9615,2026-07-24,Face Serum,Beauty,Faisalabad,2,10944.26,Card
+ECM-9616,2026-05-01,T-Shirt,Fashion,,3,14925.0,
+ECM-9617,2026-06-26,Cushion Cover,Home,Islamabad,5,31604.8,Wallet
+ECM-9618,2026-03-22,Lipstick,Beauty,Faisalabad,4,11660.48,COD
+ECM-9619,2026-06-16,Wall Clock,Home,Islamabad,1,1106.16,COD
+ECM-9620,2026-04-12,Bluetooth Earbuds,Electronics,Multan,1,3222.74,COD
+ECM-9621,2026-04-21,Sunglasses,Fashion,Faisalabad,4,30182.48,COD
+ECM-9622,2026-05-26,Bluetooth Earbuds,Electronics,Multan,5,30944.2,Wallet
+ECM-9623,2026-04-12,Table Lamp,Home,Lahore,5,40808.2,Card
+ECM-9624,2026-05-22,Lipstick,Beauty,Islamabad,5,16404.7,
+ECM-9625,2026-04-12,Table Lamp,Home,Islamabad,3,8061.99,Card
+ECM-9626,2026-06-18,Smart Watch,Electronics,Karachi,3,9252.0,
+ECM-9627,2026-05-24,Table Lamp,Home,Multan,3,16075.89,Wallet
+ECM-9628,2026-02-28,Wall Clock,Home,Islamabad,3,8366.01,Card
+ECM-9629,2026-05-14,Power Bank,Electronics,Islamabad,2,17201.48,Card
+ECM-9630,2026-07-08,Wall Clock,Home,Multan,1,7299.39,COD
+ECM-9631,2026-04-25,Sunglasses,Fashion,Multan,1,1973.17,COD
+ECM-9632,2026-03-14,Face Serum,Beauty,Karachi,4,30381.44,
+ECM-9633,2026-08-13,Table Lamp,Home,Karachi,5,11143.15,Card
+ECM-9634,2026-03-21,Handbag,Fashion,Islamabad,4,33365.84,Wallet
+ECM-9635,2026-03-27,Smart Watch,Electronics,Multan,1,7025.11,Wallet
+ECM-9636,2026-03-10,Wall Clock,Home,Multan,5,17924.5,
+ECM-9637,2026-07-25,Wall Clock,Home,Faisalabad,3,19962.75,Card
+ECM-9638,2026-04-01,Face Serum,Beauty,Multan,4,13437.76,COD
+ECM-9639,2026-04-13,Bluetooth Earbuds,Electronics,Islamabad,2,6326.96,COD
+ECM-9640,2026-06-08,Wall Clock,Home,Multan,4,,
+ECM-9641,2026-07-06,Smart Watch,Electronics,Islamabad,5,29846.5,COD
+ECM-9642,2026-04-14,Sneakers,Fashion,Karachi,2,2153.66,COD
+ECM-9643,2026-04-03,Face Serum,Beauty,Multan,5,41632.25,
+ECM-9644,2026-04-20,Wall Clock,Home,Multan,1,4042.86,COD
+ECM-9645,2026-03-30,Table Lamp,Home,Islamabad,4,14096.48,COD
+ECM-9646,2026-05-10,Face Serum,Beauty,Karachi,3,18277.44,
+ECM-9647,2026-08-20,Cushion Cover,Home,Lahore,3,18654.99,
+ECM-9648,2026-02-02,Table Lamp,Home,Multan,2,4348.16,Wallet
+ECM-9649,2026-04-30,Sneakers,Fashion,Multan,1,2465.73,
+ECM-9650,2026-08-05,Shampoo,Beauty,Lahore,1,1738.08,COD
+ECM-9651,2026-07-01,Power Bank,Electronics,Multan,3,1543.89,Wallet
+ECM-9652,2026-07-11,Lipstick,Beauty,Islamabad,2,6482.1,
+ECM-9653,2026-06-07,Smart Watch,Electronics,Multan,3,13490.4,Card
+ECM-9654,2026-04-01,Cushion Cover,Home,Multan,4,23857.76,Wallet
+ECM-9655,2026-03-17,Table Lamp,Home,Faisalabad,4,33477.52,Card
+ECM-9656,2026-02-27,Cushion Cover,Home,Lahore,5,26456.6,Card
+ECM-9657,2026-07-23,Bluetooth Earbuds,Electronics,Multan,2,8805.74,
+ECM-9658,2026-03-08,Bluetooth Earbuds,Electronics,Karachi,5,42576.15,Wallet
+ECM-9659,2026-06-15,Shampoo,Beauty,Multan,3,9732.66,
+ECM-9660,2026-08-01,Table Lamp,Home,Faisalabad,3,8131.56,COD
+ECM-9661,2026-02-07,Face Serum,Beauty,Karachi,3,11071.32,Card
+ECM-9662,2026-04-15,Shampoo,Beauty,Faisalabad,2,2107.16,
+ECM-9663,2026-06-16,Table Lamp,Home,Faisalabad,1,8319.92,Wallet
+ECM-9664,2026-08-03,T-Shirt,Fashion,Multan,2,10538.5,COD
+ECM-9665,2026-05-18,Handbag,Fashion,Multan,2,10723.28,Card
+ECM-9666,2026-07-21,Table Lamp,Home,Islamabad,2,15660.46,Wallet
+ECM-9667,2026-03-04,Shampoo,Beauty,Lahore,2,785.12,COD
+ECM-9668,2026-05-11,Cushion Cover,Home,Islamabad,5,10170.3,
+ECM-9669,2026-05-22,Shampoo,Beauty,Karachi,5,40994.3,Wallet
+ECM-9670,2026-03-15,Wall Clock,Home,Lahore,3,,Wallet
+ECM-9671,2026-04-17,T-Shirt,Fashion,Multan,1,5949.32,Wallet
+ECM-9672,2026-03-05,Sunglasses,Fashion,Islamabad,4,19309.8,Card
+ECM-9673,2026-04-21,Table Lamp,Home,Lahore,3,23812.86,Card
+ECM-9674,2026-03-19,Sunglasses,Fashion,Multan,5,35516.45,Card
+ECM-9675,2026-03-31,Sunglasses,Fashion,Faisalabad,1,7315.08,COD
+ECM-9676,2026-06-27,Sunglasses,Fashion,Lahore,5,20950.0,Wallet
+ECM-9677,2026-08-17,T-Shirt,Fashion,Islamabad,1,6755.44,
+ECM-9678,2026-02-11,Sunglasses,Fashion,Lahore,3,21991.05,
+ECM-9679,2026-05-08,Bluetooth Earbuds,Electronics,Faisalabad,3,9742.08,Wallet
+ECM-9680,2026-03-20,Cushion Cover,Home,Multan,4,26990.4,COD
+ECM-9681,2026-07-28,Wall Clock,Home,Multan,3,26622.69,
+ECM-9682,2026-03-08,Shampoo,Beauty,Islamabad,5,39002.0,COD
+ECM-9683,2026-05-13,Wall Clock,Home,Lahore,5,23459.35,COD
+ECM-9684,2026-08-19,Cushion Cover,Home,Islamabad,3,24301.35,
+ECM-9685,2026-06-07,Smart Watch,Electronics,Karachi,2,1519.42,Wallet
+ECM-9686,2026-04-05,Power Bank,Electronics,Lahore,4,21939.04,
+ECM-9687,2026-04-29,Table Lamp,Home,Karachi,1,5733.27,
+ECM-9688,2026-05-30,T-Shirt,Fashion,Lahore,2,15160.16,
+ECM-9689,2026-07-17,Sunglasses,Fashion,Faisalabad,5,39077.2,Card
+ECM-9690,2026-04-21,Face Serum,Beauty,Lahore,3,18920.58,COD
+ECM-9691,2026-05-14,Shampoo,Beauty,Faisalabad,4,9985.48,
+ECM-9692,2026-05-13,Shampoo,Beauty,Lahore,3,12874.32,Card
+ECM-9693,2026-06-11,Sunglasses,Fashion,Karachi,4,8839.36,
+ECM-9694,2026-04-30,Phone Case,Electronics,Islamabad,5,27675.95,COD
+ECM-9695,2026-05-26,Lipstick,Beauty,Lahore,4,22549.88,Wallet
+ECM-9696,2026-06-19,Sunglasses,Fashion,Multan,4,13926.36,Wallet
+ECM-9697,2026-05-23,Wall Clock,Home,Faisalabad,4,18062.12,
+ECM-9698,2026-06-26,Bluetooth Earbuds,Electronics,Lahore,4,14980.72,COD
+ECM-9699,2026-03-27,Lipstick,Beauty,Lahore,5,19840.8,COD
+ECM-9501,2026-07-31,Handbag,Fashion,Karachi,5,41488.3,Wallet
+ECM-9433,2026-08-15,T-Shirt,Fashion,Multan,4,22623.92,Wallet
+ECM-9669,2026-05-22,Shampoo,Beauty,Karachi,5,40994.3,Wallet
+ECM-9439,2026-08-15,Sunglasses,Fashion,Islamabad,4,28612.84,COD
+ECM-9069,2026-03-11,Smart Watch,Electronics,Karachi,5,38469.25,Wallet
+ECM-9141,2026-06-28,Bluetooth Earbuds,Electronics,Multan,1,6164.11,COD
+ECM-9557,2026-02-10,Wall Clock,Home,Islamabad,1,4684.78,Card
+ECM-9097,2026-06-01,Cushion Cover,Home,Lahore,2,14436.9,Wallet
+ECM-9482,2026-07-15,T-Shirt,Fashion,Karachi,3,5296.95,Wallet
+ECM-9364,2026-06-25,Lipstick,Beauty,Faisalabad,5,39582.2,

@@ -1,0 +1,507 @@
+sku_id,item_name,item_group,warehouse,stock_quantity,reorder_level,unit_cost,last_restock_date
+SKU-5000,Drill Machine,Tools,,163,69,716.01,2026-03-10
+SKU-5001,Copper Wire,Raw Materials,,474,99,410.71,2026-06-13
+SKU-5002,Bubble Wrap,Packaging,,,39,258.22,2026-06-19
+SKU-5003,Bearing,Spare Parts,,140,70,332.84,2026-05-16
+SKU-5004,Screwdriver Kit,Tools,WH-North,62,53,410.2,2026-01-11
+SKU-5005,Drill Machine,Tools,WH-South,308,66,246.31,2026-08-15
+SKU-5006,Steel Sheet,Raw Materials,,385,97,613.48,2026-08-02
+SKU-5007,Plastic Granules,Raw Materials,WH-North,84,42,870.89,2026-07-18
+SKU-5008,Valve,Spare Parts,,430,63,365.98,2026-07-26
+SKU-5009,Drill Machine,Tools,WH-South,442,43,643.82,2026-05-17
+SKU-5010,Fuse,Spare Parts,WH-North,68,47,311.47,2026-08-25
+SKU-5011,Bearing,Spare Parts,WH-South,257,20,768.22,2026-05-28
+SKU-5012,Valve,Spare Parts,WH-South,109,93,658.59,2026-02-08
+SKU-5013,Plastic Wrap,Packaging,WH-North,256,35,809.52,2026-07-10
+SKU-5014,Fuse,Spare Parts,WH-Central,67,69,554.99,2026-07-02
+SKU-5015,Plastic Granules,Raw Materials,WH-Central,,47,814.46,2026-01-25
+SKU-5016,Screwdriver Kit,Tools,WH-North,291,30,330.15,2026-02-01
+SKU-5017,Wrench Set,Tools,WH-South,1,78,570.02,2026-04-25
+SKU-5018,Screwdriver Kit,Tools,WH-North,30,77,535.32,2026-01-11
+SKU-5019,Bearing,Spare Parts,WH-Central,247,48,271.79,2026-03-26
+SKU-5020,Plastic Wrap,Packaging,WH-North,284,46,260.72,2026-02-27
+SKU-5021,Cardboard Box,Packaging,WH-Central,415,84,248.57,2026-01-17
+SKU-5022,Screwdriver Kit,Tools,,45,94,110.02,2026-05-12
+SKU-5023,Gasket,Spare Parts,WH-Central,341,27,725.71,2026-06-18
+SKU-5024,Wrench Set,Tools,,328,81,522.29,2026-04-27
+SKU-5025,Gasket,Spare Parts,,174,98,179.02,2026-02-12
+SKU-5026,Wrench Set,Tools,WH-South,39,86,24.71,2026-07-22
+SKU-5027,Bubble Wrap,Packaging,WH-Central,103,91,682.44,2026-07-11
+SKU-5028,Steel Sheet,Raw Materials,WH-North,32,65,$193.02,2026-08-02
+SKU-5029,Screwdriver Kit,Tools,WH-Central,181,100,155.65,2026-04-01
+SKU-5030,Wrench Set,Tools,,22,42,625.28,2026-08-19
+SKU-5031,Aluminum Rod,Raw Materials,WH-South,395,33,315.21,2026-04-04
+SKU-5032,Valve,Spare Parts,,42,63,717.33,2026-08-18
+SKU-5033,Cardboard Box,Packaging,,270,92,233.6,2026-02-23
+SKU-5034,Drill Machine,Tools,WH-South,336,22,844.39,2026-07-01
+SKU-5035,Screwdriver Kit,Tools,,223,69,153.25,2026-02-04
+SKU-5036,Cardboard Box,Packaging,,56,47,657.82,2026-01-08
+SKU-5037,Steel Sheet,Raw Materials,WH-North,237,25,191.52,2026-08-08
+SKU-5038,Drill Machine,Tools,,319,91,797.93,2026-07-16
+SKU-5039,Cardboard Box,Packaging,,124,46,816.16,2026-08-14
+SKU-5040,Steel Sheet,Raw Materials,,302,36,850.89,2026-04-27
+SKU-5041,Bearing,Spare Parts,WH-South,291,26,776.91,2026-04-13
+SKU-5042,Tape Roll,Packaging,WH-North,354,80,549.25,2026-08-21
+SKU-5043,Valve,Spare Parts,WH-South,32,50,721.98,2026-01-02
+SKU-5044,Gasket,Spare Parts,WH-South,324,24,225.93,2026-07-25
+SKU-5045,Steel Sheet,Raw Materials,WH-South,238,26,367.76,2026-07-18
+SKU-5046,Aluminum Rod,Raw Materials,WH-North,134,25,146.54,2026-05-03
+SKU-5047,Steel Sheet,Raw Materials,WH-South,95,38,728.29,2026-06-07
+SKU-5048,Wrench Set,Tools,WH-North,261,68,825.55,2026-01-19
+SKU-5049,Steel Sheet,Raw Materials,WH-North,257,91,561.66,2026-06-30
+SKU-5050,Plastic Granules,Raw Materials,WH-South,234,70,606.93,2026-01-07
+SKU-5051,Tape Roll,Packaging,WH-South,106,35,640.24,2026-06-21
+SKU-5052,Bearing,Spare Parts,WH-Central,313,31,496.04,2026-06-23
+SKU-5053,Steel Sheet,Raw Materials,WH-North,373,50,766.26,2026-01-23
+SKU-5054,Drill Machine,Tools,WH-South,154,59,688.55,2026-05-07
+SKU-5055,Wrench Set,Tools,WH-North,3,30,76.75,2026-06-24
+SKU-5056,Tape Roll,Packaging,WH-South,233,72,832.18,2026-08-23
+SKU-5057,Steel Sheet,Raw Materials,WH-North,428,27,647.84,2026-06-21
+SKU-5058,Tape Roll,Packaging,WH-Central,410,27,170.03,2026-04-24
+SKU-5059,Screwdriver Kit,Tools,WH-Central,68,52,711.04,2026-01-08
+SKU-5060,Drill Machine,Tools,,48,40,404.16,2026-07-15
+SKU-5061,Drill Machine,Tools,WH-North,411,51,21.71,2026-03-29
+SKU-5062,Bubble Wrap,Packaging,WH-South,471,62,11.54,2026-08-16
+SKU-5063,Wrench Set,Tools,WH-Central,272,40,103.32,2026-04-19
+SKU-5064,Drill Machine,Tools,,32,88,118.45,2026-02-11
+SKU-5065,Cardboard Box,Packaging,,332,88,228.01,2026-08-27
+SKU-5066,Copper Wire,Raw Materials,WH-North,111,56,682.01,2026-07-02
+SKU-5067,Drill Machine,Tools,WH-South,366,35,890.84,2026-06-06
+SKU-5068,Gasket,Spare Parts,WH-South,353,56,680.29,2026-03-29
+SKU-5069,Wrench Set,Tools,WH-South,46,46,580.61,2026-06-17
+SKU-5070,Steel Sheet,Raw Materials,WH-North,355,70,280.47,2026-07-06
+SKU-5071,Steel Sheet,Raw Materials,WH-North,37,66,76.29,2026-07-04
+SKU-5072,Fuse,Spare Parts,WH-North,471,77,168.32,2026-03-07
+SKU-5073,Drill Machine,Tools,WH-North,209,42,405.99,2026-08-09
+SKU-5074,Fuse,Spare Parts,WH-South,165,46,37.32,2026-01-28
+SKU-5075,Bubble Wrap,Packaging,WH-North,343,62,257.11,2026-08-05
+SKU-5076,Cardboard Box,Packaging,WH-Central,463,31,150.65,2026-06-19
+SKU-5077,Wrench Set,Tools,WH-North,23,38,438.44,2026-04-09
+SKU-5078,Screwdriver Kit,Tools,WH-North,,92,529.46,2026-01-17
+SKU-5079,Wrench Set,Tools,WH-Central,137,36,843.09,2026-04-04
+SKU-5080,Plastic Wrap,Packaging,WH-South,189,52,$339.73,2026-05-14
+SKU-5081,Copper Wire,Raw Materials,,465,41,263.9,2026-08-27
+SKU-5082,Copper Wire,Raw Materials,,332,44,799.09,2026-08-07
+SKU-5083,Wrench Set,Tools,WH-North,328,80,244.0,2026-01-13
+SKU-5084,Aluminum Rod,Raw Materials,WH-North,428,67,218.98,2026-05-01
+SKU-5085,Valve,Spare Parts,,59,34,419.36,2026-01-24
+SKU-5086,Bearing,Spare Parts,WH-South,248,81,831.55,2026-04-20
+SKU-5087,Bearing,Spare Parts,WH-Central,60,44,70.44,2026-04-24
+SKU-5088,Gasket,Spare Parts,WH-North,479,63,503.76,2026-05-11
+SKU-5089,Tape Roll,Packaging,,381,47,510.96,2026-01-29
+SKU-5090,Aluminum Rod,Raw Materials,WH-South,268,27,223.37,2026-05-11
+SKU-5091,Wrench Set,Tools,,51,30,434.84,2026-08-25
+SKU-5092,Gasket,Spare Parts,WH-North,38,77,571.59,2026-02-22
+SKU-5093,Screwdriver Kit,Tools,,404,66,70.65,2026-05-04
+SKU-5094,Wrench Set,Tools,WH-North,260,21,568.52,2026-06-14
+SKU-5095,Bearing,Spare Parts,WH-South,275,49,697.58,2026-06-16
+SKU-5096,Wrench Set,Tools,WH-Central,198,61,668.93,2026-06-18
+SKU-5097,Plastic Wrap,Packaging,WH-North,8,96,418.05,2026-04-26
+SKU-5098,Cardboard Box,Packaging,WH-South,146,76,878.15,2026-03-19
+SKU-5099,Screwdriver Kit,Tools,WH-South,102,28,367.77,2026-01-04
+SKU-5100,Drill Machine,Tools,,119,28,434.58,2026-06-22
+SKU-5101,Plastic Wrap,Packaging,,98,80,189.7,2026-03-11
+SKU-5102,Bubble Wrap,Packaging,,16,72,167.98,2026-06-21
+SKU-5103,Plastic Granules,Raw Materials,WH-North,394,40,222.21,2026-02-09
+SKU-5104,Screwdriver Kit,Tools,,232,80,510.07,2026-02-05
+SKU-5105,Wrench Set,Tools,,287,35,253.76,2026-02-08
+SKU-5106,Plastic Wrap,Packaging,WH-North,297,61,799.01,2026-02-12
+SKU-5107,Tape Roll,Packaging,,85,30,531.17,2026-07-22
+SKU-5108,Fuse,Spare Parts,WH-South,454,92,598.92,2026-07-10
+SKU-5109,Screwdriver Kit,Tools,WH-North,208,32,55.92,2026-01-05
+SKU-5110,Wrench Set,Tools,,,42,784.7,2026-01-19
+SKU-5111,Fuse,Spare Parts,,413,85,528.94,2026-03-04
+SKU-5112,Fuse,Spare Parts,WH-South,460,86,866.51,2026-04-22
+SKU-5113,Plastic Granules,Raw Materials,WH-Central,292,68,171.56,2026-06-14
+SKU-5114,Tape Roll,Packaging,WH-North,187,87,239.12,2026-06-29
+SKU-5115,Aluminum Rod,Raw Materials,WH-North,108,61,721.64,2026-04-24
+SKU-5116,Fuse,Spare Parts,WH-Central,,43,424.3,2026-07-21
+SKU-5117,Tape Roll,Packaging,,45,46,492.86,2026-02-04
+SKU-5118,Bubble Wrap,Packaging,,376,66,348.28,2026-07-16
+SKU-5119,Wrench Set,Tools,WH-North,113,47,792.23,2026-01-10
+SKU-5120,Tape Roll,Packaging,,315,73,585.27,2026-05-30
+SKU-5121,Fuse,Spare Parts,,295,89,326.56,2026-03-22
+SKU-5122,Tape Roll,Packaging,WH-South,354,22,612.04,2026-04-11
+SKU-5123,Wrench Set,Tools,WH-South,492,100,692.43,2026-06-12
+SKU-5124,Plastic Wrap,Packaging,WH-South,189,58,587.36,2026-07-30
+SKU-5125,Aluminum Rod,Raw Materials,WH-North,435,95,$50.61,2026-06-02
+SKU-5126,Fuse,Spare Parts,WH-South,14,28,720.57,2026-01-22
+SKU-5127,Cardboard Box,Packaging,WH-South,88,49,165.34,2026-01-05
+SKU-5128,Steel Sheet,Raw Materials,WH-South,42,31,873.26,2026-05-01
+SKU-5129,Wrench Set,Tools,,267,64,294.94,2026-07-11
+SKU-5130,Fuse,Spare Parts,WH-Central,170,27,835.23,2026-02-11
+SKU-5131,Wrench Set,Tools,WH-Central,32,99,56.57,2026-02-03
+SKU-5132,Drill Machine,Tools,WH-North,256,82,135.55,2026-07-12
+SKU-5133,Tape Roll,Packaging,WH-South,197,57,648.14,2026-03-21
+SKU-5134,Aluminum Rod,Raw Materials,WH-South,48,28,531.73,2026-07-23
+SKU-5135,Valve,Spare Parts,,405,49,563.98,2026-05-25
+SKU-5136,Gasket,Spare Parts,WH-South,6,44,840.9,2026-01-28
+SKU-5137,Gasket,Spare Parts,WH-Central,384,53,456.16,2026-07-05
+SKU-5138,Steel Sheet,Raw Materials,WH-Central,117,23,206.67,2026-02-24
+SKU-5139,Gasket,Spare Parts,WH-Central,461,43,192.13,2026-06-19
+SKU-5140,Wrench Set,Tools,WH-Central,80,27,211.42,2026-07-31
+SKU-5141,Drill Machine,Tools,WH-North,161,86,651.86,2026-07-18
+SKU-5142,Wrench Set,Tools,WH-South,150,26,299.28,2026-02-08
+SKU-5143,Plastic Wrap,Packaging,WH-North,236,23,185.96,2026-07-20
+SKU-5144,Screwdriver Kit,Tools,WH-North,366,80,481.04,2026-01-28
+SKU-5145,Aluminum Rod,Raw Materials,WH-South,223,81,69.37,2026-04-26
+SKU-5146,Drill Machine,Tools,WH-Central,480,73,695.59,2026-05-17
+SKU-5147,Fuse,Spare Parts,,,26,103.4,2026-01-23
+SKU-5148,Wrench Set,Tools,,19,91,124.77,2026-06-25
+SKU-5149,Plastic Granules,Raw Materials,WH-Central,336,28,768.66,2026-04-22
+SKU-5150,Copper Wire,Raw Materials,WH-North,201,32,647.13,2026-01-09
+SKU-5151,Screwdriver Kit,Tools,WH-North,69,87,104.83,2026-03-22
+SKU-5152,Tape Roll,Packaging,,86,50,164.58,2026-07-01
+SKU-5153,Drill Machine,Tools,WH-North,63,51,417.69,2026-01-24
+SKU-5154,Screwdriver Kit,Tools,WH-South,481,69,430.76,2026-06-04
+SKU-5155,Drill Machine,Tools,WH-South,201,45,663.25,2026-07-11
+SKU-5156,Tape Roll,Packaging,WH-South,54,85,311.58,2026-01-08
+SKU-5157,Screwdriver Kit,Tools,WH-Central,240,39,878.85,2026-03-22
+SKU-5158,Bubble Wrap,Packaging,WH-North,349,44,597.09,2026-07-30
+SKU-5159,Copper Wire,Raw Materials,WH-Central,294,64,19.27,2026-06-05
+SKU-5160,Steel Sheet,Raw Materials,WH-Central,487,61,212.85,2026-07-29
+SKU-5161,Drill Machine,Tools,,154,67,559.87,2026-04-07
+SKU-5162,Wrench Set,Tools,,482,49,21.21,2026-07-13
+SKU-5163,Cardboard Box,Packaging,WH-Central,,41,681.81,2026-03-06
+SKU-5164,Drill Machine,Tools,WH-Central,223,59,128.9,2026-06-21
+SKU-5165,Plastic Granules,Raw Materials,WH-South,458,42,764.61,2026-08-08
+SKU-5166,Aluminum Rod,Raw Materials,,484,63,428.49,2026-07-20
+SKU-5167,Bubble Wrap,Packaging,WH-North,184,51,66.98,2026-03-25
+SKU-5168,Steel Sheet,Raw Materials,WH-North,116,67,72.88,2026-05-08
+SKU-5169,Copper Wire,Raw Materials,WH-Central,440,79,579.67,2026-07-25
+SKU-5170,Valve,Spare Parts,,158,100,799.46,2026-03-23
+SKU-5171,Screwdriver Kit,Tools,WH-Central,429,59,667.77,2026-05-27
+SKU-5172,Steel Sheet,Raw Materials,WH-South,247,77,380.61,2026-02-23
+SKU-5173,Bubble Wrap,Packaging,WH-North,277,66,835.57,2026-06-17
+SKU-5174,Aluminum Rod,Raw Materials,WH-South,302,92,394.8,2026-04-20
+SKU-5175,Copper Wire,Raw Materials,WH-Central,268,57,740.17,2026-01-26
+SKU-5176,Cardboard Box,Packaging,,112,66,795.97,2026-02-10
+SKU-5177,Bearing,Spare Parts,WH-Central,476,73,189.53,2026-03-26
+SKU-5178,Tape Roll,Packaging,WH-South,279,84,19.65,2026-06-04
+SKU-5179,Gasket,Spare Parts,WH-North,93,22,820.07,2026-08-11
+SKU-5180,Wrench Set,Tools,WH-North,473,27,194.58,2026-08-19
+SKU-5181,Tape Roll,Packaging,WH-South,477,39,508.37,2026-02-09
+SKU-5182,Bearing,Spare Parts,WH-Central,217,37,545.88,2026-06-04
+SKU-5183,Wrench Set,Tools,,215,47,466.77,2026-01-14
+SKU-5184,Steel Sheet,Raw Materials,WH-South,410,63,813.88,2026-07-11
+SKU-5185,Bubble Wrap,Packaging,WH-South,118,86,741.5,2026-06-04
+SKU-5186,Plastic Wrap,Packaging,WH-North,499,94,652.16,2026-07-11
+SKU-5187,Gasket,Spare Parts,WH-North,139,74,833.34,2026-05-06
+SKU-5188,Aluminum Rod,Raw Materials,,445,31,783.01,2026-02-06
+SKU-5189,Drill Machine,Tools,WH-Central,87,47,897.87,2026-04-15
+SKU-5190,Plastic Wrap,Packaging,WH-Central,116,40,783.66,2026-06-08
+SKU-5191,Fuse,Spare Parts,,158,40,575.15,2026-01-22
+SKU-5192,Plastic Wrap,Packaging,WH-Central,301,60,120.77,2026-02-17
+SKU-5193,Valve,Spare Parts,,430,76,694.14,2026-05-02
+SKU-5194,Drill Machine,Tools,WH-South,265,45,429.93,2026-05-09
+SKU-5195,Plastic Wrap,Packaging,WH-North,37,65,634.19,2026-04-14
+SKU-5196,Plastic Granules,Raw Materials,,375,74,308.66,2026-06-15
+SKU-5197,Tape Roll,Packaging,WH-North,442,93,497.64,2026-08-06
+SKU-5198,Fuse,Spare Parts,,260,100,643.91,2026-04-21
+SKU-5199,Wrench Set,Tools,WH-South,283,20,854.88,2026-06-10
+SKU-5200,Screwdriver Kit,Tools,WH-South,436,71,714.0,2026-03-29
+SKU-5201,Tape Roll,Packaging,WH-South,333,43,264.23,2026-08-18
+SKU-5202,Plastic Granules,Raw Materials,WH-Central,412,81,402.32,2026-04-04
+SKU-5203,Plastic Granules,Raw Materials,WH-Central,281,88,714.65,2026-06-13
+SKU-5204,Bearing,Spare Parts,WH-Central,170,52,354.54,2026-01-05
+SKU-5205,Drill Machine,Tools,WH-North,34,66,731.26,2026-03-12
+SKU-5206,Drill Machine,Tools,,420,83,152.6,2026-01-06
+SKU-5207,Copper Wire,Raw Materials,WH-South,107,27,665.68,2026-02-07
+SKU-5208,Wrench Set,Tools,WH-North,112,27,398.6,2026-07-07
+SKU-5209,Copper Wire,Raw Materials,WH-North,282,90,830.53,2026-07-17
+SKU-5210,Tape Roll,Packaging,,428,44,45.48,2026-08-08
+SKU-5211,Valve,Spare Parts,WH-South,47,100,786.91,2026-06-02
+SKU-5212,Bubble Wrap,Packaging,WH-North,19,30,59.79,2026-01-10
+SKU-5213,Plastic Granules,Raw Materials,,362,100,159.93,2026-02-11
+SKU-5214,Copper Wire,Raw Materials,WH-South,101,97,328.55,2026-04-03
+SKU-5215,Aluminum Rod,Raw Materials,,166,70,374.02,2026-03-01
+SKU-5216,Bearing,Spare Parts,WH-South,344,42,157.35,2026-07-23
+SKU-5217,Screwdriver Kit,Tools,WH-North,377,27,406.52,2026-07-20
+SKU-5218,Bearing,Spare Parts,WH-Central,231,76,794.42,2026-06-19
+SKU-5219,Gasket,Spare Parts,WH-South,440,26,824.2,2026-05-08
+SKU-5220,Tape Roll,Packaging,WH-North,80,20,455.28,2026-08-05
+SKU-5221,Drill Machine,Tools,,361,44,517.19,2026-03-27
+SKU-5222,Gasket,Spare Parts,WH-South,161,68,179.87,2026-07-22
+SKU-5223,Plastic Granules,Raw Materials,WH-Central,162,91,243.44,2026-02-10
+SKU-5224,Fuse,Spare Parts,WH-North,439,30,447.92,2026-02-08
+SKU-5225,Bearing,Spare Parts,,293,73,817.42,2026-06-30
+SKU-5226,Steel Sheet,Raw Materials,WH-Central,301,37,101.58,2026-08-13
+SKU-5227,Aluminum Rod,Raw Materials,,226,52,82.41,2026-06-16
+SKU-5228,Wrench Set,Tools,WH-Central,18,83,752.55,2026-02-24
+SKU-5229,Plastic Granules,Raw Materials,,142,67,193.07,2026-07-16
+SKU-5230,Drill Machine,Tools,,329,60,367.12,2026-01-31
+SKU-5231,Copper Wire,Raw Materials,WH-South,415,57,57.64,2026-04-01
+SKU-5232,Gasket,Spare Parts,,132,84,39.6,2026-01-07
+SKU-5233,Steel Sheet,Raw Materials,,435,24,201.72,2026-08-13
+SKU-5234,Plastic Granules,Raw Materials,WH-South,175,97,174.92,2026-06-15
+SKU-5235,Copper Wire,Raw Materials,WH-South,429,84,$241.65,2026-02-11
+SKU-5236,Tape Roll,Packaging,WH-North,439,48,232.66,2026-02-26
+SKU-5237,Bubble Wrap,Packaging,,497,28,571.43,2026-02-24
+SKU-5238,Aluminum Rod,Raw Materials,WH-North,467,80,726.98,2026-07-10
+SKU-5239,Gasket,Spare Parts,WH-South,334,79,437.98,2026-08-25
+SKU-5240,Wrench Set,Tools,,266,35,503.16,2026-08-16
+SKU-5241,Plastic Wrap,Packaging,WH-Central,460,80,427.91,2026-05-25
+SKU-5242,Wrench Set,Tools,WH-Central,283,83,688.07,2026-02-11
+SKU-5243,Wrench Set,Tools,WH-South,188,68,864.2,2026-05-08
+SKU-5244,Drill Machine,Tools,WH-Central,197,93,497.26,2026-07-17
+SKU-5245,Plastic Granules,Raw Materials,WH-Central,104,78,120.35,2026-04-27
+SKU-5246,Screwdriver Kit,Tools,WH-South,398,66,437.83,2026-05-20
+SKU-5247,Bubble Wrap,Packaging,WH-Central,96,97,179.47,2026-07-01
+SKU-5248,Cardboard Box,Packaging,WH-North,215,21,196.58,2026-02-22
+SKU-5249,Copper Wire,Raw Materials,WH-North,342,34,618.97,2026-02-19
+SKU-5250,Plastic Granules,Raw Materials,WH-Central,25,74,87.92,2026-03-22
+SKU-5251,Aluminum Rod,Raw Materials,WH-South,179,95,484.16,2026-01-04
+SKU-5252,Plastic Wrap,Packaging,WH-North,463,48,100.47,2026-03-10
+SKU-5253,Screwdriver Kit,Tools,WH-North,494,69,370.51,2026-01-18
+SKU-5254,Bearing,Spare Parts,,424,54,467.82,2026-04-04
+SKU-5255,Steel Sheet,Raw Materials,,27,74,564.73,2026-02-11
+SKU-5256,Screwdriver Kit,Tools,WH-Central,187,90,128.72,2026-03-07
+SKU-5257,Plastic Wrap,Packaging,WH-North,80,39,142.94,2026-02-10
+SKU-5258,Screwdriver Kit,Tools,,290,93,95.5,2026-04-16
+SKU-5259,Bearing,Spare Parts,WH-South,372,27,$220.2,2026-03-02
+SKU-5260,Copper Wire,Raw Materials,WH-North,458,65,$224.91,2026-08-02
+SKU-5261,Valve,Spare Parts,WH-North,219,62,433.97,2026-02-26
+SKU-5262,Aluminum Rod,Raw Materials,WH-South,257,50,832.04,2026-02-20
+SKU-5263,Plastic Granules,Raw Materials,WH-Central,42,62,681.49,2026-06-16
+SKU-5264,Aluminum Rod,Raw Materials,,386,59,76.03,2026-03-04
+SKU-5265,Plastic Wrap,Packaging,WH-North,156,75,298.62,2026-06-30
+SKU-5266,Gasket,Spare Parts,WH-South,300,25,453.01,2026-07-29
+SKU-5267,Plastic Granules,Raw Materials,WH-North,259,25,308.46,2026-05-14
+SKU-5268,Tape Roll,Packaging,,86,49,$605.94,2026-03-08
+SKU-5269,Bearing,Spare Parts,WH-South,122,79,13.18,2026-06-19
+SKU-5270,Bearing,Spare Parts,WH-Central,101,72,88.15,2026-04-04
+SKU-5271,Wrench Set,Tools,,136,62,208.11,2026-04-17
+SKU-5272,Bearing,Spare Parts,WH-South,79,30,72.71,2026-03-09
+SKU-5273,Aluminum Rod,Raw Materials,WH-North,257,82,235.16,2026-06-21
+SKU-5274,Valve,Spare Parts,,149,28,841.16,2026-02-02
+SKU-5275,Cardboard Box,Packaging,WH-North,247,75,123.08,2026-06-28
+SKU-5276,Cardboard Box,Packaging,WH-Central,404,29,110.47,2026-03-03
+SKU-5277,Copper Wire,Raw Materials,WH-Central,298,54,319.7,2026-04-15
+SKU-5278,Wrench Set,Tools,WH-North,500,76,399.77,2026-02-03
+SKU-5279,Aluminum Rod,Raw Materials,WH-South,442,50,576.69,2026-06-18
+SKU-5280,Screwdriver Kit,Tools,WH-North,59,34,728.92,2026-06-21
+SKU-5281,Cardboard Box,Packaging,WH-North,78,25,787.95,2026-08-12
+SKU-5282,Screwdriver Kit,Tools,,162,91,779.95,2026-06-14
+SKU-5283,Bubble Wrap,Packaging,WH-Central,265,46,439.84,2026-02-02
+SKU-5284,Drill Machine,Tools,WH-South,261,91,533.36,2026-06-08
+SKU-5285,Screwdriver Kit,Tools,,257,36,$458.46,2026-04-21
+SKU-5286,Cardboard Box,Packaging,,272,57,255.45,2026-07-19
+SKU-5287,Screwdriver Kit,Tools,,243,51,636.89,2026-05-20
+SKU-5288,Drill Machine,Tools,,205,24,738.52,2026-03-24
+SKU-5289,Tape Roll,Packaging,,441,65,641.23,2026-04-03
+SKU-5290,Plastic Granules,Raw Materials,,375,46,745.17,2026-06-17
+SKU-5291,Screwdriver Kit,Tools,WH-North,187,22,252.79,2026-03-29
+SKU-5292,Drill Machine,Tools,WH-Central,16,75,866.16,2026-07-25
+SKU-5293,Bubble Wrap,Packaging,WH-South,172,80,106.62,2026-05-05
+SKU-5294,Plastic Granules,Raw Materials,WH-North,100,54,807.74,2026-07-02
+SKU-5295,Bubble Wrap,Packaging,,434,73,782.22,2026-03-15
+SKU-5296,Gasket,Spare Parts,WH-South,160,39,877.04,2026-07-02
+SKU-5297,Bubble Wrap,Packaging,WH-South,143,27,830.65,2026-03-26
+SKU-5298,Copper Wire,Raw Materials,WH-South,456,26,390.23,2026-02-08
+SKU-5299,Screwdriver Kit,Tools,,61,34,813.48,2026-05-11
+SKU-5300,Fuse,Spare Parts,,10,70,357.15,2026-07-20
+SKU-5301,Plastic Granules,Raw Materials,WH-North,58,61,306.33,2026-06-09
+SKU-5302,Plastic Wrap,Packaging,WH-South,10,94,610.16,2026-03-17
+SKU-5303,Copper Wire,Raw Materials,WH-Central,362,50,217.67,2026-02-01
+SKU-5304,Plastic Granules,Raw Materials,,264,97,90.11,2026-02-01
+SKU-5305,Plastic Wrap,Packaging,WH-Central,225,59,893.93,2026-01-04
+SKU-5306,Cardboard Box,Packaging,,169,71,223.94,2026-03-04
+SKU-5307,Screwdriver Kit,Tools,WH-Central,123,68,573.97,2026-03-10
+SKU-5308,Valve,Spare Parts,,239,21,58.4,2026-04-29
+SKU-5309,Plastic Wrap,Packaging,,398,96,759.52,2026-02-10
+SKU-5310,Plastic Granules,Raw Materials,WH-North,388,76,845.57,2026-03-21
+SKU-5311,Gasket,Spare Parts,WH-North,354,20,70.05,2026-02-17
+SKU-5312,Wrench Set,Tools,WH-Central,221,72,461.93,2026-08-24
+SKU-5313,Screwdriver Kit,Tools,,188,41,99.19,2026-01-30
+SKU-5314,Drill Machine,Tools,,440,89,196.47,2026-04-02
+SKU-5315,Screwdriver Kit,Tools,WH-Central,314,91,511.38,2026-07-14
+SKU-5316,Plastic Granules,Raw Materials,WH-Central,431,34,335.77,2026-02-05
+SKU-5317,Screwdriver Kit,Tools,,432,34,311.37,2026-01-06
+SKU-5318,Wrench Set,Tools,WH-South,205,20,154.16,2026-06-20
+SKU-5319,Fuse,Spare Parts,,207,53,217.12,2026-02-12
+SKU-5320,Screwdriver Kit,Tools,WH-Central,29,23,345.21,2026-06-24
+SKU-5321,Bearing,Spare Parts,WH-South,254,89,430.39,2026-05-19
+SKU-5322,Cardboard Box,Packaging,WH-Central,330,42,627.52,2026-07-27
+SKU-5323,Plastic Wrap,Packaging,WH-Central,337,85,783.99,2026-05-21
+SKU-5324,Tape Roll,Packaging,WH-Central,375,98,109.03,2026-03-21
+SKU-5325,Screwdriver Kit,Tools,WH-South,102,89,876.45,2026-06-21
+SKU-5326,Fuse,Spare Parts,WH-Central,290,36,680.28,2026-05-07
+SKU-5327,Gasket,Spare Parts,WH-North,420,27,591.01,2026-01-21
+SKU-5328,Copper Wire,Raw Materials,WH-North,,28,167.7,2026-01-05
+SKU-5329,Tape Roll,Packaging,WH-South,44,78,484.14,2026-02-21
+SKU-5330,Screwdriver Kit,Tools,WH-Central,173,97,33.17,2026-04-06
+SKU-5331,Steel Sheet,Raw Materials,WH-North,11,99,650.38,2026-02-10
+SKU-5332,Screwdriver Kit,Tools,WH-North,142,58,828.89,2026-08-11
+SKU-5333,Tape Roll,Packaging,WH-North,308,55,502.22,2026-07-27
+SKU-5334,Plastic Granules,Raw Materials,,116,59,91.42,2026-06-06
+SKU-5335,Tape Roll,Packaging,,,89,422.96,2026-08-01
+SKU-5336,Plastic Wrap,Packaging,WH-South,143,54,672.92,2026-02-04
+SKU-5337,Drill Machine,Tools,,23,48,94.53,2026-07-22
+SKU-5338,Drill Machine,Tools,WH-North,261,64,456.13,2026-06-09
+SKU-5339,Drill Machine,Tools,,107,40,319.22,2026-02-10
+SKU-5340,Tape Roll,Packaging,WH-South,470,43,429.93,2026-07-21
+SKU-5341,Plastic Wrap,Packaging,WH-North,180,93,733.08,2026-03-09
+SKU-5342,Drill Machine,Tools,,325,35,439.34,2026-06-01
+SKU-5343,Bubble Wrap,Packaging,WH-Central,223,20,786.37,2026-03-07
+SKU-5344,Plastic Wrap,Packaging,WH-North,358,41,269.93,2026-07-21
+SKU-5345,Valve,Spare Parts,WH-North,223,75,178.29,2026-02-09
+SKU-5346,Gasket,Spare Parts,,260,39,292.8,2026-04-10
+SKU-5347,Wrench Set,Tools,WH-South,51,43,652.51,2026-02-11
+SKU-5348,Gasket,Spare Parts,WH-North,225,84,442.67,2026-01-05
+SKU-5349,Tape Roll,Packaging,,19,92,100.7,2026-02-25
+SKU-5350,Screwdriver Kit,Tools,WH-South,372,96,213.15,2026-06-15
+SKU-5351,Drill Machine,Tools,WH-South,53,81,728.15,2026-06-26
+SKU-5352,Wrench Set,Tools,WH-North,129,90,733.1,2026-01-16
+SKU-5353,Copper Wire,Raw Materials,WH-Central,127,46,84.82,2026-08-02
+SKU-5354,Plastic Granules,Raw Materials,WH-Central,250,43,232.83,2026-08-23
+SKU-5355,Gasket,Spare Parts,,190,51,711.76,2026-01-30
+SKU-5356,Cardboard Box,Packaging,,58,62,677.22,2026-06-28
+SKU-5357,Bearing,Spare Parts,WH-Central,115,46,322.13,2026-07-13
+SKU-5358,Valve,Spare Parts,WH-Central,333,88,359.29,2026-04-17
+SKU-5359,Aluminum Rod,Raw Materials,,346,75,530.54,2026-03-12
+SKU-5360,Tape Roll,Packaging,WH-North,463,72,197.88,2026-05-24
+SKU-5361,Tape Roll,Packaging,WH-North,487,93,813.16,2026-01-21
+SKU-5362,Drill Machine,Tools,,500,21,21.82,2026-06-11
+SKU-5363,Plastic Wrap,Packaging,,240,36,788.52,2026-07-02
+SKU-5364,Plastic Wrap,Packaging,WH-Central,329,70,594.51,2026-01-06
+SKU-5365,Valve,Spare Parts,WH-South,368,61,472.67,2026-03-28
+SKU-5366,Copper Wire,Raw Materials,WH-Central,24,30,265.37,2026-03-20
+SKU-5367,Cardboard Box,Packaging,WH-Central,46,28,896.05,2026-01-07
+SKU-5368,Screwdriver Kit,Tools,,91,98,361.51,2026-08-18
+SKU-5369,Steel Sheet,Raw Materials,,267,79,277.1,2026-04-09
+SKU-5370,Aluminum Rod,Raw Materials,WH-South,473,49,348.26,2026-03-24
+SKU-5371,Valve,Spare Parts,WH-Central,201,86,682.23,2026-08-02
+SKU-5372,Steel Sheet,Raw Materials,WH-South,333,77,243.67,2026-02-09
+SKU-5373,Valve,Spare Parts,WH-South,390,98,255.79,2026-06-04
+SKU-5374,Tape Roll,Packaging,WH-South,76,54,808.67,2026-02-01
+SKU-5375,Aluminum Rod,Raw Materials,WH-Central,41,24,556.36,2026-08-22
+SKU-5376,Bearing,Spare Parts,WH-North,52,33,370.52,2026-07-27
+SKU-5377,Fuse,Spare Parts,WH-North,64,80,88.96,2026-02-08
+SKU-5378,Cardboard Box,Packaging,WH-North,417,31,501.95,2026-02-05
+SKU-5379,Drill Machine,Tools,WH-Central,225,52,531.52,2026-08-03
+SKU-5380,Steel Sheet,Raw Materials,WH-North,278,72,281.73,2026-08-09
+SKU-5381,Steel Sheet,Raw Materials,WH-South,219,28,519.21,2026-05-31
+SKU-5382,Screwdriver Kit,Tools,,254,57,176.12,2026-01-06
+SKU-5383,Drill Machine,Tools,WH-Central,299,61,276.17,2026-06-13
+SKU-5384,Steel Sheet,Raw Materials,WH-South,410,86,451.22,2026-04-05
+SKU-5385,Plastic Granules,Raw Materials,WH-Central,260,84,269.23,2026-04-06
+SKU-5386,Tape Roll,Packaging,WH-South,467,85,253.69,2026-04-22
+SKU-5387,Fuse,Spare Parts,WH-South,484,98,723.42,2026-05-21
+SKU-5388,Cardboard Box,Packaging,WH-South,40,52,778.35,2026-04-03
+SKU-5389,Screwdriver Kit,Tools,WH-South,315,44,365.29,2026-07-02
+SKU-5390,Plastic Granules,Raw Materials,,338,33,174.15,2026-01-12
+SKU-5391,Tape Roll,Packaging,WH-Central,200,74,184.17,2026-04-14
+SKU-5392,Valve,Spare Parts,WH-Central,96,69,854.99,2026-05-23
+SKU-5393,Bearing,Spare Parts,WH-North,429,30,224.18,2026-07-03
+SKU-5394,Bubble Wrap,Packaging,,450,54,803.98,2026-05-02
+SKU-5395,Drill Machine,Tools,WH-South,307,67,885.66,2026-08-05
+SKU-5396,Plastic Wrap,Packaging,WH-South,45,39,804.01,2026-05-03
+SKU-5397,Wrench Set,Tools,WH-South,268,39,137.73,2026-08-06
+SKU-5398,Drill Machine,Tools,,154,30,248.07,2026-08-24
+SKU-5399,Aluminum Rod,Raw Materials,,112,68,425.04,2026-08-09
+SKU-5400,Bearing,Spare Parts,WH-South,48,49,368.81,2026-01-07
+SKU-5401,Aluminum Rod,Raw Materials,WH-North,363,73,527.98,2026-03-05
+SKU-5402,Fuse,Spare Parts,WH-North,109,27,341.29,2026-08-15
+SKU-5403,Steel Sheet,Raw Materials,,,95,730.54,2026-05-21
+SKU-5404,Tape Roll,Packaging,WH-Central,79,89,421.93,2026-04-13
+SKU-5405,Plastic Wrap,Packaging,WH-Central,46,93,709.53,2026-06-03
+SKU-5406,Gasket,Spare Parts,WH-Central,415,57,514.41,2026-01-13
+SKU-5407,Screwdriver Kit,Tools,WH-Central,52,24,306.62,2026-06-19
+SKU-5408,Drill Machine,Tools,,398,87,406.45,2026-04-30
+SKU-5409,Wrench Set,Tools,WH-North,352,99,165.98,2026-03-05
+SKU-5410,Plastic Wrap,Packaging,WH-Central,69,46,448.77,2026-02-18
+SKU-5411,Screwdriver Kit,Tools,WH-South,228,81,715.87,2026-07-28
+SKU-5412,Copper Wire,Raw Materials,WH-North,228,29,69.86,2026-01-05
+SKU-5413,Valve,Spare Parts,WH-South,258,31,378.14,2026-07-19
+SKU-5414,Aluminum Rod,Raw Materials,,121,63,$281.31,2026-04-17
+SKU-5415,Bearing,Spare Parts,WH-North,330,84,18.31,2026-06-05
+SKU-5416,Gasket,Spare Parts,WH-North,113,62,888.18,2026-01-25
+SKU-5417,Aluminum Rod,Raw Materials,WH-Central,439,82,630.97,2026-08-03
+SKU-5418,Aluminum Rod,Raw Materials,,297,60,21.15,2026-06-10
+SKU-5419,Drill Machine,Tools,,317,28,454.72,2026-01-27
+SKU-5420,Bearing,Spare Parts,,207,33,453.25,2026-07-24
+SKU-5421,Steel Sheet,Raw Materials,WH-Central,374,96,427.98,2026-01-12
+SKU-5422,Fuse,Spare Parts,WH-South,342,20,745.22,2026-03-31
+SKU-5423,Valve,Spare Parts,WH-North,52,57,569.5,2026-03-26
+SKU-5424,Screwdriver Kit,Tools,WH-North,120,92,365.57,2026-04-21
+SKU-5425,Gasket,Spare Parts,WH-North,319,81,280.52,2026-06-30
+SKU-5426,Screwdriver Kit,Tools,WH-North,7,38,295.14,2026-07-15
+SKU-5427,Cardboard Box,Packaging,WH-South,466,41,722.28,2026-07-07
+SKU-5428,Gasket,Spare Parts,WH-Central,381,87,881.74,2026-06-07
+SKU-5429,Cardboard Box,Packaging,,126,76,469.26,2026-03-30
+SKU-5430,Tape Roll,Packaging,WH-Central,89,91,866.25,2026-08-28
+SKU-5431,Wrench Set,Tools,WH-North,270,54,718.52,2026-08-28
+SKU-5432,Copper Wire,Raw Materials,WH-North,429,20,363.5,2026-03-25
+SKU-5433,Wrench Set,Tools,WH-Central,79,68,129.08,2026-05-19
+SKU-5434,Steel Sheet,Raw Materials,WH-South,436,78,461.5,2026-05-05
+SKU-5435,Copper Wire,Raw Materials,WH-South,454,39,731.23,2026-08-20
+SKU-5436,Steel Sheet,Raw Materials,WH-South,444,53,96.85,2026-07-17
+SKU-5437,Fuse,Spare Parts,WH-Central,500,36,829.67,2026-06-30
+SKU-5438,Gasket,Spare Parts,WH-Central,434,92,408.73,2026-06-04
+SKU-5439,Plastic Wrap,Packaging,WH-South,314,67,801.39,2026-06-27
+SKU-5440,Steel Sheet,Raw Materials,WH-Central,103,59,692.03,2026-03-24
+SKU-5441,Plastic Granules,Raw Materials,WH-South,471,79,727.68,2026-04-24
+SKU-5442,Steel Sheet,Raw Materials,WH-South,178,71,793.08,2026-02-23
+SKU-5443,Steel Sheet,Raw Materials,WH-South,46,71,84.28,2026-04-27
+SKU-5444,Aluminum Rod,Raw Materials,,320,77,113.87,2026-03-29
+SKU-5445,Plastic Wrap,Packaging,,300,75,645.67,2026-05-17
+SKU-5446,Screwdriver Kit,Tools,WH-North,435,36,790.22,2026-03-16
+SKU-5447,Fuse,Spare Parts,WH-Central,149,35,200.59,2026-04-24
+SKU-5448,Wrench Set,Tools,WH-North,442,81,280.28,2026-08-29
+SKU-5449,Aluminum Rod,Raw Materials,,32,92,405.17,2026-03-07
+SKU-5450,Fuse,Spare Parts,WH-South,202,33,216.17,2026-05-11
+SKU-5451,Gasket,Spare Parts,WH-Central,3,81,793.41,2026-04-07
+SKU-5452,Steel Sheet,Raw Materials,WH-Central,472,70,597.47,2026-04-16
+SKU-5453,Bubble Wrap,Packaging,WH-Central,166,77,749.11,2026-08-22
+SKU-5454,Gasket,Spare Parts,WH-North,88,52,579.84,2026-04-16
+SKU-5455,Plastic Granules,Raw Materials,WH-Central,434,88,739.34,2026-08-13
+SKU-5456,Tape Roll,Packaging,,385,22,426.92,2026-07-06
+SKU-5457,Cardboard Box,Packaging,WH-South,45,48,286.05,2026-04-17
+SKU-5458,Screwdriver Kit,Tools,WH-Central,338,78,573.56,2026-04-10
+SKU-5459,Copper Wire,Raw Materials,,35,59,471.78,2026-07-14
+SKU-5460,Fuse,Spare Parts,WH-South,292,73,573.14,2026-08-29
+SKU-5461,Fuse,Spare Parts,,128,69,290.72,2026-07-07
+SKU-5462,Bearing,Spare Parts,WH-North,,92,464.85,2026-07-28
+SKU-5463,Cardboard Box,Packaging,WH-South,177,58,706.4,2026-03-02
+SKU-5464,Fuse,Spare Parts,WH-North,226,88,374.31,2026-01-11
+SKU-5465,Copper Wire,Raw Materials,,341,46,623.3,2026-02-09
+SKU-5466,Drill Machine,Tools,,34,38,502.46,2026-02-27
+SKU-5467,Steel Sheet,Raw Materials,,40,82,299.18,2026-06-10
+SKU-5468,Drill Machine,Tools,,228,49,247.62,2026-02-16
+SKU-5469,Tape Roll,Packaging,WH-South,484,64,685.56,2026-06-02
+SKU-5470,Bearing,Spare Parts,WH-Central,97,58,876.65,2026-05-17
+SKU-5471,Cardboard Box,Packaging,WH-Central,284,62,351.64,2026-01-04
+SKU-5472,Aluminum Rod,Raw Materials,WH-Central,353,75,706.5,2026-03-19
+SKU-5473,Gasket,Spare Parts,WH-Central,293,48,275.8,2026-05-24
+SKU-5474,Fuse,Spare Parts,WH-North,,68,83.85,2026-05-28
+SKU-5475,Aluminum Rod,Raw Materials,,322,60,453.11,2026-07-20
+SKU-5476,Tape Roll,Packaging,WH-South,18,80,696.36,2026-03-25
+SKU-5477,Bearing,Spare Parts,WH-South,355,53,270.0,2026-06-12
+SKU-5478,Gasket,Spare Parts,WH-South,145,88,447.65,2026-07-06
+SKU-5479,Bubble Wrap,Packaging,WH-Central,203,63,29.97,2026-03-31
+SKU-5480,Plastic Wrap,Packaging,WH-North,88,72,661.17,2026-04-06
+SKU-5481,Cardboard Box,Packaging,,155,52,686.49,2026-03-11
+SKU-5482,Fuse,Spare Parts,WH-North,391,91,315.81,2026-02-26
+SKU-5483,Wrench Set,Tools,WH-Central,164,45,719.79,2026-08-18
+SKU-5484,Wrench Set,Tools,WH-Central,373,59,260.91,2026-02-05
+SKU-5485,Bubble Wrap,Packaging,WH-South,59,67,314.63,2026-04-20
+SKU-5486,Wrench Set,Tools,WH-Central,296,77,453.95,2026-05-15
+SKU-5487,Plastic Granules,Raw Materials,WH-South,215,99,714.23,2026-05-02
+SKU-5488,Fuse,Spare Parts,WH-Central,467,37,227.37,2026-06-05
+SKU-5489,Copper Wire,Raw Materials,WH-North,473,51,799.51,2026-02-20
+SKU-5490,Plastic Wrap,Packaging,,274,83,321.99,2026-04-06
+SKU-5491,Copper Wire,Raw Materials,,340,100,215.26,2026-02-18
+SKU-5492,Plastic Granules,Raw Materials,WH-North,21,30,253.99,2026-05-05
+SKU-5493,Plastic Wrap,Packaging,WH-South,488,100,95.72,2026-08-09
+SKU-5494,Gasket,Spare Parts,WH-Central,155,47,$528.57,2026-05-01
+SKU-5495,Aluminum Rod,Raw Materials,WH-Central,173,70,194.4,2026-01-06
+SKU-5496,Valve,Spare Parts,WH-North,102,45,495.76,2026-06-26
+SKU-5497,Gasket,Spare Parts,WH-South,307,32,309.94,2026-01-27
+SKU-5498,Bubble Wrap,Packaging,WH-North,185,30,375.42,2026-03-18
+SKU-5499,Valve,Spare Parts,WH-Central,241,54,732.99,2026-07-28
+SKU-5306,Cardboard Box,Packaging,,169,71,223.94,2026-03-04
+SKU-5463,Cardboard Box,Packaging,WH-South,177,58,706.4,2026-03-02
+SKU-5305,Plastic Wrap,Packaging,WH-Central,225,59,893.93,2026-01-04
+SKU-5034,Drill Machine,Tools,WH-South,336,22,844.39,2026-07-01
+SKU-5171,Screwdriver Kit,Tools,WH-Central,429,59,667.77,2026-05-27
+SKU-5245,Plastic Granules,Raw Materials,WH-Central,104,78,120.35,2026-04-27

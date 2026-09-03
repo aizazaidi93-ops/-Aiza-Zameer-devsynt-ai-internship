@@ -1,0 +1,609 @@
+order_no,order_date,dish_name,menu_category,table_no,qty_ordered,bill_amount,waiter
+RST-2000,2026-01-19,Chocolate Cake,Desserts,T18,4,4896.16,Ali
+RST-2001,2026-02-24,Fruit Custard,Desserts,T2,1,1651.01,Ali
+RST-2002,2026-05-22,Mocktail,Beverages,T14,1,547.09,Ali
+RST-2003,2026-04-12,Soup of the Day,Starters,T2,1,1102.22,Sara
+RST-2004,2026-05-19,Soup of the Day,Starters,T4,3,2524.74,
+RST-2005,2026-05-27,Fruit Custard,Desserts,T7,2,640.08,Bilal
+RST-2006,2026-05-08,Spring Rolls,Starters,T18,1,1171.37,Hina
+RST-2007,2026-03-05,Ice Cream,Desserts,T6,4,2986.44,Sara
+RST-2008,2026-07-06,Garlic Bread,Starters,T15,4,6375.92,Bilal
+RST-2009,2026-03-29,Spring Rolls,Starters,T5,4,1688.76,Hina
+RST-2010,2026-05-27,Fresh Juice,Beverages,T11,1,1411.54,Bilal
+RST-2011,2026-04-27,Fruit Custard,Desserts,T3,4,4427.32,Ali
+RST-2012,2026-06-29,Ice Cream,Desserts,T10,1,250.1,
+RST-2013,2026-03-30,Coffee,Beverages,T1,4,6454.48,Hina
+RST-2014,2026-02-25,Chocolate Cake,Desserts,T10,1,964.59,Sara
+RST-2015,2026-05-08,Pasta Alfredo,Main Course,T3,4,6651.0,Sara
+RST-2016,2026-07-29,Mocktail,Beverages,T14,3,4822.74,
+RST-2017,2026-06-24,Fruit Custard,Desserts,T13,4,7110.68,Sara
+RST-2018,2026-06-18,Grilled Chicken,Main Course,T8,2,799.28,Ali
+RST-2019,2026-02-07,Soft Drink,Beverages,T14,3,1845.57,
+RST-2020,2026-06-26,Fruit Custard,Desserts,T17,3,5167.83,
+RST-2021,2026-04-11,Nachos,Starters,T4,4,3227.24,Hina
+RST-2022,2026-02-23,Fresh Juice,Beverages,T15,2,522.24,Sara
+RST-2023,2026-05-26,Garlic Bread,Starters,T5,1,318.93,
+RST-2024,2026-02-23,Garlic Bread,Starters,T20,1,266.02,Hina
+RST-2025,2026-05-02,Veg Biryani,Main Course,T4,3,3431.28,Ali
+RST-2026,2026-01-22,Mocktail,Beverages,T5,4,3793.32,Ali
+RST-2027,2026-06-27,Fruit Custard,Desserts,T6,3,2819.19,
+RST-2028,2026-05-20,Soup of the Day,Starters,T1,3,1175.67,
+RST-2029,2026-03-08,Fruit Custard,Desserts,T17,1,1298.72,Bilal
+RST-2030,2026-07-19,Veg Biryani,Main Course,T17,2,2057.56,Bilal
+RST-2031,2026-07-09,Beef Steak,Main Course,T8,2,3000.5,Sara
+RST-2032,2026-07-22,Coffee,Beverages,T9,1,1782.85,Hina
+RST-2033,2026-08-28,Chocolate Cake,Desserts,T12,3,2663.79,Bilal
+RST-2034,2026-02-20,Soup of the Day,Starters,T11,1,524.3,Sara
+RST-2035,2026-03-30,Fresh Juice,Beverages,T3,4,6600.72,Ali
+RST-2036,2026-04-22,Soft Drink,Beverages,T11,4,6467.48,Ali
+RST-2037,2026-01-22,Mocktail,Beverages,T6,4,5506.12,Sara
+RST-2038,2026-04-30,Grilled Chicken,Main Course,T5,2,2249.68,
+RST-2039,2026-02-03,Coffee,Beverages,T1,2,2110.58,Ali
+RST-2040,2026-02-19,Soup of the Day,Starters,T7,4,7111.24,Ali
+RST-2041,2026-07-15,Chocolate Cake,Desserts,T19,3,2930.76,Bilal
+RST-2042,2026-01-16,Fruit Custard,Desserts,T12,4,6105.68,Hina
+RST-2043,2026-01-05,Soft Drink,Beverages,T15,2,2027.58,Sara
+RST-2044,2026-06-08,Soup of the Day,Starters,T4,2,767.14,
+RST-2045,2026-01-28,Garlic Bread,Starters,T18,4,5776.2,Ali
+RST-2046,2026-01-26,Beef Steak,Main Course,T17,3,658.89,Hina
+RST-2047,2026-05-10,Spring Rolls,Starters,T20,4,2749.04,
+RST-2048,2026-07-26,Veg Biryani,Main Course,T16,4,3953.84,
+RST-2049,2026-02-05,Veg Biryani,Main Course,T14,2,3072.0,Ali
+RST-2050,2026-03-03,Mocktail,Beverages,T14,3,809.1,Ali
+RST-2051,2026-02-09,Veg Biryani,Main Course,T12,1,1630.09,Sara
+RST-2052,2026-01-25,Chocolate Cake,Desserts,T13,4,2049.28,Hina
+RST-2053,2026-05-12,Beef Steak,,T13,2,2630.86,Bilal
+RST-2054,2026-07-04,Soft Drink,Beverages,T12,3,2026.71,Ali
+RST-2055,2026-01-05,Fruit Custard,Desserts,T13,4,3507.04,Bilal
+RST-2056,2026-08-24,Fruit Custard,Desserts,T8,1,336.2,Ali
+RST-2057,2026-07-19,Garlic Bread,Starters,T6,3,645.96,Bilal
+RST-2058,2026-05-18,Pasta Alfredo,Main Course,T17,3,2459.43,
+RST-2059,2026-07-24,Coffee,Beverages,T6,1,610.45,Hina
+RST-2060,2026-07-25,Garlic Bread,,T9,1,1196.83,Ali
+RST-2061,2026-04-27,Grilled Chicken,Main Course,T1,3,4720.74,Bilal
+RST-2062,2026-07-01,Coffee,Beverages,T8,2,442.58,Ali
+RST-2063,2026-08-27,Veg Biryani,Main Course,T10,1,448.89,Bilal
+RST-2064,2026-02-15,Veg Biryani,Main Course,T9,4,3900.6,Bilal
+RST-2065,2026-07-07,Garlic Bread,Starters,T17,1,175.32,
+RST-2066,2026-01-28,Pasta Alfredo,Main Course,T14,2,3384.32,Hina
+RST-2067,2026-03-29,Coffee,Beverages,T7,2,3542.06,Sara
+RST-2068,2026-01-04,Coffee,Beverages,T3,1,1531.03,Bilal
+RST-2069,2026-08-04,Soft Drink,Beverages,T13,1,289.4,
+RST-2070,2026-01-12,Fruit Custard,Desserts,T15,2,2585.86,Sara
+RST-2071,2026-04-04,Veg Biryani,Main Course,T11,4,623.92,
+RST-2072,2026-03-21,Chocolate Cake,Desserts,T7,1,1743.35,Bilal
+RST-2073,2026-05-02,Grilled Chicken,Main Course,T9,3,2339.04,
+RST-2074,2026-07-29,Beef Steak,Main Course,T3,1,299.91,Sara
+RST-2075,2026-03-19,Fresh Juice,Beverages,T8,4,748.48,Ali
+RST-2076,2026-05-07,Pasta Alfredo,Main Course,T5,3,4017.36,Bilal
+RST-2077,2026-07-27,Grilled Chicken,Main Course,T17,4,5443.44,Sara
+RST-2078,2026-02-04,Soup of the Day,Starters,T12,1,201.41,Ali
+RST-2079,2026-06-10,Mocktail,Beverages,T18,1,1185.82,Sara
+RST-2080,2026-01-18,Coffee,Beverages,T17,1,903.97,
+RST-2081,2026-01-20,Spring Rolls,Starters,T9,4,2264.48,Sara
+RST-2082,2026-04-08,Beef Steak,Main Course,T3,4,3860.08,Hina
+RST-2083,2026-02-07,Chocolate Cake,Desserts,T11,2,555.66,Bilal
+RST-2084,2026-01-16,Fruit Custard,Desserts,T16,2,341.14,Bilal
+RST-2085,2026-05-13,Soup of the Day,Starters,T10,4,2519.64,Hina
+RST-2086,2026-05-21,Mocktail,Beverages,T7,1,1788.95,Bilal
+RST-2087,2026-01-20,Nachos,Starters,T17,1,627.82,Hina
+RST-2088,2026-08-27,Ice Cream,Desserts,T7,2,3324.64,Ali
+RST-2089,2026-02-03,Soup of the Day,Starters,T20,3,5166.06,
+RST-2090,2026-08-18,Chocolate Cake,Desserts,T16,3,1595.34,Hina
+RST-2091,2026-06-24,Soup of the Day,Starters,T15,1,1717.43,Hina
+RST-2092,2026-04-07,Fruit Custard,Desserts,T11,2,1673.4,Ali
+RST-2093,2026-08-03,Chocolate Cake,Desserts,T13,3,4166.13,Ali
+RST-2094,2026-01-17,Grilled Chicken,Main Course,T13,3,1703.4,Hina
+RST-2095,2026-08-07,Garlic Bread,Starters,T2,4,5587.32,Bilal
+RST-2096,2026-02-08,Spring Rolls,Starters,T8,3,3593.07,Bilal
+RST-2097,2026-07-20,Coffee,Beverages,T14,2,2851.5,Ali
+RST-2098,2026-07-07,Soft Drink,Beverages,T14,1,231.64,Hina
+RST-2099,2026-08-26,Veg Biryani,Main Course,T18,4,923.24,Sara
+RST-2100,2026-03-18,Pasta Alfredo,Main Course,T9,4,2868.16,Bilal
+RST-2101,2026-06-21,Soft Drink,Beverages,T13,3,2841.75,Ali
+RST-2102,2026-08-20,Beef Steak,Main Course,T16,1,492.99,
+RST-2103,2026-04-26,Pasta Alfredo,Main Course,T14,3,5382.54,Sara
+RST-2104,2026-05-23,Beef Steak,Main Course,T3,1,438.25,Bilal
+RST-2105,2026-02-21,Veg Biryani,Main Course,T1,3,4456.32,Hina
+RST-2106,2026-03-28,Mocktail,Beverages,T2,2,1543.66,Hina
+RST-2107,2026-05-09,Fruit Custard,Desserts,T17,3,1073.07,Sara
+RST-2108,2026-06-15,Garlic Bread,Starters,T15,2,1569.06,Hina
+RST-2109,2026-07-01,Chocolate Cake,Desserts,T16,2,406.4,
+RST-2110,2026-08-26,Fresh Juice,Beverages,T17,1,796.01,Hina
+RST-2111,2026-02-08,Soft Drink,Beverages,T17,1,519.27,Ali
+RST-2112,2026-02-02,Fresh Juice,Beverages,T8,1,152.25,
+RST-2113,2026-05-16,Garlic Bread,Starters,T14,2,2367.36,Ali
+RST-2114,2026-05-30,Spring Rolls,Starters,T7,3,3045.96,Hina
+RST-2115,2026-03-19,Chocolate Cake,Desserts,T15,1,167.26,Bilal
+RST-2116,2026-03-02,Fruit Custard,Desserts,T18,2,1868.5,Sara
+RST-2117,2026-02-19,Nachos,Starters,T16,3,723.78,Hina
+RST-2118,2026-08-25,Garlic Bread,Starters,T12,2,2502.28,Sara
+RST-2119,2026-04-03,Fresh Juice,Beverages,T13,3,4005.75,Sara
+RST-2120,2026-02-21,Garlic Bread,Starters,T10,1,488.61,Sara
+RST-2121,2026-08-16,Pasta Alfredo,Main Course,T10,2,1174.58,Ali
+RST-2122,2026-08-22,Soft Drink,Beverages,T2,2,1900.68,
+RST-2123,2026-06-02,Pasta Alfredo,Main Course,T5,1,501.37,Hina
+RST-2124,2026-08-18,Spring Rolls,Starters,T11,2,1597.96,Ali
+RST-2125,2026-06-17,Soup of the Day,Starters,T17,3,1393.89,Hina
+RST-2126,2026-03-26,Garlic Bread,Starters,T15,4,6138.24,Sara
+RST-2127,2026-03-31,Spring Rolls,Starters,T14,1,611.68,Ali
+RST-2128,2026-03-21,Pasta Alfredo,Main Course,T14,3,4255.23,Ali
+RST-2129,2026-08-24,Nachos,Starters,T15,2,1529.96,Sara
+RST-2130,2026-04-16,Ice Cream,Desserts,T8,4,799.88,Hina
+RST-2131,2026-07-25,Nachos,Starters,T2,1,915.68,Bilal
+RST-2132,2026-03-27,Grilled Chicken,,T20,3,2246.73,Ali
+RST-2133,2026-03-18,Fruit Custard,Desserts,T1,3,5024.94,
+RST-2134,2026-07-03,Spring Rolls,Starters,T15,2,653.96,Hina
+RST-2135,2026-05-08,Ice Cream,Desserts,T6,4,1475.88,Ali
+RST-2136,2026-03-25,Fruit Custard,Desserts,T11,2,2303.94,Hina
+RST-2137,2026-04-11,Fruit Custard,Desserts,T6,1,994.61,Sara
+RST-2138,2026-05-20,Fresh Juice,Beverages,T11,1,944.79,Sara
+RST-2139,2026-01-22,Fresh Juice,Beverages,T7,1,587.07,Ali
+RST-2140,2026-02-04,Mocktail,Beverages,T14,4,1743.08,Hina
+RST-2141,2026-05-26,Grilled Chicken,Main Course,T9,3,1904.22,Bilal
+RST-2142,2026-03-05,Fruit Custard,Desserts,T6,3,1435.98,Sara
+RST-2143,2026-05-29,Beef Steak,Main Course,T7,3,4826.64,Bilal
+RST-2144,2026-05-10,Nachos,Starters,T17,3,5362.62,Sara
+RST-2145,2026-05-02,Nachos,Starters,T8,1,318.85,Hina
+RST-2146,2026-01-13,Chocolate Cake,Desserts,T7,3,1602.81,
+RST-2147,2026-02-15,Grilled Chicken,Main Course,T15,3,2987.7,
+RST-2148,2026-06-02,Fruit Custard,Desserts,T20,1,324.54,Bilal
+RST-2149,2026-01-12,Grilled Chicken,Main Course,T7,3,2133.09,Bilal
+RST-2150,2026-04-15,Soup of the Day,Starters,T12,1,1501.07,Sara
+RST-2151,2026-05-07,Chocolate Cake,Desserts,T18,2,403.84,Hina
+RST-2152,2026-06-19,Nachos,Starters,T18,1,1463.14,Sara
+RST-2153,2026-04-15,Soup of the Day,Starters,T10,4,5189.68,Bilal
+RST-2154,2026-08-15,Fresh Juice,Beverages,T12,3,4139.43,Hina
+RST-2155,2026-04-11,Fresh Juice,Beverages,T13,3,3640.17,Sara
+RST-2156,2026-07-30,Nachos,Starters,T3,2,1698.4,Hina
+RST-2157,2026-01-14,Ice Cream,Desserts,T18,2,,Sara
+RST-2158,2026-02-13,Fresh Juice,Beverages,T5,3,4099.38,Bilal
+RST-2159,2026-01-28,Chocolate Cake,Desserts,T13,2,3354.14,Hina
+RST-2160,2026-01-12,Veg Biryani,Main Course,T16,2,3063.06,Bilal
+RST-2161,2026-06-08,Nachos,Starters,T6,1,1641.96,Sara
+RST-2162,2026-02-25,Soft Drink,Beverages,T2,4,1807.56,Hina
+RST-2163,2026-03-05,Pasta Alfredo,Main Course,T7,3,1059.12,Ali
+RST-2164,2026-04-27,Garlic Bread,Starters,T18,1,793.23,Bilal
+RST-2165,2026-06-18,Coffee,Beverages,T12,2,1704.94,Hina
+RST-2166,2026-05-06,Soft Drink,Beverages,T15,1,155.79,Sara
+RST-2167,2026-04-13,Mocktail,Beverages,T4,2,2974.74,Ali
+RST-2168,2026-07-25,Veg Biryani,Main Course,T15,4,3011.2,
+RST-2169,2026-07-07,Spring Rolls,Starters,T11,2,571.4,
+RST-2170,2026-07-20,Spring Rolls,Starters,T5,4,4908.12,Ali
+RST-2171,2026-08-15,Spring Rolls,Starters,T16,2,734.34,Bilal
+RST-2172,2026-06-06,Beef Steak,Main Course,T9,1,1524.51,Sara
+RST-2173,2026-04-27,Fruit Custard,Desserts,T5,3,4930.05,Bilal
+RST-2174,2026-03-02,Soft Drink,Beverages,T11,3,3498.54,Bilal
+RST-2175,2026-06-12,Soup of the Day,Starters,T9,2,1631.44,Bilal
+RST-2176,2026-05-16,Soft Drink,Beverages,T2,3,1019.64,Bilal
+RST-2177,2026-06-11,Fresh Juice,Beverages,T13,3,5365.14,Bilal
+RST-2178,2026-04-03,Ice Cream,Desserts,T11,3,3307.92,Ali
+RST-2179,2026-01-13,Soft Drink,Beverages,T10,2,2330.74,
+RST-2180,2026-07-11,Ice Cream,Desserts,T2,3,4078.53,Sara
+RST-2181,2026-04-04,Veg Biryani,Main Course,T2,4,3356.72,Sara
+RST-2182,2026-01-01,Soft Drink,Beverages,T19,1,186.78,Bilal
+RST-2183,2026-04-16,Chocolate Cake,Desserts,T19,3,3093.87,Bilal
+RST-2184,2026-05-02,Beef Steak,Main Course,T6,3,3538.44,Sara
+RST-2185,2026-01-17,Soup of the Day,Starters,T5,2,1787.82,Bilal
+RST-2186,2026-07-30,Coffee,Beverages,T18,1,242.62,Bilal
+RST-2187,2026-01-01,Mocktail,Beverages,T2,2,844.82,Ali
+RST-2188,2026-01-15,Nachos,Starters,T4,2,1084.3,Ali
+RST-2189,2026-06-05,Beef Steak,Main Course,T17,4,1916.84,Hina
+RST-2190,2026-01-13,Veg Biryani,Main Course,T16,1,645.44,
+RST-2191,2026-04-30,Nachos,Starters,T3,4,5518.24,Hina
+RST-2192,2026-06-14,Beef Steak,Main Course,T2,1,581.35,Ali
+RST-2193,2026-03-10,Fruit Custard,Desserts,T18,3,3972.84,Hina
+RST-2194,2026-05-10,Ice Cream,Desserts,T1,2,581.88,Sara
+RST-2195,2026-07-11,Chocolate Cake,Desserts,T11,2,3417.5,Sara
+RST-2196,2026-08-07,Coffee,Beverages,T18,2,1552.18,Hina
+RST-2197,2026-07-05,Fresh Juice,Beverages,T8,1,871.4,
+RST-2198,2026-01-20,Chocolate Cake,Desserts,T19,4,4709.32,Sara
+RST-2199,2026-06-09,Grilled Chicken,Main Course,T6,1,334.62,Bilal
+RST-2200,2026-06-27,Grilled Chicken,Main Course,T2,1,218.72,Ali
+RST-2201,2026-07-29,Spring Rolls,Starters,T18,3,1436.61,Ali
+RST-2202,2026-01-29,Fresh Juice,Beverages,T2,2,978.88,Ali
+RST-2203,2026-01-26,Garlic Bread,Starters,T7,4,1259.2,Bilal
+RST-2204,2026-03-31,Ice Cream,Desserts,T9,4,2323.64,Bilal
+RST-2205,2026-06-04,Garlic Bread,Starters,T17,3,4257.72,Hina
+RST-2206,2026-01-08,Fruit Custard,Desserts,T14,1,1451.94,
+RST-2207,2026-05-18,Garlic Bread,Starters,T19,4,5250.76,Sara
+RST-2208,2026-05-15,Garlic Bread,Starters,T7,2,1738.98,Bilal
+RST-2209,2026-05-06,Spring Rolls,Starters,T6,3,2879.58,Hina
+RST-2210,2026-02-10,Fruit Custard,Desserts,T10,3,3311.13,Sara
+RST-2211,2026-06-12,Pasta Alfredo,Main Course,T3,2,662.74,Hina
+RST-2212,2026-08-26,Garlic Bread,Starters,T13,3,920.97,Ali
+RST-2213,2026-03-09,Fresh Juice,Beverages,T14,3,1470.27,
+RST-2214,2026-02-02,Pasta Alfredo,Main Course,T18,2,3414.94,
+RST-2215,2026-08-11,Garlic Bread,Starters,T15,3,3032.58,
+RST-2216,2026-07-17,Chocolate Cake,Desserts,T9,4,3496.08,
+RST-2217,2026-08-15,Beef Steak,Main Course,T8,3,2736.99,
+RST-2218,2026-07-31,Veg Biryani,Main Course,T20,3,4185.93,Sara
+RST-2219,2026-03-31,Beef Steak,Main Course,T6,3,3434.34,Sara
+RST-2220,2026-07-06,Chocolate Cake,Desserts,T4,3,5276.97,Sara
+RST-2221,2026-02-07,Soup of the Day,Starters,T10,4,1596.32,Bilal
+RST-2222,2026-08-22,Coffee,Beverages,T4,2,660.62,Bilal
+RST-2223,2026-04-13,Pasta Alfredo,Main Course,T14,4,823.96,Sara
+RST-2224,2026-06-04,Ice Cream,Desserts,T13,1,383.99,Ali
+RST-2225,2026-06-20,Pasta Alfredo,Main Course,T19,4,6183.56,Sara
+RST-2226,2026-03-08,Grilled Chicken,Main Course,T4,4,3454.68,Hina
+RST-2227,2026-04-19,Pasta Alfredo,Main Course,T16,2,1125.2,Hina
+RST-2228,2026-03-25,Nachos,Starters,T1,2,3251.84,Hina
+RST-2229,2026-02-25,Fresh Juice,Beverages,T6,1,564.52,Sara
+RST-2230,2026-07-03,Chocolate Cake,Desserts,T16,4,4170.84,
+RST-2231,2026-04-27,Garlic Bread,Starters,T7,3,2481.24,Sara
+RST-2232,2026-03-06,Fresh Juice,Beverages,T9,3,3605.97,Hina
+RST-2233,2026-08-23,Fresh Juice,Beverages,T14,1,,Bilal
+RST-2234,2026-04-13,Chocolate Cake,Desserts,T17,2,1301.54,Sara
+RST-2235,2026-08-26,Mocktail,Beverages,T3,2,842.96,Sara
+RST-2236,2026-06-13,Soft Drink,Beverages,T14,2,1465.34,Hina
+RST-2237,2026-05-01,Fruit Custard,Desserts,T12,2,2873.5,Sara
+RST-2238,2026-04-20,Fruit Custard,Desserts,T6,4,5137.16,Hina
+RST-2239,2026-03-19,Garlic Bread,Starters,T11,3,1662.6,Hina
+RST-2240,2026-04-03,Mocktail,Beverages,T5,1,1237.79,Bilal
+RST-2241,2026-08-20,Fresh Juice,Beverages,T11,1,1516.03,Sara
+RST-2242,2026-02-23,Fruit Custard,Desserts,T3,1,1234.55,Bilal
+RST-2243,2026-08-07,Fruit Custard,Desserts,T8,1,1104.5,Sara
+RST-2244,2026-04-14,Coffee,Beverages,T18,2,988.18,Sara
+RST-2245,2026-02-24,Garlic Bread,Starters,T17,2,1931.72,Ali
+RST-2246,2026-03-01,Fresh Juice,Beverages,T5,1,586.42,Hina
+RST-2247,2026-02-06,Fresh Juice,Beverages,T16,4,3682.84,Sara
+RST-2248,2026-03-24,Soft Drink,Beverages,T15,1,414.59,
+RST-2249,2026-04-18,Coffee,Beverages,T3,4,3074.72,Sara
+RST-2250,2026-01-12,Fruit Custard,Desserts,T11,1,183.92,Ali
+RST-2251,2026-07-03,Mocktail,Beverages,T14,2,411.86,Sara
+RST-2252,2026-07-19,Chocolate Cake,Desserts,T17,3,2139.48,
+RST-2253,2026-03-06,Veg Biryani,Main Course,T18,4,2856.92,Ali
+RST-2254,2026-04-14,Ice Cream,Desserts,T11,3,4547.28,
+RST-2255,2026-06-17,Fruit Custard,Desserts,T16,3,5276.22,Ali
+RST-2256,2026-02-02,Chocolate Cake,Desserts,T19,3,3980.25,Ali
+RST-2257,2026-01-13,Nachos,Starters,T13,4,4199.64,Bilal
+RST-2258,2026-08-24,Spring Rolls,Starters,T16,1,463.4,
+RST-2259,2026-06-28,Nachos,Starters,T20,2,2368.48,Ali
+RST-2260,2026-02-14,Grilled Chicken,Main Course,T4,4,4726.84,Sara
+RST-2261,2026-06-17,Nachos,,T1,1,1658.24,Bilal
+RST-2262,2026-02-17,Veg Biryani,Main Course,T14,3,4719.12,Ali
+RST-2263,2026-05-29,Chocolate Cake,Desserts,T2,4,4337.8,Hina
+RST-2264,2026-08-24,Spring Rolls,Starters,T13,4,4397.12,Hina
+RST-2265,2026-08-29,Spring Rolls,Starters,T5,4,4519.48,Hina
+RST-2266,2026-02-24,Fresh Juice,Beverages,T5,1,1213.43,Ali
+RST-2267,2026-02-01,Fresh Juice,Beverages,T3,1,1278.21,Sara
+RST-2268,2026-07-04,Soup of the Day,Starters,T19,4,717.32,Sara
+RST-2269,2026-07-11,Soft Drink,Beverages,T5,1,753.69,Ali
+RST-2270,2026-08-27,Fruit Custard,Desserts,T9,4,3639.84,Ali
+RST-2271,2026-06-16,Spring Rolls,Starters,T20,1,174.3,Ali
+RST-2272,2026-02-12,Coffee,,T16,3,4060.74,
+RST-2273,2026-07-06,Garlic Bread,Starters,T15,3,5146.35,Hina
+RST-2274,2026-06-15,Beef Steak,Main Course,T6,1,749.39,Hina
+RST-2275,2026-07-20,Mocktail,Beverages,T19,4,6836.48,Bilal
+RST-2276,2026-06-16,Ice Cream,Desserts,T20,1,1176.05,Bilal
+RST-2277,2026-08-16,Soup of the Day,Starters,T8,3,3344.1,Hina
+RST-2278,2026-03-14,Mocktail,,T1,2,2964.68,Bilal
+RST-2279,2026-08-24,Ice Cream,Desserts,T2,4,1638.04,Bilal
+RST-2280,2026-07-24,Beef Steak,Main Course,T18,3,5278.08,Hina
+RST-2281,2026-05-05,Fruit Custard,Desserts,T13,1,1040.97,Sara
+RST-2282,2026-04-30,Veg Biryani,Main Course,T7,1,1268.14,Bilal
+RST-2283,2026-05-18,Nachos,Starters,T12,4,4167.72,Ali
+RST-2284,2026-05-14,Pasta Alfredo,Main Course,T11,3,4831.23,Hina
+RST-2285,2026-02-16,Beef Steak,Main Course,T10,2,934.64,Bilal
+RST-2286,2026-08-25,Ice Cream,Desserts,T16,2,1112.8,Bilal
+RST-2287,2026-02-09,Garlic Bread,Starters,T11,4,5796.48,
+RST-2288,2026-01-06,Garlic Bread,Starters,T4,3,3021.3,Ali
+RST-2289,2026-07-19,Pasta Alfredo,Main Course,T9,2,1163.26,Hina
+RST-2290,2026-01-10,Nachos,Starters,T11,2,1138.18,Sara
+RST-2291,2026-01-09,Pasta Alfredo,Main Course,T18,1,195.41,Bilal
+RST-2292,2026-06-13,Mocktail,Beverages,T13,1,1573.9,Ali
+RST-2293,2026-06-14,Garlic Bread,Starters,T3,3,3244.17,
+RST-2294,2026-04-05,Soft Drink,Beverages,T8,4,6208.0,Sara
+RST-2295,2026-01-16,Grilled Chicken,Main Course,T18,3,5108.79,Ali
+RST-2296,2026-02-07,Garlic Bread,Starters,T11,4,968.08,Ali
+RST-2297,2026-01-27,Veg Biryani,Main Course,T16,4,5602.12,Bilal
+RST-2298,2026-05-04,Ice Cream,Desserts,T13,4,1419.36,Sara
+RST-2299,2026-08-17,Soft Drink,Beverages,T1,2,3317.18,Hina
+RST-2300,2026-02-26,Grilled Chicken,Main Course,T3,2,3361.34,
+RST-2301,2026-01-25,Fruit Custard,Desserts,T13,2,2868.44,Ali
+RST-2302,2026-03-01,Nachos,Starters,T16,3,2046.69,Ali
+RST-2303,2026-01-15,Chocolate Cake,Desserts,T6,3,1547.16,Hina
+RST-2304,2026-04-16,Pasta Alfredo,Main Course,T8,2,1179.1,Sara
+RST-2305,2026-02-12,Garlic Bread,Starters,T9,3,2105.82,Hina
+RST-2306,2026-01-30,Garlic Bread,Starters,T5,4,6560.92,
+RST-2307,2026-01-31,Soup of the Day,Starters,T9,4,6112.88,Sara
+RST-2308,2026-08-25,Ice Cream,Desserts,T8,3,,Ali
+RST-2309,2026-01-15,Coffee,Beverages,T10,4,6514.92,Sara
+RST-2310,2026-04-24,Nachos,Starters,T1,3,2978.37,
+RST-2311,2026-08-22,Chocolate Cake,Desserts,T14,3,,Sara
+RST-2312,2026-02-16,Fruit Custard,Desserts,T17,2,755.64,Sara
+RST-2313,2026-08-16,Beef Steak,Main Course,T20,1,1517.8,Hina
+RST-2314,2026-06-21,Chocolate Cake,Desserts,T7,2,752.24,
+RST-2315,2026-07-07,Chocolate Cake,Desserts,T17,1,258.4,Hina
+RST-2316,2026-06-13,Garlic Bread,,T16,3,1844.7,Ali
+RST-2317,2026-06-20,Nachos,Starters,T9,4,1479.68,Sara
+RST-2318,2026-04-06,Veg Biryani,Main Course,T19,1,419.76,
+RST-2319,2026-01-19,Garlic Bread,Starters,T4,4,6993.64,Bilal
+RST-2320,2026-08-18,Veg Biryani,Main Course,T2,4,4403.64,Bilal
+RST-2321,2026-05-16,Nachos,Starters,T18,4,3987.88,Sara
+RST-2322,2026-02-16,Soup of the Day,Starters,T6,1,519.1,Ali
+RST-2323,2026-08-26,Ice Cream,Desserts,T7,1,182.09,Bilal
+RST-2324,2026-01-27,Nachos,Starters,T12,2,2618.72,Ali
+RST-2325,2026-05-07,Grilled Chicken,Main Course,T19,3,1059.09,
+RST-2326,2026-08-15,Chocolate Cake,Desserts,T5,1,350.55,
+RST-2327,2026-04-29,Beef Steak,Main Course,T13,2,2506.96,Sara
+RST-2328,2026-06-04,Nachos,Starters,T17,4,4540.48,Ali
+RST-2329,2026-03-03,Fresh Juice,Beverages,T11,3,2125.83,Hina
+RST-2330,2026-02-07,Ice Cream,Desserts,T12,1,686.05,Sara
+RST-2331,2026-02-17,Fresh Juice,Beverages,T3,3,989.67,Bilal
+RST-2332,2026-04-18,Soft Drink,Beverages,T13,1,522.04,Hina
+RST-2333,2026-06-08,Spring Rolls,Starters,T9,1,1578.25,
+RST-2334,2026-03-06,Fruit Custard,Desserts,T4,1,1175.08,
+RST-2335,2026-03-15,Nachos,Starters,T4,2,3437.86,Bilal
+RST-2336,2026-06-02,Fruit Custard,Desserts,T17,2,697.26,Bilal
+RST-2337,2026-05-11,Nachos,,T5,2,1751.92,Bilal
+RST-2338,2026-01-23,Coffee,Beverages,T18,3,1654.83,Bilal
+RST-2339,2026-07-01,Soft Drink,Beverages,T12,4,1927.88,Hina
+RST-2340,2026-03-21,Fruit Custard,Desserts,T1,4,3695.16,Sara
+RST-2341,2026-04-09,Chocolate Cake,Desserts,T19,2,1991.08,Hina
+RST-2342,2026-03-03,Garlic Bread,Starters,T11,2,3144.16,
+RST-2343,2026-02-25,Ice Cream,Desserts,T10,3,1859.85,Ali
+RST-2344,2026-03-31,Soup of the Day,Starters,T15,1,1149.78,Ali
+RST-2345,2026-01-28,Mocktail,Beverages,T17,3,4090.29,Sara
+RST-2346,2026-02-05,Pasta Alfredo,Main Course,T7,3,3757.8,
+RST-2347,2026-07-10,Fruit Custard,Desserts,T16,1,1368.96,Bilal
+RST-2348,2026-07-16,Pasta Alfredo,Main Course,T18,1,157.13,
+RST-2349,2026-05-27,Nachos,Starters,T5,4,6954.12,Hina
+RST-2350,2026-04-26,Fruit Custard,Desserts,T15,1,776.28,Bilal
+RST-2351,2026-05-23,Ice Cream,Desserts,T20,3,2383.89,Hina
+RST-2352,2026-03-18,Chocolate Cake,Desserts,T6,4,3112.44,
+RST-2353,2026-05-29,Chocolate Cake,Desserts,T8,4,4397.84,Ali
+RST-2354,2026-02-22,Ice Cream,Desserts,T14,2,3463.92,Ali
+RST-2355,2026-05-08,Spring Rolls,Starters,T10,3,3246.42,
+RST-2356,2026-05-13,Fruit Custard,Desserts,T14,4,4015.16,Hina
+RST-2357,2026-03-31,Coffee,Beverages,T15,1,1131.29,Ali
+RST-2358,2026-05-09,Soup of the Day,Starters,T13,1,825.71,
+RST-2359,2026-04-23,Beef Steak,Main Course,T20,4,3812.32,
+RST-2360,2026-03-23,Fruit Custard,Desserts,T12,1,431.69,Ali
+RST-2361,2026-08-17,Fruit Custard,Desserts,T10,2,664.68,Bilal
+RST-2362,2026-02-23,Soft Drink,Beverages,T17,3,4490.01,Sara
+RST-2363,2026-06-04,Soft Drink,Beverages,T4,1,1189.66,Bilal
+RST-2364,2026-03-20,Nachos,Starters,T18,1,1449.6,Ali
+RST-2365,2026-06-21,Ice Cream,Desserts,T1,1,1117.23,Sara
+RST-2366,2026-08-18,Pasta Alfredo,Main Course,T18,3,4762.14,
+RST-2367,2026-02-07,Beef Steak,Main Course,T6,4,4571.48,
+RST-2368,2026-05-14,Spring Rolls,Starters,T16,1,275.61,Hina
+RST-2369,2026-05-29,Fresh Juice,Beverages,T11,1,1279.53,Sara
+RST-2370,2026-03-10,Veg Biryani,Main Course,T4,3,,
+RST-2371,2026-04-09,Garlic Bread,Starters,T1,2,1784.46,Ali
+RST-2372,2026-06-08,Pasta Alfredo,Main Course,T8,1,875.41,Sara
+RST-2373,2026-08-07,Grilled Chicken,Main Course,T6,2,3371.72,Bilal
+RST-2374,2026-03-06,Nachos,Starters,T16,3,2520.96,Ali
+RST-2375,2026-04-13,Pasta Alfredo,Main Course,T16,2,1664.54,Ali
+RST-2376,2026-04-08,Grilled Chicken,Main Course,T6,2,860.76,Ali
+RST-2377,2026-05-17,Ice Cream,Desserts,T13,3,1018.68,Bilal
+RST-2378,2026-08-22,Fresh Juice,Beverages,T12,1,846.76,
+RST-2379,2026-03-30,Pasta Alfredo,Main Course,T8,2,1841.14,Hina
+RST-2380,2026-02-09,Garlic Bread,Starters,T8,1,713.34,Sara
+RST-2381,2026-07-21,Soup of the Day,Starters,T5,3,3147.09,
+RST-2382,2026-04-01,Mocktail,Beverages,T7,2,825.44,Hina
+RST-2383,2026-05-10,Soft Drink,Beverages,T7,3,5157.15,Sara
+RST-2384,2026-04-23,Soft Drink,Beverages,T19,3,3399.96,Bilal
+RST-2385,2026-07-12,Pasta Alfredo,Main Course,T4,2,714.2,
+RST-2386,2026-07-03,Garlic Bread,Starters,T19,4,789.52,Sara
+RST-2387,2026-06-27,Chocolate Cake,Desserts,T6,4,5290.64,Sara
+RST-2388,2026-08-22,Chocolate Cake,Desserts,T12,1,262.33,
+RST-2389,2026-01-23,Chocolate Cake,Desserts,T8,1,1335.89,Bilal
+RST-2390,2026-08-05,Pasta Alfredo,Main Course,T15,3,2211.69,Sara
+RST-2391,2026-07-24,Chocolate Cake,Desserts,T12,1,754.86,Hina
+RST-2392,2026-04-13,Nachos,Starters,T12,2,3599.8,Ali
+RST-2393,2026-06-05,Veg Biryani,Main Course,T8,1,596.97,Ali
+RST-2394,2026-07-13,Fresh Juice,Beverages,T10,2,1721.32,Sara
+RST-2395,2026-02-15,Fresh Juice,Beverages,T19,3,3565.8,Sara
+RST-2396,2026-05-28,Coffee,Beverages,T12,4,5022.88,Ali
+RST-2397,2026-05-30,Garlic Bread,,T20,1,1593.94,Ali
+RST-2398,2026-02-23,Grilled Chicken,Main Course,T12,1,1455.87,Ali
+RST-2399,2026-01-24,Mocktail,Beverages,T12,2,1227.84,Hina
+RST-2400,2026-06-23,Coffee,Beverages,T7,4,3957.16,Hina
+RST-2401,2026-06-29,Pasta Alfredo,Main Course,T18,2,444.18,Bilal
+RST-2402,2026-03-05,Beef Steak,Main Course,T2,2,2094.98,Sara
+RST-2403,2026-06-12,Ice Cream,Desserts,T10,4,1210.76,Sara
+RST-2404,2026-03-03,Pasta Alfredo,Main Course,T1,4,2169.96,
+RST-2405,2026-02-04,Soft Drink,Beverages,T5,3,3905.34,
+RST-2406,2026-07-14,Veg Biryani,Main Course,T6,1,1054.63,Sara
+RST-2407,2026-03-16,Mocktail,Beverages,T1,2,677.78,Bilal
+RST-2408,2026-03-13,Soft Drink,Beverages,T10,1,249.55,Sara
+RST-2409,2026-02-11,Garlic Bread,Starters,T11,4,6955.04,Hina
+RST-2410,2026-01-19,Coffee,Beverages,T2,3,1282.08,Ali
+RST-2411,2026-03-26,Mocktail,Beverages,T19,1,1383.03,Bilal
+RST-2412,2026-07-20,Nachos,Starters,T18,4,3823.08,Bilal
+RST-2413,2026-06-10,Garlic Bread,Starters,T20,1,1213.44,Bilal
+RST-2414,2026-01-07,Grilled Chicken,Main Course,T13,2,2766.58,Sara
+RST-2415,2026-05-15,Ice Cream,Desserts,T6,2,3474.68,Ali
+RST-2416,2026-06-15,Fruit Custard,Desserts,T12,3,2327.91,Bilal
+RST-2417,2026-04-05,Veg Biryani,Main Course,T9,2,2118.74,Sara
+RST-2418,2026-06-10,Spring Rolls,Starters,T13,1,1085.33,Ali
+RST-2419,2026-02-10,Pasta Alfredo,Main Course,T10,4,3896.88,
+RST-2420,2026-04-24,Soup of the Day,Starters,T13,2,840.0,Ali
+RST-2421,2026-07-05,Nachos,Starters,T12,4,1859.36,Ali
+RST-2422,2026-06-19,Nachos,Starters,T2,2,1234.74,
+RST-2423,2026-06-20,Coffee,Beverages,T6,1,873.84,Sara
+RST-2424,2026-05-25,Coffee,Beverages,T12,1,881.21,
+RST-2425,2026-05-13,Pasta Alfredo,Main Course,T15,1,1045.49,Hina
+RST-2426,2026-01-16,Pasta Alfredo,Main Course,T11,1,1488.39,
+RST-2427,2026-05-04,Fruit Custard,Desserts,T5,4,,Bilal
+RST-2428,2026-02-26,Fruit Custard,Desserts,T15,1,1549.38,Ali
+RST-2429,2026-03-03,Veg Biryani,Main Course,T19,4,2976.0,Hina
+RST-2430,2026-08-16,Coffee,Beverages,T7,1,524.95,
+RST-2431,2026-02-18,Soup of the Day,Starters,T17,3,3665.88,Bilal
+RST-2432,2026-05-27,Soft Drink,Beverages,T4,4,2095.24,
+RST-2433,2026-02-04,Nachos,Starters,T17,1,1470.55,
+RST-2434,2026-04-11,Spring Rolls,Starters,T18,4,6079.4,Sara
+RST-2435,2026-07-18,Pasta Alfredo,Main Course,T20,1,375.72,Ali
+RST-2436,2026-01-04,Soft Drink,Beverages,T20,1,764.37,Sara
+RST-2437,2026-04-20,Coffee,Beverages,T3,1,1317.25,
+RST-2438,2026-07-10,Grilled Chicken,Main Course,T11,3,1281.63,Ali
+RST-2439,2026-07-08,Chocolate Cake,,T17,2,1530.94,Bilal
+RST-2440,2026-05-21,Fresh Juice,Beverages,T11,3,943.23,
+RST-2441,2026-02-19,Spring Rolls,Starters,T15,2,1140.18,Ali
+RST-2442,2026-01-19,Fresh Juice,Beverages,T9,1,955.28,Sara
+RST-2443,2026-05-31,Veg Biryani,Main Course,T9,4,6118.96,
+RST-2444,2026-02-08,Ice Cream,Desserts,T16,1,190.85,
+RST-2445,2026-06-08,Fresh Juice,Beverages,T20,1,273.1,Hina
+RST-2446,2026-08-12,Soft Drink,Beverages,T20,4,3196.56,
+RST-2447,2026-03-21,Garlic Bread,Starters,T5,3,3064.89,
+RST-2448,2026-07-06,Soup of the Day,Starters,T15,2,3003.3,Bilal
+RST-2449,2026-03-27,Mocktail,Beverages,T19,3,2006.07,Hina
+RST-2450,2026-08-13,Chocolate Cake,Desserts,T20,1,560.42,Ali
+RST-2451,2026-01-17,Beef Steak,Main Course,T17,3,2352.93,Bilal
+RST-2452,2026-01-09,Fruit Custard,Desserts,T18,2,3574.2,Ali
+RST-2453,2026-03-14,Pasta Alfredo,Main Course,T8,1,748.8,Sara
+RST-2454,2026-05-11,Garlic Bread,,T8,3,4110.69,Bilal
+RST-2455,2026-06-21,Coffee,Beverages,T11,1,1311.97,Hina
+RST-2456,2026-02-08,Chocolate Cake,Desserts,T5,2,3588.88,Sara
+RST-2457,2026-05-26,Nachos,Starters,T10,4,3540.44,Sara
+RST-2458,2026-03-06,Soup of the Day,Starters,T19,3,4013.28,
+RST-2459,2026-01-21,Chocolate Cake,Desserts,T19,2,2225.04,Sara
+RST-2460,2026-04-02,Fruit Custard,Desserts,T14,3,5337.93,Ali
+RST-2461,2026-03-07,Coffee,Beverages,T18,2,1210.38,Ali
+RST-2462,2026-02-25,Veg Biryani,Main Course,T2,2,2624.5,Hina
+RST-2463,2026-06-15,Soft Drink,Beverages,T4,3,4727.16,Sara
+RST-2464,2026-01-21,Grilled Chicken,Main Course,T3,2,2283.38,
+RST-2465,2026-03-11,Fruit Custard,Desserts,T18,2,316.66,Ali
+RST-2466,2026-08-11,Chocolate Cake,Desserts,T1,2,1361.1,Hina
+RST-2467,2026-04-17,Coffee,Beverages,T2,2,489.58,Ali
+RST-2468,2026-04-29,Ice Cream,Desserts,T1,4,2296.32,Ali
+RST-2469,2026-06-07,Fruit Custard,Desserts,T11,3,727.29,Sara
+RST-2470,2026-05-16,Spring Rolls,Starters,T3,2,994.6,Bilal
+RST-2471,2026-05-31,Ice Cream,Desserts,T18,3,3116.37,Sara
+RST-2472,2026-05-03,Chocolate Cake,Desserts,T2,3,4476.6,Bilal
+RST-2473,2026-08-29,Coffee,Beverages,T9,3,3040.44,Sara
+RST-2474,2026-07-27,Chocolate Cake,Desserts,T12,4,1258.6,Sara
+RST-2475,2026-06-09,Pasta Alfredo,Main Course,T5,1,1695.97,Ali
+RST-2476,2026-06-05,Soup of the Day,Starters,T12,2,1155.08,Sara
+RST-2477,2026-07-01,Beef Steak,Main Course,T8,1,728.87,Hina
+RST-2478,2026-04-10,Soft Drink,Beverages,T15,3,4910.1,Sara
+RST-2479,2026-01-04,Chocolate Cake,Desserts,T3,1,1239.05,Hina
+RST-2480,2026-04-15,Chocolate Cake,Desserts,T13,2,2161.86,Sara
+RST-2481,2026-04-22,Garlic Bread,Starters,T8,1,,Sara
+RST-2482,2026-06-14,Chocolate Cake,Desserts,T9,3,4207.89,Bilal
+RST-2483,2026-08-28,Soft Drink,Beverages,T9,2,1875.32,Sara
+RST-2484,2026-05-05,Ice Cream,Desserts,T8,1,697.02,Sara
+RST-2485,2026-01-14,Fruit Custard,Desserts,T7,4,1999.64,Bilal
+RST-2486,2026-02-05,Nachos,Starters,T10,2,1734.86,Ali
+RST-2487,2026-03-19,Soup of the Day,Starters,T5,1,370.08,
+RST-2488,2026-04-12,Chocolate Cake,Desserts,T3,2,1832.78,Hina
+RST-2489,2026-08-18,Fruit Custard,Desserts,T2,4,6420.88,
+RST-2490,2026-05-10,Beef Steak,Main Course,T20,1,212.49,Sara
+RST-2491,2026-08-17,Fresh Juice,Beverages,T11,1,229.73,Ali
+RST-2492,2026-05-15,Spring Rolls,Starters,T14,4,7005.88,Ali
+RST-2493,2026-05-20,Beef Steak,Main Course,T17,2,2389.56,Ali
+RST-2494,2026-02-25,Ice Cream,Desserts,T8,1,726.58,Ali
+RST-2495,2026-03-10,Fruit Custard,Desserts,T3,2,350.18,Ali
+RST-2496,2026-04-03,Grilled Chicken,,T9,4,5810.84,Ali
+RST-2497,2026-05-20,Fruit Custard,Desserts,T10,1,1227.64,
+RST-2498,2026-08-12,Fruit Custard,Desserts,T9,4,7083.6,Hina
+RST-2499,2026-02-08,Coffee,Beverages,T13,4,3127.64,Hina
+RST-2500,2026-05-09,Soft Drink,Beverages,T9,1,544.5,
+RST-2501,2026-01-23,Soft Drink,Beverages,T20,2,2489.3,Ali
+RST-2502,2026-04-24,Nachos,Starters,T18,3,3840.0,Bilal
+RST-2503,2026-08-07,Fresh Juice,Beverages,T16,4,,
+RST-2504,2026-06-11,Fruit Custard,Desserts,T13,4,2147.28,Bilal
+RST-2505,2026-06-23,Nachos,Starters,T11,3,3483.42,Ali
+RST-2506,2026-05-02,Veg Biryani,Main Course,T12,3,4948.29,
+RST-2507,2026-07-13,Soft Drink,Beverages,T17,2,517.3,Bilal
+RST-2508,2026-02-14,Beef Steak,Main Course,T5,3,1631.28,Hina
+RST-2509,2026-08-02,Grilled Chicken,Main Course,T14,3,2337.24,Ali
+RST-2510,2026-04-04,Soft Drink,Beverages,T12,3,2306.97,
+RST-2511,2026-03-16,Ice Cream,Desserts,T15,1,603.77,Ali
+RST-2512,2026-02-08,Mocktail,Beverages,T1,2,2804.04,Sara
+RST-2513,2026-05-14,Ice Cream,Desserts,T11,2,2355.06,Hina
+RST-2514,2026-03-08,Chocolate Cake,Desserts,T2,2,302.66,
+RST-2515,2026-03-07,Veg Biryani,Main Course,T8,3,4988.79,Bilal
+RST-2516,2026-02-21,Fresh Juice,Beverages,T5,4,6268.68,Hina
+RST-2517,2026-07-03,Fruit Custard,Desserts,T15,3,5006.58,Hina
+RST-2518,2026-04-21,Chocolate Cake,Desserts,T20,3,5250.42,Bilal
+RST-2519,2026-02-03,Chocolate Cake,Desserts,T20,4,6208.0,Sara
+RST-2520,2026-01-19,Chocolate Cake,Desserts,T3,2,1387.18,Hina
+RST-2521,2026-08-19,Mocktail,Beverages,T1,4,3877.56,Ali
+RST-2522,2026-05-02,Mocktail,Beverages,T6,4,3338.28,Ali
+RST-2523,2026-07-12,Mocktail,Beverages,T1,4,1492.84,Sara
+RST-2524,2026-03-17,Pasta Alfredo,Main Course,T18,1,1677.53,Bilal
+RST-2525,2026-08-06,Mocktail,Beverages,T3,1,298.59,
+RST-2526,2026-07-12,Spring Rolls,Starters,T7,4,1182.44,
+RST-2527,2026-05-04,Fresh Juice,Beverages,T2,2,2646.5,
+RST-2528,2026-08-12,Soft Drink,Beverages,T5,4,5991.2,Bilal
+RST-2529,2026-05-18,Chocolate Cake,Desserts,T9,1,457.14,
+RST-2530,2026-06-19,Chocolate Cake,Desserts,T10,3,2349.42,
+RST-2531,2026-03-05,Mocktail,Beverages,T13,1,656.3,Hina
+RST-2532,2026-02-23,Ice Cream,Desserts,T18,2,734.78,Bilal
+RST-2533,2026-07-25,Mocktail,Beverages,T11,2,1506.9,Sara
+RST-2534,2026-01-18,Fresh Juice,Beverages,T14,3,492.12,
+RST-2535,2026-04-23,Chocolate Cake,Desserts,T10,3,,Sara
+RST-2536,2026-04-24,Pasta Alfredo,Main Course,T7,4,6770.08,Sara
+RST-2537,2026-02-01,Soup of the Day,Starters,T2,4,6263.6,Sara
+RST-2538,2026-07-04,Nachos,Starters,T18,2,346.84,Sara
+RST-2539,2026-05-17,Soft Drink,Beverages,T6,3,4419.54,Sara
+RST-2540,2026-07-20,Grilled Chicken,Main Course,T3,4,1228.56,Ali
+RST-2541,2026-04-24,Soft Drink,Beverages,T14,3,3945.75,Sara
+RST-2542,2026-04-25,Soup of the Day,Starters,T10,1,414.24,Sara
+RST-2543,2026-03-08,Fruit Custard,Desserts,T11,2,1321.56,
+RST-2544,2026-01-09,Beef Steak,Main Course,T11,2,1591.96,Hina
+RST-2545,2026-06-27,Veg Biryani,Main Course,T3,2,,Sara
+RST-2546,2026-06-23,Soft Drink,Beverages,T13,2,1718.54,Ali
+RST-2547,2026-02-23,Garlic Bread,Starters,T17,1,1234.87,
+RST-2548,2026-07-12,Garlic Bread,Starters,T16,4,2896.48,Ali
+RST-2549,2026-06-03,Pasta Alfredo,Main Course,T19,3,4726.77,
+RST-2550,2026-07-16,Soup of the Day,Starters,T8,2,1852.5,
+RST-2551,2026-03-30,Chocolate Cake,Desserts,T7,1,1746.14,Sara
+RST-2552,2026-04-26,Chocolate Cake,Desserts,T16,2,1399.34,Sara
+RST-2553,2026-07-21,Fruit Custard,Desserts,T10,3,1335.33,Ali
+RST-2554,2026-06-02,Fresh Juice,Beverages,T13,1,1450.18,Hina
+RST-2555,2026-01-25,Spring Rolls,Starters,T14,1,997.05,Sara
+RST-2556,2026-06-19,Coffee,Beverages,T6,1,768.28,Bilal
+RST-2557,2026-06-15,Grilled Chicken,Main Course,T16,3,474.51,Bilal
+RST-2558,2026-03-03,Veg Biryani,Main Course,T4,1,325.78,Sara
+RST-2559,2026-03-04,Coffee,Beverages,T6,1,685.05,
+RST-2560,2026-03-14,Garlic Bread,Starters,T13,3,5149.5,
+RST-2561,2026-05-17,Beef Steak,Main Course,T17,2,2697.72,Sara
+RST-2562,2026-05-06,Spring Rolls,Starters,T19,1,1706.47,Sara
+RST-2563,2026-03-09,Grilled Chicken,Main Course,T1,2,807.06,Hina
+RST-2564,2026-01-31,Fresh Juice,Beverages,T3,3,3270.57,
+RST-2565,2026-07-20,Beef Steak,Main Course,T17,2,2264.48,Ali
+RST-2566,2026-01-11,Grilled Chicken,Main Course,T7,3,5315.61,
+RST-2567,2026-07-14,Veg Biryani,Main Course,T15,3,865.8,
+RST-2568,2026-04-16,Grilled Chicken,Main Course,T14,3,5104.53,Ali
+RST-2569,2026-06-23,Soup of the Day,Starters,T6,2,2721.4,Sara
+RST-2570,2026-02-26,Chocolate Cake,Desserts,T11,2,954.06,Ali
+RST-2571,2026-07-19,Nachos,Starters,T11,1,970.59,Ali
+RST-2572,2026-07-21,Soup of the Day,Starters,T14,1,1545.45,Ali
+RST-2573,2026-05-07,Fruit Custard,Desserts,T16,2,2951.04,Sara
+RST-2574,2026-07-10,Fruit Custard,Desserts,T15,3,4928.67,
+RST-2575,2026-07-20,Pasta Alfredo,,T17,4,6046.16,Bilal
+RST-2576,2026-08-05,Spring Rolls,Starters,T8,3,4166.04,Sara
+RST-2577,2026-05-28,Pasta Alfredo,Main Course,T2,2,3195.94,Hina
+RST-2578,2026-01-23,Coffee,Beverages,T8,4,3281.2,Bilal
+RST-2579,2026-06-04,Coffee,Beverages,T1,1,645.78,Ali
+RST-2580,2026-04-28,Mocktail,,T5,4,4591.4,Bilal
+RST-2581,2026-04-30,Grilled Chicken,Main Course,T20,3,2399.67,Ali
+RST-2582,2026-02-17,Ice Cream,Desserts,T15,1,1787.56,Hina
+RST-2583,2026-01-11,Grilled Chicken,Main Course,T13,2,2553.74,Sara
+RST-2584,2026-04-03,Coffee,Beverages,T6,3,5190.66,Sara
+RST-2585,2026-03-23,Fruit Custard,,T17,4,2636.56,
+RST-2586,2026-01-01,Beef Steak,Main Course,T6,4,4079.48,Ali
+RST-2587,2026-06-23,Pasta Alfredo,Main Course,T4,3,4096.11,
+RST-2588,2026-01-20,Soft Drink,Beverages,T17,3,3748.23,
+RST-2589,2026-04-03,Ice Cream,Desserts,T10,3,5191.32,Hina
+RST-2590,2026-01-05,Nachos,Starters,T2,4,3000.56,Ali
+RST-2591,2026-08-17,Mocktail,Beverages,T5,3,4167.81,
+RST-2592,2026-01-02,Fresh Juice,Beverages,T9,3,2838.24,Sara
+RST-2593,2026-05-31,Grilled Chicken,Main Course,T9,4,1745.64,Sara
+RST-2594,2026-04-15,Fruit Custard,Desserts,T3,1,844.16,Hina
+RST-2595,2026-08-02,Coffee,Beverages,T19,3,2054.79,Hina
+RST-2596,2026-07-26,Garlic Bread,Starters,T2,2,962.58,Sara
+RST-2597,2026-08-21,Fruit Custard,Desserts,T2,2,2548.64,
+RST-2598,2026-02-17,Ice Cream,Desserts,T9,3,5212.53,Bilal
+RST-2599,2026-04-14,Soft Drink,Beverages,T4,3,5043.84,Bilal
+RST-2535,2026-04-23,Chocolate Cake,Desserts,T10,3,,Sara
+RST-2463,2026-06-15,Soft Drink,Beverages,T4,3,4727.16,Sara
+RST-2119,2026-04-03,Fresh Juice,Beverages,T13,3,4005.75,Sara
+RST-2158,2026-02-13,Fresh Juice,Beverages,T5,3,4099.38,Bilal
+RST-2231,2026-04-27,Garlic Bread,Starters,T7,3,2481.24,Sara
+RST-2400,2026-06-23,Coffee,Beverages,T7,4,3957.16,Hina
+RST-2558,2026-03-03,Veg Biryani,Main Course,T4,1,325.78,Sara
+RST-2278,2026-03-14,Mocktail,,T1,2,2964.68,Bilal
